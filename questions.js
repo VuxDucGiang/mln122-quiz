@@ -1,6 +1,6 @@
 /**
  * Bộ dữ liệu câu hỏi trắc nghiệm MLN122 (Kinh tế chính trị Mác - Lênin)
- * Tự động chuyển đổi từ file MLN122.docx
+ * Tự động chuyển đổi từ file MLN122.docx - Đã qua kiểm tra và chuẩn hóa chính tả
  * Tổng số câu: 718 câu hỏi
  */
 
@@ -860,18 +860,18 @@ window.QUIZ_DATA = {
   },
   {
     "id": 2,
-    "question": "Phương thức sản xuất tư bản chủ nghĩa hình thành va thay thế cho phương thức sản sản xuất nào?",
+    "question": "Phương thức sản xuất tư bản chủ nghĩa hình thành và thay thế cho phương thức sản xuất nào?",
     "options": [
-      "A. Phương thức sản xuất phong kiến",
-      "B. Phương thức sản xuất chiếm hữu nô lệ",
-      "C. Phương thức sản xuất cộng sản nguyên thuỷ",
-      "D. Phương thức sản xuất cộng sản chủ nghĩa"
+      "Phương thức sản xuất phong kiến",
+      "Phương thức sản xuất chiếm hữu nô lệ",
+      "Phương thức sản xuất cộng sản nguyên thuỷ",
+      "Phương thức sản xuất cộng sản chủ nghĩa"
     ],
     "answer": "A"
   },
   {
     "id": 3,
-    "question": "Kinh tế chính trị cổ điển Anh được hình thành va phát triển từ cuối thế ky XVIII đến nửa đầu thế ky XIX, mở đầu bang các quan điếm lý luân của nhà kinh tế chính trị hoc nào sau day?",
+    "question": "Kinh tế chính trị cổ điển Anh được hình thành và phát triển từ cuối thế kỷ XVIII đến nửa đầu thế kỷ XIX, mở đầu bằng các quan điểm lý luận của nhà kinh tế chính trị học nào sau đây?",
     "options": [
       "A. David Ricardo",
       "B. Adam Smith",
@@ -884,21 +884,21 @@ window.QUIZ_DATA = {
     "id": 4,
     "question": "Lý luận kinh tế chính trị của C. Mác và Ph. Ăngghen được cô đọng và tập trung trong tác phẩm nào?",
     "options": [
-      "A. Tư bản",
-      "B. Ban thảo kinh tế - tnét học",
+      "Tư bản",
+      "B. Bản thảo kinh tế - triết học",
       "C. Lược thảo phê phán khoa kinh tế chính trị",
-      "D. Tuyên ngôn của Đảng Công sản"
+      "D. Tuyên ngôn của Đảng Cộng sản"
     ],
     "answer": "A"
   },
   {
     "id": 5,
-    "question": "Chức năng nào của kinh tế chính trị Mác - Lénin thé hiện sự van dụng đúng các quy luật kinh tế khách quan thông qua điều chỉnh hành vi cá nhân hoặc các chính sách kinh tế sẽ góp phần thúc đấy kinh tế - xã hội phát triển theo hướng tiến bộ?",
+    "question": "Chức năng nào của kinh tế chính trị Mác - Lênin thể hiện sự vận dụng đúng các quy luật kinh tế khách quan thông qua điều chỉnh hành vi cá nhân hoặc các chính sách kinh tế sẽ góp phần thúc đẩy kinh tế - xã hội phát triển theo hướng tiến bộ?",
     "options": [
-      "A. Chức năng thực tiễn",
-      "B. Chúc năng nhân thức",
-      "C. Chức năng tư tưởng",
-      "D. Chức năng phương pháp luận"
+      "Chức năng thực tiễn",
+      "B. Chức năng nhận thức",
+      "Chức năng tư tưởng",
+      "Chức năng phương pháp luận"
     ],
     "answer": "A"
   },
@@ -906,10 +906,10 @@ window.QUIZ_DATA = {
     "id": 6,
     "question": "Hai hang hoá trao đổi được với nhau vì lí do gì?",
     "options": [
-      "A. Chúng củng là sản phẩm của lao dong",
+      "A. Chúng cũng là sản phẩm của lao động",
       "B. Có lượng thời gian hao phí lao động cần thiết đế sản xuất ra chúng bằng nhau",
-      "C. Các phương an trả lời đều dung",
-      "D. Chúng có củng giá trị sử dung"
+      "C. Các phương án trả lời đều dung",
+      "D. Chúng có cũng giá trị sử dụng"
     ],
     "answer": "C"
   },
@@ -917,9 +917,9 @@ window.QUIZ_DATA = {
     "id": 7,
     "question": "Nền kinh tế hàng hoá có thế hình thành vả phát triển khi có các điều kiện nào?",
     "options": [
-      "A. Phần công lao động xã hồi va sự tách biệt về mặt kinh tế của các chủ thế sản xuất.",
+      "A. Phần công lao động xã hội và sự tách biệt về mặt kinh tế của các chủ thế sản xuất.",
       "B. Của cải dư thửa",
-      "C. Khi có chế độ tư hữu xuất hiện",
+      "Khi có chế độ tư hữu xuất hiện",
       "D. Sư tách biệt vẽ mặt kinh tế của các chủ thé sản xuất"
     ],
     "answer": "A"
@@ -939,9 +939,9 @@ window.QUIZ_DATA = {
     "id": 9,
     "question": "Tiền tệ ra đời là do nhu cầu gì?",
     "options": [
-      "A. Nhu cầu sản xuất hang hóa va trao đối hang hóa",
+      "A. Nhu cầu sản xuất hang hóa và trao đổi hang hóa",
       "B. Nhu cãu lưu thông hang hóa",
-      "C. Nhu cau lưu thong tiên tệ",
+      "C. Nhu cau lưu thông tiên tệ",
       "D. Nhu cau sản xuất gia trị"
     ],
     "answer": "A"
@@ -952,7 +952,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Hoạt động sản xuất của cải vật chất",
       "B. Hoạt động nghệ thuật, thể thao",
-      "C. Hoat động chính trị",
+      "C. Hoạt động chính trị",
       "D. Hoạt động kinh tế của xã hội"
     ],
     "answer": "A"
@@ -961,10 +961,10 @@ window.QUIZ_DATA = {
     "id": 11,
     "question": "Khi nào xuất hiện hình thái tiền tệ?",
     "options": [
-      "A. Khi sản xuất vả trao đối đã phát triển",
-      "B. Khi vật ngang giá chung được cố định ở vảng, bac",
-      "C. Khi không con quan hệ trao đối trực tiếp, có một thứ hang làm trung gian trong trao đối",
-      "D. Khi nhu cãu trao đối vượt qua pham vi quốc gia"
+      "Khi sản xuất vả trao đổi đã phát triển",
+      "Khi vật ngang giá chung được cố định ở vảng, bac",
+      "Khi không con quan hệ trao đổi trực tiếp, có một thứ hang làm trung gian trong trao đổi",
+      "Khi nhu cãu trao đổi vượt qua pham vi quốc gia"
     ],
     "answer": "B"
   },
@@ -974,8 +974,8 @@ window.QUIZ_DATA = {
     "options": [
       "A. A. Smith và là cầu nói đúng",
       "B. Ð. Ricacdô và là cầu nói đúng",
-      "C. C. Mac va là cau nói đúng",
-      "D. Ð.Ricacdõ va là cau nói sai"
+      "C. C. Mac và là cau nói đúng",
+      "D. Ð.Ricacdõ và là cau nói sai"
     ],
     "answer": "A"
   },
@@ -986,7 +986,7 @@ window.QUIZ_DATA = {
       "A. Bắt nguồn tử mầu thuẫn của bản chất của chủ nghĩa tư bản",
       "B. Do sản xuất không có kế hoach",
       "C. Do chạy theo lợi nhuận",
-      "D. Do nha nước can thiệp qua mức"
+      "D. Do nhà nước can thiệp qua mức"
     ],
     "answer": "A"
   },
@@ -994,9 +994,9 @@ window.QUIZ_DATA = {
     "id": 14,
     "question": "Tư bản cố định có vai trò gì?",
     "options": [
-      "A. Là nguồn gốc của giá tn thăng dư",
-      "B. La điệu kiện để tang năng suất lao dong",
-      "C. Các phương an trả lời đều sai",
+      "A. Là nguồn gốc của giá trị thăng dư",
+      "B. La điệu kiện để tang năng suất lao động",
+      "C. Các phương án trả lời đều sai",
       "D. La hệ qua của qua trinh bóc lột"
     ],
     "answer": "B"
@@ -1005,10 +1005,10 @@ window.QUIZ_DATA = {
     "id": 15,
     "question": "Tuần hoàn tư bản là sự vận động của tư bản lần lượt trải qua ba giai đoạn dưới hình thái nào?",
     "options": [
-      "A. Tư bản tiền tệ - tư bản sản xuất - tư bản hang hoá",
-      "B. Tư bản sản xuất - tư bản hang hoá - tư bản tiền tế",
-      "C. Tư bản hang hoa - tư bản sản xuất- tư bản tiên tệ",
-      "D. Tư bản tiền tệ - tư bản hang hoa - tư bản sản xuất"
+      "Tư bản tiền tệ - tư bản sản xuất - tư bản hang hoá",
+      "Tư bản sản xuất - tư bản hang hoá - tư bản tiền tế",
+      "Tư bản hang hoa - tư bản sản xuất- tư bản tiên tệ",
+      "Tư bản tiền tệ - tư bản hang hoa - tư bản sản xuất"
     ],
     "answer": "A"
   },
@@ -1035,7 +1035,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 18,
-    "question": "Khi sử dung hàng hóa sức lao đồng sẽ tạo ra giá trị như thế nào?",
+    "question": "Khi sử dụng hàng hóa sức lao đồng sẽ tạo ra giá trị như thế nào?",
     "options": [
       "A. Giá trị mới bằng giá trị bản thần nó",
       "B. Giá trị mới lớn hơn giá trị bản thần nó",
@@ -1049,7 +1049,7 @@ window.QUIZ_DATA = {
     "question": "Tăng trưởng kinh tế là gì?",
     "options": [
       "A. Tăng năng suất lao động",
-      "B. Tang GDP va GNP trong một thời ky nhất định",
+      "B. Tang GDP và GNP trong một thời kỳ nhất định",
       "C. Tang hiệu quả của sản xuất",
       "D. Tang lãi suất ngan hang"
     ],
@@ -1057,34 +1057,34 @@ window.QUIZ_DATA = {
   },
   {
     "id": 20,
-    "question": "Phạm trù lợi nhuận chẳng qua chỉ là một hình thái thần bí hóa của giá trị thăng du, nguyên nhân của việc này xuất phát tử dau? (chon nhiều đáp án)",
+    "question": "Phạm trù lợi nhuận chẳng qua chỉ là một hình thái thần bí hóa của giá trị thặng dư, nguyên nhân của việc này xuất phát tử dau? (chon nhiều đáp án)",
     "options": [
-      "A. Sự hình thành chi phi sản xuất tư bản chủ nghĩa đã xóa nhoa sự khác nhau giữa c (tư bản bất biến) vả v (tư ản khả biến)",
-      "B. Do chi phi sản xuất tư bản chủ nghĩa luôn nhỏ hơn chi phí sản xuất thực tế",
-      "C. Su hinh thành của giá trị thăng dư va chi phi sản xuất tư bản chủ nghĩa",
+      "A. Sự hình thành chi phí sản xuất tư bản chủ nghĩa đã xóa nhoa sự khác nhau giữa c (tư bản bất biến) vả v (tư ản khả biến)",
+      "B. Do chi phí sản xuất tư bản chủ nghĩa luôn nhỏ hơn chi phí sản xuất thực tế",
+      "C. Su hinh thành của giá trị thăng dư và chi phí sản xuất tư bản chủ nghĩa",
       "D. Chị phí sản xuất tư bản chủ nghĩa luôn luôn nhỏ hơn giá của của hàng hóa bản ra"
     ],
     "answer": "AC"
   },
   {
     "id": 21,
-    "question": "Sở hữu độc quyền nha nước là sự kết hợp của các hình thức sở hữu nao?",
+    "question": "Sở hữu độc quyền nhà nước là sự kết hợp của các hình thức sở hữu nao?",
     "options": [
-      "A. Sở hữu nha nước và sở hữu độc quyền tư nhần",
+      "A. Sở hữu nhà nước và sở hữu độc quyền tư nhần",
       "B. Sở hữu của liên minh các tập đoàn độc quyền",
       "C. Sở hữu của liên minh các nhả nước tư sản",
-      "D. Sở hữu nha nước ở chính quốc và thuốc địa"
+      "D. Sở hữu nhà nước ở chính quốc và thuốc địa"
     ],
     "answer": "A"
   },
   {
     "id": 22,
-    "question": "Trong giai đoạn chủ nghĩa tư bản độc quyền, ngoài sự cạnh tranh giữa những người sản xuất nhỏ, giữa những nha tu bản via và nhỏ như trong giai đoạn chủ nghĩa tư bản cạnh tranh tu do, ma còn có thêm các loại canh tranh nao?",
+    "question": "Trong giai đoạn chủ nghĩa tư bản độc quyền, ngoài sự cạnh tranh giữa những người sản xuất nhỏ, giữa những nha tu bản via và nhỏ như trong giai đoạn chủ nghĩa tư bản cạnh tranh tu do, mà còn có thêm các loại canh tranh nao?",
     "options": [
       "A. cạnh tranh giữa các tố chức độc quyền với các xí nghiệp ngoài độc quyền",
       "B. Cạnh tranh giữa các tố chức độc quyền với nhau",
       "C. Cạnh tranh trong nội bộ các tố chức độc quyền",
-      "D. Cạnh tranh giữa các tố chức tư bản đốc quyền nha nước với nhau"
+      "D. Cạnh tranh giữa các tố chức tư bản đốc quyền nhà nước với nhau"
     ],
     "answer": "ABC"
   },
@@ -1100,11 +1100,11 @@ window.QUIZ_DATA = {
   },
   {
     "id": 24,
-    "question": "Sự ra đời của CNTB độc quyền nha nước nhdm mục đích gì?",
+    "question": "Sự ra đời của CNTB độc quyền nhà nước nhdm mục đích gì?",
     "options": [
-      "A. Phục vụ lợi ích của tố chức độc quyền tư nhân va cứu nguy cho chủ nghĩa tư bản",
+      "A. Phục vụ lợi ích của tố chức độc quyền tư nhân và cứu nguy cho chủ nghĩa tư bản",
       "B. Phuc vụ lợi ích của tố chức độc quyền tư nhân",
-      "C. Phuc vụ lợi ich của nha nước tư sản",
+      "C. Phuc vụ lợi ich của nhà nước tư sản",
       "D. Phục vụ cho lại ich chung của toàn xã hội"
     ],
     "answer": "A"
@@ -1113,7 +1113,7 @@ window.QUIZ_DATA = {
     "id": 25,
     "question": "Những tác động tiéu cực của độc quyền đối với nền kinh tế thị trường đó là gì? (chon nhiều đáp án)",
     "options": [
-      "A. Làm cho cạnh tranh không hoản hảo gây thiệt hai cho người tiêu dùng va xã hồi",
+      "A. Làm cho cạnh tranh không hoản hảo gây thiệt hai cho người tiêu dùng và xã hội",
       "B. Kim hãm sư tiến bộ của khoa học kỹ thuật tử đó kìm hãm sự phát triển kinh tế",
       "C. Gay ra hiện tượng phan hóa giau nghèo",
       "D. Gay ra chiến tranh"
@@ -1138,18 +1138,18 @@ window.QUIZ_DATA = {
       "A. Tích luỹ nguyên thuỷ",
       "B. Sự phát triển manh mẽ của phương tiên giao thông van tải nhỡ đó mở rong giao lưu buôn bán quốc tế",
       "C. Sự tác dong của quy luật gia tri",
-      "D. Sự điều tiết của nha nước tư sản"
+      "D. Sự điều tiết của nhà nước tư sản"
     ],
     "answer": "A"
   },
   {
     "id": 28,
-    "question": "\"Tư bản tài chính là kết quả của sự hợp nhất giữa tư bản ngần hàng của một số ít ngần hàng độc quyền lớn nhất, với tư bản của những liên minh độc quyền các nha công nghiệp.\" Câu nói trên của ai?",
+    "question": "\"Tư bản tài chính là kết quả của sự hợp nhất giữa tư bản ngân hàng của một số ít ngân hàng độc quyền lớn nhất, với tư bản của những liên minh độc quyền các nhà công nghiệp.\" Câu nói trên của ai?",
     "options": [
-      "A. C.Mac",
-      "B. Ph. Angghen",
-      "C. V.I.Lênin",
-      "D. Hö Chi Minh"
+      "A. C. Mác",
+      "B. Ph. Ăngghen",
+      "C. V.I. Lênin",
+      "D. Hồ Chí Minh"
     ],
     "answer": "C"
   },
@@ -1158,7 +1158,7 @@ window.QUIZ_DATA = {
     "question": "Sư phát triển của các tổ chức độc quyền trong ngần hang đã làm thay đối quan hệ giữa ngần hang và các doanh nghiệp công nghiệp như thế nao?",
     "options": [
       "A. Từ trung gian thanh toán trở thành khống chế mọi hoạt động kinh tế - xã hội",
-      "B. Từ trung gian thanh toán trở thành cố đồng của các doanh nghiệp nha nước",
+      "B. Từ trung gian thanh toán trở thành cố đồng của các doanh nghiệp nhà nước",
       "C. Tử hoạt dong cho vay trở thành hoạt dong khống chế doanh tư nhân",
       "D. Tử hoạt động cho vay trở thành chi phối các doanh nghiệp"
     ],
@@ -1166,9 +1166,9 @@ window.QUIZ_DATA = {
   },
   {
     "id": 30,
-    "question": "Quan điểm “đổi mới phải luôn luôn quán triệt quan điểm “dân là gốc” vì lợi ích của nhân dan, dựa vào nhần dan, phát huy vai trò làm chủ, tinh thần trách nhiệm, sức sang tao va mọi nguồn lực của nhân dân; phát huy sức manh dai đoàn kết dan tộc\" được đưa ra trong đại hội nao?",
+    "question": "Quan điểm “đổi mới phải luôn luôn quán triệt quan điểm “dân là gốc” vì lợi ích của nhân dan, dựa vào nhần dan, phát huy vai trò làm chủ, tinh thần trách nhiệm, sức sang tao và mọi nguồn lực của nhân dân; phát huy sức manh dai đoàn kết dan tộc\" được đưa ra trong đại hội nao?",
     "options": [
-      "A. Đại hội dang X",
+      "Đại hội dang X",
       "B. Dai hội dang XI Đại hội dang XII Đại hội dang XIII"
     ],
     "answer": "C"
@@ -1177,7 +1177,7 @@ window.QUIZ_DATA = {
     "id": 31,
     "question": "WiVL TIT kí. Xi iA/ EAzk Đại hồi nào của Đảng Cong sản Việt Nam đề cập đến sự cần thiết đối mới cơ chế quản lý kinh tế?",
     "options": [
-      "A. Đại hội đảng V Đai hội đảng VI Đai hội đảng VII Đại hội dang VIII"
+      "Đại hội đảng V Đai hội đảng VI Đai hội đảng VII Đại hội dang VIII"
     ],
     "answer": "B"
   },
@@ -1186,18 +1186,18 @@ window.QUIZ_DATA = {
     "question": "Thế chế được hiểu là gì?",
     "options": [
       "A. Những quy tắc, pháp luật, bộ máy quản lí và cơ chế van hành nhằm điều chỉnh các hoat dong của con người trong 1 chế do xã hội",
-      "B. Luật chơi chính thức va phi chính thức được dat ra đối với các chủ thế tham gia hoat động trong nền kinh tế",
-      "C. ủa một quốc gia trong mot giai đoan lịch sử nhất dinh",
-      "D. Được cấu thành bởi hệ thống các bộ phận khác nhau ma mỗi bõ phan cũng là một hệ thống phúc tạp gồm nhiều yếu tõ",
-      "E. Quy luật vận động va phát triển của một cộng đồng xã hội"
+      "B. Luật chơi chính thức và phi chính thức được dat ra đối với các chủ thế tham gia hoạt động trong nền kinh tế",
+      "C. ủa một quốc gia trong một giai đoạn lịch sử nhất dinh",
+      "D. Được cấu thành bởi hệ thống các bộ phận khác nhau mà mỗi bõ phan cũng là một hệ thống phúc tạp gồm nhiều yếu tõ",
+      "Quy luật vận động và phát triển của một cộng đồng xã hội"
     ],
     "answer": "A"
   },
   {
     "id": 33,
-    "question": "Mô hình kinh tế thị trường định hướng xã hồi chủ nghĩa ở nước ta được chính thức nêu ra ở Đại hội nào của Đảng Công sản Việt Nam?",
+    "question": "Mô hình kinh tế thị trường định hướng xã hội chủ nghĩa ở nước ta được chính thức nêu ra ở Đại hội nào của Đảng Cộng sản Việt Nam?",
     "options": [
-      "A. Đại hội VI Đại hội VIII Đai hội IX Đại hội X"
+      "Đại hội VI Đại hội VIII Đai hội IX Đại hội X"
     ],
     "answer": "C"
   },
@@ -1205,10 +1205,10 @@ window.QUIZ_DATA = {
     "id": 34,
     "question": "Trong lịch sử phát triển nền sản xuất xã hội, tiền đề nẻo là quan trong nhất cho sự ra đời và phát triển của nền kinh tế thị trường?",
     "options": [
-      "A. Sản xuất",
-      "B. Trao đối hàng hóa",
+      "Sản xuất",
+      "B. Trao đổi hàng hóa",
       "C. Thị trường",
-      "D. Sản xuất va trao đối hang hóa"
+      "Sản xuất và trao đổi hang hóa"
     ],
     "answer": "D"
   },
@@ -1217,9 +1217,9 @@ window.QUIZ_DATA = {
     "question": "Phan chia theo tiêu chí cấu trúc của các tổ chức tham gia xã hội, thé chế được chia thanh các thé chế nào?",
     "options": [
       "A. Thế chế cồng, thế chế tư",
-      "B. Thế chế nha nước, thể chế tư bản tư nhền",
-      "C. Thế chẽ nước trong va ngoài nước",
-      "D. Thể chế chính trị va thé chẽ kinh tế"
+      "B. Thế chế nhà nước, thể chế tư bản tư nhền",
+      "C. Thế chẽ nước trong và ngoài nước",
+      "D. Thể chế chính trị và thé chẽ kinh tế"
     ],
     "answer": "A"
   },
@@ -1229,7 +1229,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Do chủ nghĩa tư bản sinh ra",
       "B. La nền kinh tế hàng hoá phát triển cao",
-      "C. Ton tại chủ quan trong thời ky quá độ lên chủ nghĩa xã hội",
+      "C. Ton tại chủ quan trong thời kỳ quá độ lên chủ nghĩa xã hội",
       "D. Lả sản phẩm riêng của chủ nghĩa tư bản"
     ],
     "answer": "B"
@@ -1241,7 +1241,7 @@ window.QUIZ_DATA = {
       "A. Phố biến và đặc thủ",
       "B. Phố biến vả cách mang",
       "C. Phố biến và riêng biệt",
-      "D. Phố biến va dai chúng"
+      "D. Phố biến và dai chúng"
     ],
     "answer": "A"
   },
@@ -1249,9 +1249,9 @@ window.QUIZ_DATA = {
     "id": 38,
     "question": "Xây dung nền kinh tế thị rường định hướng xã hội chủ nghĩa ở Việt Nam nhẫm thực hiện mục tiêu gì?",
     "options": [
-      "A. Dân giàu, nước manh, dân chủ, công bằng, văn minh",
+      "A. Dân giàu, nước mạnh, dân chủ, công bằng, văn minh",
       "B. Dan giàu. nước mạnh, công bằng, dan chủ, văn minh",
-      "C. Dãn gidu, nước mạnh, van minh, công bằng, dan chủ",
+      "C. Dãn gidu, nước mạnh, văn minh, công bằng, dan chủ",
       "D. Dãn giau, nước mạnh, dan chủ, văn minh, công bằng"
     ],
     "answer": "A"
@@ -1260,7 +1260,7 @@ window.QUIZ_DATA = {
     "id": 39,
     "question": "Công nghiệp hoá, hiện đại hoá đất nước phải bảo đảm mục đích gì?",
     "options": [
-      "A. Xây dưng nền kinh tế khép kín va hướng nôi",
+      "A. Xây dưng nền kinh tế khép kín và hướng nôi",
       "B. Xây dưng nền kinh tế doc lập tư chủ",
       "C. Xây dung nền kinh tế phải dựa vào su giúp đỡ và lệ thuộc vào các nước tư bản",
       "D. Xây dựng nền kinh tế mở nhưng chỉ giao lưu hợp tác với các nước xã hội chủ nghĩa"
@@ -1269,10 +1269,10 @@ window.QUIZ_DATA = {
   },
   {
     "id": 40,
-    "question": "Me công nghiệp hoá theo kiếu rút ngắn so với các nước đi trước đặc biệt chúng ta cần thực hiện yêu",
+    "question": "Me công nghiệp hoá theo kiểu rút ngắn so với các nước đi trước đặc biệt chúng ta cần thực hiện yêu",
     "options": [
-      "A. Phát triển kinh tế va công nghiệp phải có sự nhảy vot và không cần thực hiện tuần tự",
-      "B. Coi trong phát triển giáo dục va dao tao, khoa học va công nghệ, xem day là nền tang va đồng lực cho",
+      "A. Phát triển kinh tế và công nghiệp phải có sự nhảy vot và không cần thực hiện tuần tự",
+      "B. Coi trong phát triển giáo dục và dao tao, khoa học và công nghệ, xem day là nền tang và đồng lực cho",
       "C. ong nghiệp hóa, hiện dai hóa",
       "D. Phát triển kinh t& trí thức được dỡi lại trong giai đoạn sau",
       "E. Uu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ"
@@ -1281,7 +1281,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 41,
-    "question": "Quan điểm về “xây dựng nền kinh tế tự chủ phải dựa trên cơ sở làm chủ công nghệ và chủ đồng, tích cực hội nhập, da dang hóa thị trường, nâng cao khả năng thích ứng của nền kinh tế\" được đưa ra trong chiến lược phát triển kinh tế - xã hội ở giai đoan nao?",
+    "question": "Quan điểm về “xây dựng nền kinh tế tự chủ phải dựa trên cơ sở làm chủ công nghệ và chủ đồng, tích cực hội nhập, da dang hóa thị trường, nâng cao khả năng thích ứng của nền kinh tế\" được đưa ra trong chiến lược phát triển kinh tế - xã hội ở giai đoạn nao?",
     "options": [
       "A. Chiến lược phát triển kinh tế - xã hội 2001 -2010",
       "B. Chiến lược phát triển kinh tế - xã hội 2011 -2020",
@@ -1295,15 +1295,15 @@ window.QUIZ_DATA = {
     "question": "Cách mạng công nghiệp lên thứ nhất diễn ra trong thời gian nao?",
     "options": [
       "A. Tử giữa thế kỷ XV đến giữa thế kỷ XIX",
-      "B. Tử gữa thế ky XVI đến qiũa thế ky XVII",
-      "C. Tử giữa thế ky XVIII đến giữa thế ky XIX",
-      "D. Từ giữa thế ky XIX đến giữa thé ky XX"
+      "B. Tử gữa thế kỷ XVI đến qiũa thế kỷ XVII",
+      "C. Tử giữa thế kỷ XVIII đến giữa thế kỷ XIX",
+      "D. Từ giữa thế kỷ XIX đến giữa thế kỷ XX"
     ],
     "answer": "C"
   },
   {
     "id": 43,
-    "question": "Khi nghiên cứu về cách mang công nghiệp lần thứ nhất, C. Mác đã khái quát tính quy luật của các mang công nghiệp qua các giai đoan phát triển đó là gì?",
+    "question": "Khi nghiên cứu về cách mang công nghiệp lần thứ nhất, C. Mác đã khái quát tính quy luật của các mang công nghiệp qua các giai đoạn phát triển đó là gì?",
     "options": [
       "A. Hiệp tác đơn giản, lao động thủ công. lao đồng phúc tạp",
       "B. Hiệp tác đơn giản, công trường thủ cong, công nghiệp hóa",
@@ -1317,8 +1317,8 @@ window.QUIZ_DATA = {
     "question": "Yếu tố nào quyết định đến sự hình thành của cách mạng công nghiệp gì?",
     "options": [
       "A. Sư phát triển vượt bắc của quan hệ sản xuất",
-      "B. Phương thức sản xuất mới ra đời",
-      "C. Sự phát tnén nhảy vot về trình do của tư liệu lao dong",
+      "Phương thức sản xuất mới ra đời",
+      "C. Sự phát tnén nhảy vot về trình do của tư liệu lao động",
       "D. Các phát mình sáng chế của các nhà khoa học trên mọi lĩnh vực"
     ],
     "answer": "C"
@@ -1338,7 +1338,7 @@ window.QUIZ_DATA = {
     "id": 46,
     "question": "Điền vào chỗ trống: C. Mác và Ph. Ăngghen đã nhận xét rắng: \"Giai cấp tư sản, trong quá trình thống trị giai cấp chưa đầy một thế kỷ, đã tạo ra những... nhiều hơn và do số hơn... của tất cả các thế hệ trước kia gop lại\"",
     "options": [
-      "A. Lực lượng sản xuất. lực lượng sản xuất",
+      "Lực lượng sản xuất. lực lượng sản xuất",
       "B. Quan hệ sản xuất.. quan hệ sản xuất",
       "C. Của cải.. của cải",
       "D. Vặt chất. vật chất"
@@ -1358,12 +1358,12 @@ window.QUIZ_DATA = {
   },
   {
     "id": 48,
-    "question": "Nội dung công cuộc đại phần công lao đồng xã hồi lần thứ ba là gì?",
+    "question": "Nội dung công cuộc đại phần công lao đồng xã hội lần thứ ba là gì?",
     "options": [
-      "A. Đại công nghiệp tách khỏi nồng nghiệp",
-      "B. Trong trot tách khỏi chăn nuối",
-      "C. Ngành thương nghiệp ra dời",
-      "D. Thủ công nghiệp tách khỏi nöng nghiệp"
+      "A. Đại công nghiệp tách khỏi nông nghiệp",
+      "Trồng trọt tách khỏi chăn nuôi",
+      "C. Ngành thương nghiệp ra đời",
+      "D. Thủ công nghiệp tách khỏi nông nghiệp"
     ],
     "answer": "C"
   },
@@ -1381,10 +1381,10 @@ window.QUIZ_DATA = {
     "id": 50,
     "question": "Cách mạng công nghiệp Bn thứ ba diễn ra trong giai đoạn nào?",
     "options": [
-      "A. Từ đầu thập niên 50 của thế ky XX đến cuối thế kỷ XX",
-      "B. Tử đầu thập niên 60 của thế kỷ XX đến cuối thế ky XX",
-      "C. Tử dau thập niên 70 của thế ky XX đến cuối thế ky XX",
-      "D. Từ dau thập niên 80 của thé ky XX đến cuối thế ky XX"
+      "A. Từ đầu thập niên 50 của thế kỷ XX đến cuối thế kỷ XX",
+      "B. Tử đầu thập niên 60 của thế kỷ XX đến cuối thế kỷ XX",
+      "C. Tử dau thập niên 70 của thế kỷ XX đến cuối thế kỷ XX",
+      "D. Từ dau thập niên 80 của thế kỷ XX đến cuối thế kỷ XX"
     ],
     "answer": "A"
   },
@@ -1411,11 +1411,11 @@ window.QUIZ_DATA = {
   },
   {
     "id": 53,
-    "question": "Mục đích xuyên suốt của kinh tế chính trị Mác - Lénin là gì? (lựa chọn ba đáp án)",
+    "question": "Mục đích xuyên suốt của kinh tế chính trị Mác - Lênin là gì? (lựa chọn ba đáp án)",
     "options": [
-      "A. Hướng đến việc thúc đấy sự giàu có.",
+      "A. Hướng đến việc thúc đẩy sự giàu có.",
       "B. Hướng tới xác lập vi thế kinh tế trong van hóa xã hội.",
-      "C. Cung cấp cơ sở khoa học góp phần thúc đấy trình độ văn minh.",
+      "C. Cung cấp cơ sở khoa học góp phần thúc đẩy trình độ văn minh.",
       "D. Phát triển toàn diện của xã hội."
     ],
     "answer": "ACD"
@@ -1424,7 +1424,7 @@ window.QUIZ_DATA = {
     "id": 54,
     "question": "Lý thuyết ban tay vô hình của Adam Smith được hiếu là gì?",
     "options": [
-      "A. Người bán và người mua, phần bố nguồn lực kinh tế dat được hiệu quả xã hội lớn nhất ma không cần sự an thiệp của chính phủ",
+      "A. Người bán và người mua, phần bố nguồn lực kinh tế dat được hiệu quả xã hội lớn nhất mà không cần sự can thiệp của chính phủ",
       "B. Mô tả khả năng của cơ chế thị trường trong việc điều chỉnh cung cầu trên thị trường.",
       "C. Các cá nhãn tham gia muốn tối đa hóa lợi nhuận cho mình",
       "D. Mọi người đều bị bản tay võ hình dẫn t6i kết quả làm lợi cho chính minh"
@@ -1446,16 +1446,16 @@ window.QUIZ_DATA = {
     "id": 56,
     "question": "San xuất hàng hoá là gì?",
     "options": [
-      "A. Kiếu tố chức kinh tế mả sản phẩm làm ra được mang ra trao đối, mua bán trên thị trưởng để thỏa mãn nhu ầu của xã hội",
-      "B. Kiếu tố chức kinh tế ma sản phẩm làm ra phải tuần thủ các quy luật của thị trường nhằm thỏa mãn nhu cau ủa xã hội",
-      "C. Kiều tổ chúc kinh tế do các quy luật sản xuất va lưu thông quyết định nhằm thỏa mãn nhu cầu của thị trưởng",
-      "D. Kiểu tổ chúc kinh t& ma ở đó nha nưốc đóng vai trò chi phối, quyết định dé có lợi tối đa cho toàn xã hội"
+      "A. Kiếu tố chức kinh tế mả sản phẩm làm ra được mang ra trao đổi, mua bán trên thị trưởng để thỏa mãn nhu ầu của xã hội",
+      "B. Kiếu tố chức kinh tế mà sản phẩm làm ra phải tuần thủ các quy luật của thị trường nhằm thỏa mãn nhu cau ủa xã hội",
+      "C. Kiều tổ chúc kinh tế do các quy luật sản xuất và lưu thông quyết định nhằm thỏa mãn nhu cầu của thị trưởng",
+      "D. Kiểu tổ chúc kinh t& mà ở đó nha nưốc đóng vai trò chi phối, quyết định dé có lợi tối đa cho toàn xã hội"
     ],
     "answer": "A"
   },
   {
     "id": 57,
-    "question": "J Ai là người đề xuất ra ba loại thương nghiệp (trao đối tự nhiên, trao đối tiền tê, trao đổi thông qua mục dich làm giàu) va hai loại kinh doanh (kinh tế, sản xuất của cải)?",
+    "question": "J Ai là người đề xuất ra ba loại thương nghiệp (trao đổi tự nhiên, trao đổi tiền tê, trao đổi thông qua mục dich làm giàu) và hai loại kinh doanh (kinh tế, sản xuất của cải)?",
     "options": [
       "A. Aristoteles",
       "B. Platon",
@@ -1479,10 +1479,10 @@ window.QUIZ_DATA = {
     "id": 59,
     "question": "Hệ thống lý luận kinh tế chính trị nào bước đầu nghiên cứu về nền sản xuất tư bản chủ nghĩa?",
     "options": [
-      "A. Chủ nghĩa trong thương",
-      "B. Chủ nghĩa trong nông",
-      "C. Chủ nghĩa tư bản",
-      "D. Chủ nghĩa xã hội"
+      "Chủ nghĩa trong thương",
+      "Chủ nghĩa trong nông",
+      "Chủ nghĩa tư bản",
+      "Chủ nghĩa xã hội"
     ],
     "answer": "A"
   },
@@ -1499,7 +1499,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 61,
-    "question": "Theo giáo trình, nội dung về kinh tế chính trị của C. Mác va Ph. Ăngghen được trình bày nhiều nhất trong tác phẩm nao?",
+    "question": "Theo giáo trình, nội dung về kinh tế chính trị của C. Mác và Ph. Ăngghen được trình bày nhiều nhất trong tác phẩm nao?",
     "options": [
       "A. Tư Bản",
       "B. Hệ tư tưởng Đức",
@@ -1510,7 +1510,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 62,
-    "question": "Alla người đưa kinh tế chính trị rd thanh mồn khoa học có tính hệ thống với các phạm trù va khái niệm chuyền ngành?",
+    "question": "Alla người đưa kinh tế chính trị rd thanh mồn khoa học có tính hệ thống với các phạm trù và khái niệm chuyền ngành?",
     "options": [
       "A. Adam Smith",
       "B. David Ricardo",
@@ -1521,9 +1521,9 @@ window.QUIZ_DATA = {
   },
   {
     "id": 63,
-    "question": "Mục đích nghiên cứu ở cấp độ cao nhất của kinh tế chính trị Mác - Lénin là gì?",
+    "question": "Mục đích nghiên cứu ở cấp độ cao nhất của kinh tế chính trị Mác - Lênin là gì?",
     "options": [
-      "A. Phát hiện các quy luật chị phối quan hệ giữa người với người trong sản xuất và trao đối",
+      "A. Phát hiện các quy luật chị phối quan hệ giữa người với người trong sản xuất và trao đổi",
       "B. Phát hiện các quy luật chi phối quan hệ giữa người với tự nhiên",
       "C. MG tả các hiện tương kinh tế bé ngoài",
       "D. Đề xuất các chính sách kinh tế cụ thé cho ting giai đoạn"
@@ -1535,7 +1535,7 @@ window.QUIZ_DATA = {
     "question": "Theo giáo trình, đối tương lao động trong kinh tế chính trị được hiểu như thế nào?",
     "options": [
       "A. La những bd phần của giới tư nhiên chưa từng chịu bất ky sư tác dong nao của con người",
-      "B. La vật thế hay phúc hợp vat thế ma con người sử dụng dé tác dong trực tiếp lên tự nhiên",
+      "B. La vật thế hay phúc hợp vat thế mà con người sử dụng dé tác dong trực tiếp lên tự nhiên",
       "C. Những vật mã lao động của con người tác động vào nhằm thay đối nó cho phù hợp với mục dich",
       "D. La toản bộ các điều kiện vat chất cần thiết để tố chức và tiến hành quá trình sản xuất"
     ],
@@ -1545,10 +1545,10 @@ window.QUIZ_DATA = {
     "id": 65,
     "question": "Trong nền kinh tế hàng hoá, quy luật giá trị có những tác động cơ bản nào?",
     "options": [
-      "A. Điều tiết sản xuất va lưu thông hàng hoá",
-      "B. Kích thích cải tiến kỹ thuật, tang năng suất lao dong",
+      "A. Điều tiết sản xuất và lưu thông hàng hoá",
+      "B. Kích thích cải tiến kỹ thuật, tang năng suất lao động",
       "C. Phan hoá những người sản xuất thành giảu - nghèo",
-      "D. Bảo đảm sự công bang tuyết đối trong phần phối thu nhập"
+      "D. Bảo đảm sự công bang tuyết đối trong phân phối thu nhập"
     ],
     "answer": "ABC"
   },
@@ -1557,8 +1557,8 @@ window.QUIZ_DATA = {
     "question": "Những chức năng nao sau đây của tiền tệ đòi hỏi phải có tiền vàng?",
     "options": [
       "A. Thước đo giá trị, phương tiện cất trữ và tiền tệ thế giới",
-      "B. Phương tiên lưu thông va phương tiện thanh toán",
-      "C. Chức năng phương tiền lưu thống",
+      "B. Phương tiên lưu thông và phương tiện thanh toán",
+      "Chức năng phương tiền lưu thống",
       "D. Chức nang thước do giá trị"
     ],
     "answer": "A"
@@ -1587,7 +1587,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 69,
-    "question": "Khi đồng thời tăng năng suất lao động va cường độ lao đồng lên 2 lần thì kết quả nào sau đầy là đúng?",
+    "question": "Khi đồng thời tăng năng suất lao động và cường độ lao đồng lên 2 lần thì kết quả nào sau đầy là đúng?",
     "options": [
       "A. Tổng số hang hoá tăng 4 lần, tống giá trị hang hoá tăng 4 lên",
       "B. Tống số hang hoá tang 2 lần, giá trị 1 hàng hoá giảm 2 lan",
@@ -1600,10 +1600,10 @@ window.QUIZ_DATA = {
     "id": 70,
     "question": "Đặc trưng cơ bản của hàng hoá đặc biệt (đất đại, thương hiệu, danh tiếng...) trong nền sản xuất hiện đại là gì?",
     "options": [
-      "A. Có giá trị sử dụng va giá cả, có thé trao đối mua bán nhưng không do hao phí lao đồng trực tiếp tạo ra",
-      "B. Có day đủ hai thuộc tính là giá trị va giá trị sử dụng, lượng giá trị của chúng được quyết định bởi thời gian lao ong xã hồi cần thiết",
-      "C. Không mang hình thái vật chất cụ thế, chỉ có giá trị trao đối và giá cả của chúng luôn phản ánh chính xác lượng hao phí lao động xã hội",
-      "D. Có giá cả va mang lại thu nhập cho người sở hữu, nhưng hoan toàn không có giá tri sử dụng đối với quá trình tải sản xuất của xã hội"
+      "A. Có giá trị sử dụng và giá cả, có thé trao đổi mua bán nhưng không do hao phí lao đồng trực tiếp tạo ra",
+      "B. Có day đủ hai thuộc tính là giá trị và giá trị sử dụng, lượng giá trị của chúng được quyết định bởi thời gian lao ong xã hội cần thiết",
+      "C. Không mang hình thái vật chất cụ thế, chỉ có giá trị trao đổi và giá cả của chúng luôn phản ánh chính xác lượng hao phí lao động xã hội",
+      "D. Có giá cả và mang lại thu nhập cho người sở hữu, nhưng hoan toàn không có giá trị sử dụng đối với quá trình tải sản xuất của xã hội"
     ],
     "answer": "A"
   },
@@ -1624,8 +1624,8 @@ window.QUIZ_DATA = {
     "options": [
       "A. Tỷ lệ nghịch với năng suất lao đồng, không phụ thuộc vào cường đồ lao đồng",
       "B. Tỷ lệ nghịch với cưỡng độ lao đồng, không phụ thuộc vào năng suất lao đồng",
-      "C. Tỷ lệ thuận với năng suất lao dong, không phụ thuộc vào cưỡng độ lao dong",
-      "D. Tỷ lệ nghịch với năng suất lao động va ty lệ thuận với cưỡng độ lao dong"
+      "C. Tỷ lệ thuận với năng suất lao động, không phụ thuộc vào cưỡng độ lao động",
+      "D. Tỷ lệ nghịch với năng suất lao động và ty lệ thuận với cưỡng độ lao động"
     ],
     "answer": "A"
   },
@@ -1633,10 +1633,10 @@ window.QUIZ_DATA = {
     "id": 73,
     "question": "Theo C. Mác, cấu tạo hữu cơ của tư bản được hiếu là gì?",
     "options": [
-      "A. Cấu tạo giá trị của tư bản, do cấu tạo kỹ thuật quyết định va phản ánh sự biến đối của cấu tao kỹ thuật",
+      "A. Cấu tạo giá trị của tư bản, do cấu tạo kỹ thuật quyết định và phản ánh sự biến đối của cấu tao kỹ thuật",
       "B. Cấu tạo kỹ thuật của tư bản, do cấu tao giá trị quyết định và chịu sự tác dong trực tiếp của quy luật cung ầu trên thị trường",
-      "C. Tỷ lệ tương quan giữa tư bản cố định va tư bản lưu động, được hình thành dua trên phương thức chu chuyến ủa các bộ phan tư bản",
-      "D. Tỷ lệ hiện vật giữa khối lượng tư liệu sản xuất va số lượng sức lao động, phan ánh trình do trang bi kỹ thuật ủa nền sản xuất"
+      "C. Tỷ lệ tương quan giữa tư bản cố định và tư bản lưu động, được hình thành dua trên phương thức chu chuyến ủa các bộ phan tư bản",
+      "D. Tỷ lệ hiện vật giữa khối lượng tư liệu sản xuất và số lượng sức lao động, phan ánh trình do trang bi kỹ thuật ủa nền sản xuất"
     ],
     "answer": "A"
   },
@@ -1645,20 +1645,20 @@ window.QUIZ_DATA = {
     "question": "Dic điểm cơ bản nào sau đầy DUNG về quy luật kinh tế?",
     "options": [
       "A. Là những quy tắc mang tính chủ quan do con người dt ra dé quản lý và điều tiết các hoạt động kinh tế",
-      "B. Ton tại khách quan, có tính lich sử va phát huy tác dung qua hoạt dong kinh tế của con người",
+      "B. Ton tại khách quan, có tính lich sử và phát huy tác dụng qua hoạt dong kinh tế của con người",
       "C. Tôn tại khách quan, mang tính vĩnh viễn và phát huy tác dụng trong mọi hình thái kinh tế - xã hội",
-      "D. Tôn tại chủ quan, phụ thuộc hoản toán vào y chi va năng lực quản lý của nha nước trong từng thời ky"
+      "D. Tôn tại chủ quan, phụ thuộc hoản toán vào y chi và năng lực quản lý của nhà nước trong từng thời kỳ"
     ],
     "answer": "B"
   },
   {
     "id": 75,
-    "question": "Tư bản cố định va tư bản lưu động thuộc phạm trù tư bản nảo?",
+    "question": "Tư bản cố định và tư bản lưu động thuộc phạm trù tư bản nảo?",
     "options": [
-      "A. Tư bản sản xuất",
-      "B. Tư bản tiền te",
-      "C. Tư bản bất biến",
-      "D. Tư bản tiêu dùng"
+      "Tư bản sản xuất",
+      "Tư bản tiền te",
+      "Tư bản bất biến",
+      "Tư bản tiêu dùng"
     ],
     "answer": "A"
   },
@@ -1666,10 +1666,10 @@ window.QUIZ_DATA = {
     "id": 76,
     "question": "Theo lý luận của C. Mác, vai trò của máy móc trong quá trình tạo ra giá trị thăng dư là gì?",
     "options": [
-      "A. Máy móc va sức lao động đều tạo ra giá trị thăng du",
-      "B. Máy móc là tền đề vat chất cho việc tao ra giá trị thăng dư",
-      "C. Máy móc là nguồn gốc duy nhất của gia trị thăng du",
-      "D. Máy móc trục tiếp tao ra giá trị thang du thông qua khấu hao"
+      "A. Máy móc và sức lao động đều tạo ra giá trị thặng dư",
+      "B. Máy móc là tền đề vat chất cho việc tạo ra giá trị thăng dư",
+      "C. Máy móc là nguồn gốc duy nhất của gia trị thặng dư",
+      "D. Máy móc trục tiếp tạo ra giá trị thang du thông qua khấu hao"
     ],
     "answer": "B"
   },
@@ -1677,19 +1677,19 @@ window.QUIZ_DATA = {
     "id": 77,
     "question": "Hai phương pháp cơ bản đế sản xuất giá trị thăng dư là gì?",
     "options": [
-      "A. Sản xuất giá trị thăng dư tương đối va siêu ngạch",
-      "B. Sản xuất giá trị thang dư tuyệt đối va siêu ngạch",
-      "C. Sản xuất gia trị thang dư trung bình và siêu ngạch",
-      "D. Sản xuất giá trị thang dư tuyệt doi va tương đối"
+      "Sản xuất giá trị thăng dư tương đối và siêu ngạch",
+      "Sản xuất giá trị thang dư tuyệt đối và siêu ngạch",
+      "Sản xuất gia trị thang dư trung bình và siêu ngạch",
+      "Sản xuất giá trị thang dư tuyệt doi và tương đối"
     ],
     "answer": "D"
   },
   {
     "id": 78,
-    "question": "WiVL š SẼ LL WinTV. Khi nao tiền tệ biến thành tư bản?",
+    "question": "Khi nao tiền tệ biến thành tư bản?",
     "options": [
-      "A. Sức lao dong trở thành hàng hoá",
-      "B. Dùng tiền đế buồn bán mua rẻ, bán dat",
+      "A. Sức lao động trở thành hàng hoá",
+      "B. Dùng tiền đế buôn bán mua rẻ, bán đắt",
       "C. Có lượng tiền t& đủ lớn",
       "D. Tiền đưa vào dự trữ"
     ],
@@ -1699,10 +1699,10 @@ window.QUIZ_DATA = {
     "id": 79,
     "question": "Theo giáo trình, đầu không phải là một trong những biểu hiện mới của độc quyền nhà nước trong chủ nghĩa tư bản hiện đại?",
     "options": [
-      "A. Sở hữu nha nước trong các ngành then chốt",
-      "B. A. Sở hữu nha nước trong các ngành then chốt Vai trò chi phối của sở hữu tư nhân",
+      "A. Sở hữu nhà nước trong các ngành then chốt",
+      "B. A. Sở hữu nhà nước trong các ngành then chốt Vai trò chi phối của sở hữu tư nhân",
       "C. Nhà nước là cõng cụ điều tiết kinh tế của tố chức độc quyền",
-      "D. Co chẽ quan hệ nhãn sự gần kết giữa nha nước và các tổ chức độc quyền"
+      "D. Co chẽ quan hệ nhãn sự gần kết giữa nhà nước và các tổ chức độc quyền"
     ],
     "answer": "B"
   },
@@ -1710,21 +1710,21 @@ window.QUIZ_DATA = {
     "id": 80,
     "question": "Theo giáo trình, nhần định nao sau đầy đúng về tư bản cho vay?",
     "options": [
-      "A. Tư bản cho vay là hàng hoá đặc biệt",
-      "B. Tư bản cho vay là hình thái để thu lợi nhuận cao nhất của đầu tư",
-      "C. Quyền sử dung di liên với quyền sở hữu",
+      "Tư bản cho vay là hàng hoá đặc biệt",
+      "Tư bản cho vay là hình thái để thu lợi nhuận cao nhất của đầu tư",
+      "C. Quyền sử dụng di liên với quyền sở hữu",
       "D. La một phần của gia trị hang hoá"
     ],
     "answer": "A"
   },
   {
     "id": 81,
-    "question": "Đề làm rõ vai trò của các bộ phần tư bản trong việc tạo ra giá trị thăng du, tư bản được chia thành các bộ phan nào?",
+    "question": "Đề làm rõ vai trò của các bộ phần tư bản trong việc tạo ra giá trị thặng dư, tư bản được chia thành các bộ phan nào?",
     "options": [
-      "A. Tư bản độc quyền va tư bản nha nước",
-      "B. Tư bản bất biến và tư bản khả biến",
-      "C. Tư bản cố định va tư bản lưu dong",
-      "D. Tư bản trong nước va tu bản ngoài nước"
+      "Tư bản độc quyền và tư bản nhà nước",
+      "Tư bản bất biến và tư bản khả biến",
+      "Tư bản cố định và tư bản lưu dong",
+      "Tư bản trong nước và tu bản ngoài nước"
     ],
     "answer": "B"
   },
@@ -1732,7 +1732,7 @@ window.QUIZ_DATA = {
     "id": 82,
     "question": "Theo giáo trình, về mặt kinh tế, xuất khấu tư bản nhà nước có mục đích chính là gì?",
     "options": [
-      "A. Khống chế kinh tế các nước nhấp khấu tư bản va tạo điều kiện cho xuất khấu tư bản tư nhân",
+      "A. Khống chế kinh tế các nước nhấp khấu tư bản và tạo điều kiện cho xuất khấu tư bản tư nhân",
       "B. Tim kiếm tỷ suất lợi nhuận độc quyền cao nhất thông qua việc trực tiếp đầu tư vào các ngành dịch vụ thu lợi nhanh",
       "C. Giải quyết tinh trạng khủng hoảng thừa tư bản trong nước và mở rộng thị trưởng tiêu thụ hàng hóa toàn cau",
       "D. Cung cap nguồn vốn hỗ trợ phát triển chính thức nhằm giúp các nước kém phát triển xây dựng kinh tế đốc lập"
@@ -1741,7 +1741,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 83,
-    "question": "Theo giáo trình, đặc điểm nào sau đây KHÔNG thuộc 5 đặc điểm kinh tế của chủ nghĩa tư bản độc quyền do I. Lénin khái quát?",
+    "question": "Theo giáo trình, đặc điểm nào sau đây KHÔNG thuộc 5 đặc điểm kinh tế của chủ nghĩa tư bản độc quyền do I. Lênin khái quát?",
     "options": [
       "A. Năm đặc điểm",
       "B. Sáu đặc điểm",
@@ -1764,7 +1764,7 @@ window.QUIZ_DATA = {
     "id": 85,
     "question": "Mâu thuẫn cơ bản của chủ nghĩa tư bản là gì?",
     "options": [
-      "A. Mâu thuẫn giữa tinh chất tư nhân của lực lượng sản xuất với tính chất xã hôi hoá ngày cảng cao của quan hệ sản xuất tư bản chủ nghĩa",
+      "Mâu thuẫn giữa tinh chất tư nhân của lực lượng sản xuất với tính chất xã hôi hoá ngày cảng cao của quan hệ sản xuất tư bản chủ nghĩa",
       "B. Mau thuẫn giữa tính có tố chức, có kế hoạch trong từng xí nghiệp với tình trang canh tranh vô chính phủ trong toàn bộ nền sản xuất xã hội",
       "C. Mẫu thuẫn đối khang gay gắt về mặt lợi ích kinh tế giữa giai cấp võ sản làm thuê và tang lớp tiểu tư sản",
       "D. Mẫu thuẫn giữa trình độ xã hội hóa cao của lực lượng sản xuất với quan hệ sở hữu tu nhân tư ban chủ nghĩa về tư liệu sản xuất"
@@ -1775,9 +1775,9 @@ window.QUIZ_DATA = {
     "id": 86,
     "question": "Theo V.I. Lênin, bản chất của độc quyền nhà nước trong chủ nghĩa tư bản là gì?",
     "options": [
-      "A. Sự can thiệp toàn diện của bộ máy Nhà nước tư sản vào nền kinh tế nhằm thủ tiêu hoàn toàn quy luật cạnh tranh va khủng hoảng chu kỹ",
-      "B. Việc Nhà nước tư sản sử dụng các cong cụ điều tiết vĩ mo đề khống chế va làm suy yếu sức manh của các tố chức độc quyền",
-      "C. Sự kết hợp giữa sức mạnh của các tố chúc độc quyền tư nhân với sức mạnh của Nha nước tư sản",
+      "A. Sự can thiệp toàn diện của bộ máy Nhà nước tư sản vào nền kinh tế nhằm thủ tiêu hoàn toàn quy luật cạnh tranh và khủng hoảng chu kỹ",
+      "B. Việc Nhà nước tư sản sử dụng các cong cụ điều tiết vĩ mo đề khống chế và làm suy yếu sức manh của các tố chức độc quyền",
+      "C. Sự kết hợp giữa sức mạnh của các tố chúc độc quyền tư nhân với sức mạnh của Nhà nước tư sản",
       "D. Quá trình quốc hữu hóa tư liệu sản xuất quy mé lớn nhằm chuyến hóa các tố chức độc quyền tư nhân thành sở hữu toàn dan"
     ],
     "answer": "C"
@@ -1795,31 +1795,31 @@ window.QUIZ_DATA = {
   },
   {
     "id": 88,
-    "question": "Theo VI. Lénin, cơ chế kinh tế của độc quyền nhà nước trong chủ nghĩa tư bản bao gồm những yếu tố nào?",
+    "question": "Theo VI. Lênin, cơ chế kinh tế của độc quyền nhà nước trong chủ nghĩa tư bản bao gồm những yếu tố nào?",
     "options": [
-      "A. Cơ chế thị trường va độc quyền tư nhần",
-      "B. Cơ chế thị trường, doc quyền tư nhân va sự điều tiết của Nha nước",
-      "C. Cơ chế thị trưởng, các nha tải phiét va sự kiếm soát của các tố chức quốc tế",
-      "D. Cơ chẽ kẽ hoạch hoa tap trung va độc quyền nha nước"
+      "A. Cơ chế thị trường và độc quyền tư nhần",
+      "B. Cơ chế thị trường, doc quyền tư nhân và sự điều tiết của Nhà nước",
+      "C. Cơ chế thị trưởng, các nha tải phiét và sự kiếm soát của các tố chức quốc tế",
+      "D. Cơ chẽ kẽ hoạch hoa tap trung và độc quyền nhà nước"
     ],
     "answer": "B"
   },
   {
     "id": 89,
-    "question": "Theo V.I. Lénin, tư bản tai chính là kết quả của sự hợp nhất giữa tư bản độc quyền nào sau đây?",
+    "question": "Theo V.I. Lênin, tư bản tai chính là kết quả của sự hợp nhất giữa tư bản độc quyền nào sau đây?",
     "options": [
-      "A. Tư bản độc quyền nông nghiệp va tư bản độc quyền thương nghiệp",
-      "B. Tư bản độc quyền thương nghiệp va tư bản độc quyền ngân hàng",
-      "C. Tư bản độc quyền công nghiệp va tư bản độc quyền ngân hang",
-      "D. Tư bản độc quyền nha nước va tư bản độc quyền tư nhân"
+      "Tư bản độc quyền nông nghiệp và tư bản độc quyền thương nghiệp",
+      "Tư bản độc quyền thương nghiệp và tư bản độc quyền ngân hàng",
+      "Tư bản độc quyền công nghiệp và tư bản độc quyền ngân hang",
+      "Tư bản độc quyền nhà nước và tư bản độc quyền tư nhân"
     ],
     "answer": "C"
   },
   {
     "id": 90,
-    "question": "Theo giáo trình, về kinh tế, xuất khẩu tư bản nha nước thường hướng vảo những ngành nao?",
+    "question": "Theo giáo trình, về kinh tế, xuất khẩu tư bản nhà nước thường hướng vảo những ngành nao?",
     "options": [
-      "A. Ngành công nghệ cao va bí mat quốc gia",
+      "A. Ngành công nghệ cao và bí mat quốc gia",
       "B. Ngành có vốn chu chuyến nhanh dé thu lời nhanh",
       "C. Ngành kết cấu ha tang (cảng, dưỡng, diện, viễn thông)",
       "D. Ngành thương mại bản lẻ"
@@ -1828,9 +1828,9 @@ window.QUIZ_DATA = {
   },
   {
     "id": 91,
-    "question": "Nhân thức của Đảng “Kinh tế thị trưởng định hướng xã hội chủ nghĩa là md hình kinh tế tống quát của thời ky quá độ lên chủ nghĩa xã hội ở nước ta” được khẳng định chính thức tại Dai hội nào?",
+    "question": "Nhận thức của Đảng “Kinh tế thị trưởng định hướng xã hội chủ nghĩa là md hình kinh tế tống quát của thời kỳ quá độ lên chủ nghĩa xã hội ở nước ta” được khẳng định chính thức tại Dai hội nào?",
     "options": [
-      "A. Đại hội VII (1996) Đại hội IX (2001) Đai hội X (2006) Đại hội XI (2011)"
+      "Đại hội VII (1996) Đại hội IX (2001) Đai hội X (2006) Đại hội XI (2011)"
     ],
     "answer": "B"
   },
@@ -1838,8 +1838,8 @@ window.QUIZ_DATA = {
     "id": 92,
     "question": "Theo giáo trình, yếu tố nào sau đây là quy luật kinh tế cơ bản điều tiết nền kinh tế thị trường?",
     "options": [
-      "A. Quy luật giá trị",
-      "B. Sưcan thiệp sầu của Nhà nước",
+      "Quy luật giá trị",
+      "B. Sự can thiệp sầu của Nhà nước",
       "C. Hệ thống pháp luật",
       "D. Tĩnh hình kinh tế thế giới"
     ],
@@ -1851,7 +1851,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Có sự quản lý của Nhà nước xã hội chủ nghĩa, do Đảng Cộng sản Việt Nam lãnh đạo",
       "B. Thưc hiện phân phối theo kết quả lao đồng vả hiệu quả kinh tế",
-      "C. Phát huy được trí tuệ va nguồn lực của toàn dân",
+      "C. Phát huy được trí tuệ và nguồn lực của toàn dân",
       "D. Tuyệt đối hoá vai trò của thanh phần kinh tế tư nhãn"
     ],
     "answer": "ABC"
@@ -1861,9 +1861,9 @@ window.QUIZ_DATA = {
     "question": "Theo giáo trình, đầu là những quan điểm cơ bản về hoản thiện thể chế kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam?",
     "options": [
       "A. Đảm bảo tính dong bộ giữa các bộ phan của thế chế kinh tế và các yếu to thị trường",
-      "B. Kế thửa có chọn lọc thành tựu phát triển kinh tế thị trưởng của nhãn loại va kinh nghiệm đối mới ở VN",
+      "B. Kế thửa có chọn lọc thành tựu phát triển kinh tế thị trưởng của nhãn loại và kinh nghiệm đối mới ở VN",
       "C. Loại bỏ hoàn toàn vai tro điều tiết của Nhà nước trong nền kinh tế",
-      "D. Tôn trọng va vận dung đúng dan các quy luật khách quan của kinh tế thị trưởng"
+      "D. Tôn trọng và vận dung đúng dan các quy luật khách quan của kinh tế thị trưởng"
     ],
     "answer": "ABD"
   },
@@ -1871,10 +1871,10 @@ window.QUIZ_DATA = {
     "id": 95,
     "question": "Theo giáo trình, trong nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam, các doanh nghiệp nhà nước chỉ tập trung đầu tư vào những ngành kinh tế như thể nào?",
     "options": [
-      "A. Tất cả các ngành, các lĩnh vực sản xuất va dịch vụ trong nền kinh tế quốc dân nhằm đảm bảo vai trò quản lý toàn diện va tuyết đối của Nha nước.",
+      "A. Tất cả các ngành, các lĩnh vực sản xuất và dịch vụ trong nền kinh tế quốc dân nhằm đảm bảo vai trò quản lý toàn diện và tuyết đối của Nhà nước.",
       "B. Những ngành kinh tế mũi nhọn có khả năng quay võng vốn nhanh vả đem lai tỷ suất sinh lời cao nhất nhằm tối đa hóa lợi nhuận cho ngân sách.",
       "C. Những ngành kinh tế then chốt vừa chi phối nền kinh tế, vừa dam bảo an ninh, quốc phòng và phục vu lợi ich cong cộng.",
-      "D. Những ngành kinh tế chuyên sản xuất hang tiêu dùng thiết yếu va cung ứng dich vụ hằng ngày nhằm đáp ứng trục tiếp nhu cầu đời sống của nhân dan"
+      "D. Những ngành kinh tế chuyên sản xuất hang tiêu dùng thiết yếu và cung ứng dich vụ hằng ngày nhằm đáp ứng trục tiếp nhu cầu đời sống của nhân dan"
     ],
     "answer": "C"
   },
@@ -1902,9 +1902,9 @@ window.QUIZ_DATA = {
   },
   {
     "id": 98,
-    "question": "Theo giáo trình, Wi duy của Đảng Công sản Việt Nam về kinh tế thị trường được thể hiện như thế nào?",
+    "question": "Theo giáo trình, Wi duy của Đảng Cộng sản Việt Nam về kinh tế thị trường được thể hiện như thế nào?",
     "options": [
-      "A. Có thế va cần thiết sử dung kinh tế thị trường đề xây dựng chủ nghĩa xã hội ở Việt Nam",
+      "A. Có thế và cần thiết sử dụng kinh tế thị trường đề xây dựng chủ nghĩa xã hội ở Việt Nam",
       "B. Kinh tế thi trưởng chỉ ton tai trong chủ nghĩa tư ban",
       "C. Can loại bỏ hoàn toàn kinh tế thị trưởng đế xây dựng chủ nghĩa xã hội",
       "D. Kinh tẽ thị trưởng tự phát sẽ dẫn đến chủ nghĩa xã hội"
@@ -1926,18 +1926,18 @@ window.QUIZ_DATA = {
     "id": 100,
     "question": "Công nghiệp hóa ở nước Anh bat nguồn từ ngành nào?",
     "options": [
-      "A. Công nghiệp dệt",
-      "B. Công nghiệp cơ khi chế tao",
+      "Công nghiệp dệt",
+      "Công nghiệp cơ khi chế tao",
       "C. Cong nghiệp khai khoảng",
-      "D. Công nghiệp đóng tau"
+      "Công nghiệp đóng tau"
     ],
     "answer": "A"
   },
   {
     "id": 101,
-    "question": "MVMEK l IF LE VM41MIVE Cách mạng công nghiệp lần thứ tư sẽ làm mất đi lợi thé truyền thống của các nước đang phát triển về vấn đề gi?",
+    "question": "Cách mạng công nghiệp lần thứ tư sẽ làm mất đi lợi thé truyền thống của các nước đang phát triển về vấn đề gì?",
     "options": [
-      "A. Khoa hoc công nghệ va nhân lực chất lượng cao",
+      "A. Khoa học công nghệ và nhân lực chất lượng cao",
       "B. Tải nguyên thiên nhiên và lao động giá rẻ",
       "C. Vitridia lý chiến lược",
       "D. Quy mõ dân sé đông"
@@ -1949,8 +1949,8 @@ window.QUIZ_DATA = {
     "question": "Bau không phải là mục đích của hội nhập kinh tế quốc tế?",
     "options": [
       "A. Thu hút vốn đầu tư nước ngoài, thu hút cong nghệ hiện dai",
-      "B. Hoc hỏi kinh nghiệm quản lý tiên tiến của thế giới",
-      "C. Khai thác thị trưởng thế giới để tiêu thụ các sản phẩm ma nước ta có nhiều lợi thế va khả năng cạnh tranh ao",
+      "B. Học hỏi kinh nghiệm quản lý tiên tiến của thế giới",
+      "C. Khai thác thị trưởng thế giới để tiêu thụ các sản phẩm mà nước ta có nhiều lợi thế và khả năng cạnh tranh ao",
       "D. Đầu tư tư bản trực tiếp thu lợi nhuận ở nước ngoài"
     ],
     "answer": "D"
@@ -1971,26 +1971,26 @@ window.QUIZ_DATA = {
     "question": "Tỷ suất giá trị thăng dư phản ánh điều gì?",
     "options": [
       "A. Trình độ khai thác sức lao động làm thuê",
-      "B. Quy mõ giá trị thăng dư ma chủ sở hữu tư liệu sản xuất thu được",
+      "B. Quy mõ giá trị thăng dư mà chủ sở hữu tư liệu sản xuất thu được",
       "C. Tống sỡ lương tư bản khả biến được dua vào sản xuất",
-      "D. Lượng gia trị thăng du bằng tiền ma nha tư bản thu được"
+      "D. Lượng gia trị thặng dư bằng tiền mà nha tư bản thu được"
     ],
     "answer": "A"
   },
   {
     "id": 105,
-    "question": "Theo giáo trình kinh tế chính trị Mác - Lénin, trong nền kinh tế thị trường định hướng xã hỏi chủ nghĩa ở Việt Nam, hình thức phân phối nào phản ánh tính định hướng xã hồi chủ nghĩa của nền kinh tế?",
+    "question": "Theo giáo trình kinh tế chính trị Mác - Lênin, trong nền kinh tế thị trường định hướng xã hỏi chủ nghĩa ở Việt Nam, hình thức phân phối nào phản ánh tính định hướng xã hội chủ nghĩa của nền kinh tế?",
     "options": [
       "A. Phan phối hoàn toàn theo nhu cầu của mỗi cá nhan không xét đến đóng góp",
       "B. Phân phối ngang bằng nhau cho moi thành viên trong xã hội",
-      "C. Phân phối theo lao dong, hiệu quả kinh tế va theo phúc lợi xã hội",
+      "C. Phân phối theo lao động, hiệu quả kinh tế và theo phúc lợi xã hội",
       "D. Phan phối hoan toàn theo cơ chế cung - cầu của thị trường tự do"
     ],
     "answer": "C"
   },
   {
     "id": 106,
-    "question": "Theo giáo trình, mục tiều “dan giàu, nước mạnh, dan chủ, công bằng, van minh\" là mục tiều của nền kinh tế nào ở Việt Nam?",
+    "question": "Theo giáo trình, mục tiều “dan giàu, nước mạnh, dan chủ, công bằng, văn minh\" là mục tiều của nền kinh tế nào ở Việt Nam?",
     "options": [
       "A. Nên kinh tế tu cấp tự túc",
       "B. Nền kinh tế thị trường tư bản chủ nghĩa",
@@ -2023,12 +2023,12 @@ window.QUIZ_DATA = {
   },
   {
     "id": 109,
-    "question": "Theo giáo trình, quy luật kinh tế tồn tại mang tính chất nẻo sau đây?",
+    "question": "Theo giáo trình, quy luật kinh tế tồn tại mang tính chất nào sau đây?",
     "options": [
       "A. Chủ quan",
       "B. Khách quan",
-      "C. Via chủ quan via khách quan",
-      "D. Phụ thuộc vào ÿ chi Nha nước"
+      "C. Vừa chủ quan vừa khách quan",
+      "D. Phụ thuộc vào ÿ chi Nhà nước"
     ],
     "answer": "B"
   },
@@ -2047,7 +2047,7 @@ window.QUIZ_DATA = {
     "id": 111,
     "question": "Theo giáo trình, giá trị sử dụng của hàng hoá sức lao động được người mua (nhà tư bản) khai thác nhẫm mục đích gì?",
     "options": [
-      "A. Tao ra giá trị mới lớn hơn giá tn của bản than sức lao dong",
+      "A. Tạo ra giá trị mới lớn hơn giá trị của bản than sức lao động",
       "B. Dap ứng nhu cầu tiêu dùng cá nhân của nha tư bản",
       "C. Bù đáp gia trị tư liệu sản xuất đã hao môn",
       "D. Đảm bảo điều kiện sinh hoạt cho người lao đồng"
@@ -2070,8 +2070,8 @@ window.QUIZ_DATA = {
     "question": "Theo gio trình, đầu là những giới hạn lịch sử của chủ nghĩa tư bản trong quá trình phát triển?",
     "options": [
       "A. Muc dich sản xuất tư bản chủ nghĩa vẫn vi lợi ích của thiếu số giai cấp",
-      "B. Chủ nghĩa tư bản đã và đang tham gia gây chiến tranh, xung đột nhiều nơi trên thế giới",
-      "C. Chu nghĩa tư bản đã xoá bỏ hoàn toàn sự phan hoá giảu nghèo, dam bảo phúc lợi cho người lao dong",
+      "Chủ nghĩa tư bản đã và đang tham gia gây chiến tranh, xung đột nhiều nơi trên thế giới",
+      "C. Chủ nghĩa tư bản đã xoá bỏ hoàn toàn sự phan hoá giảu nghèo, dam bảo phúc lợi cho người lao động",
       "D. Sự phan hoa giảu nghèo trong các nước tư bản có xu hướng ngày cảng sau sac"
     ],
     "answer": "ABD"
@@ -2092,7 +2092,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Đảm bảo các yếu tố thị trưởng được phát triển dong bộ",
       "B. Đảm bảo các yếu tố thị rường được phát triển đồng bộ",
-      "C. ảm bảo các loại thị trưởng vận hành thông suốt va liên kết với nhau",
+      "C. ảm bảo các loại thị trưởng vận hành thông suốt và liên kết với nhau",
       "D. Giới hạn vai trò của thị trưởng nước ngoài",
       "E. Tập trung thế chế chỉ vảo thị trưởng giá cả"
     ],
@@ -2100,7 +2100,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 116,
-    "question": "Khi nghiền cứu về Cách mạng công nghiệp lần thứ nhất, C.Mác đã khái quát tính quy luật của cách mạng công nghiệp qua ba giai đoan nào sau đây?",
+    "question": "Khi nghiền cứu về Cách mạng công nghiệp lần thứ nhất, C.Mác đã khái quát tính quy luật của cách mạng công nghiệp qua ba giai đoạn nào sau đây?",
     "options": [
       "A. Hiệp tác giản đơn, khoa học kỹ thuật, máy móc.",
       "B. Hiệp tác giản đơn, công trường thủ công, đại cồng nghiệp.",
@@ -2113,20 +2113,20 @@ window.QUIZ_DATA = {
     "id": 117,
     "question": "Theo giáo trình, đầu là những lý do khách quan đề Việt Nam phải thực hiện công nghiệp hoá - hiện đại hoá?",
     "options": [
-      "A. Công nghiệp hoá là quy luật phố biến của sự phát triển mà mọi quốc gia đều phải trải qua",
+      "Công nghiệp hoá là quy luật phố biến của sự phát triển mà mọi quốc gia đều phải trải qua",
       "B. Xây dung cơ sở vật chất - kỹ thuật cho CNXH phải thực hiện thông qua công nghiệp hoá - hiện đại hoá",
-      "C. DE loại bỏ hoản toàn các thành phần kinh tế ngoài nha nước",
+      "C. DE loại bỏ hoản toàn các thành phần kinh tế ngoài nhà nước",
       "D. Để cạnh tranh trực tiếp với các nước tư ban phát triển"
     ],
     "answer": "AB"
   },
   {
     "id": 118,
-    "question": "WIVLIIFLE MP ME Theo giáo trình, yếu tố nào sau đây KHÔNG thuộc các nhan tố ảnh hưởng đến quan hệ lợi ích kinh tế ở Việt Nam?",
+    "question": "Theo giáo trình, yếu tố nào sau đây KHÔNG thuộc các nhan tố ảnh hưởng đến quan hệ lợi ích kinh tế ở Việt Nam?",
     "options": [
       "A. Trình độ phát tiến của lực lượng sản xuất",
       "B. Quan hệ giữa người lao đồng và người sử dụng lao động",
-      "C. Chính sách phan phối thu nhập của nha nước",
+      "C. Chính sách phan phối thu nhập của nhà nước",
       "D. Hội nhấp kinh tế quốc tế"
     ],
     "answer": "B"
@@ -2135,10 +2135,10 @@ window.QUIZ_DATA = {
     "id": 119,
     "question": "Theo giáo trình, đối tượng nghiên cứu của kinh tế chính trị Mác - Lênin là gì?",
     "options": [
-      "A. Các quan hệ sản xuất trong tái sản xuất xã hội: sản xuất - phần phối - trao đối - tiếu dùng",
-      "B. Quá trình phát triển của lực lượng sản xuất: trình do kỹ thuật, công nghệ va tố chức quản lý",
-      "C. Quy luật tam lý va hanh vi ứng xử kinh tế: người tiêu dùng, người sản xuất va các chủ thế khác",
-      "D. Hoạt động quản trị doanh nghiệp: tố chức sản xuất, điều hanh nhãn sự va tối uu hóa Idi nhuận"
+      "A. Các quan hệ sản xuất trong tái sản xuất xã hội: sản xuất - phân phối - trao đổi - tiếu dùng",
+      "B. Quá trình phát triển của lực lượng sản xuất: trình do kỹ thuật, công nghệ và tố chức quản lý",
+      "Quy luật tam lý và hanh vi ứng xử kinh tế: người tiêu dùng, người sản xuất và các chủ thế khác",
+      "D. Hoạt động quản trị doanh nghiệp: tố chức sản xuất, điều hanh nhãn sự và tối uu hóa Idi nhuận"
     ],
     "answer": "A"
   },
@@ -2146,10 +2146,10 @@ window.QUIZ_DATA = {
     "id": 120,
     "question": "Kinh tế chính trị Mác - L&nin có những chức năng nao?",
     "options": [
-      "A. Chức năng nhận thức, chức năng thực tiễn, chức năng tư tưởng, chức năng khoa học",
-      "B. Chức năng nhận thức, chức năng thực tiễn, chức năng khoa học, chức năng phương pháp luân",
-      "C. Chúc năng thực tiễn, chức năng tư tưởng, chức nang dự báo, chức năng phương pháp luận",
-      "D. Chức năng nhận thức, chức năng thực tiễn, chức năng tư tưởng, chức năng phương pháp luận"
+      "Chức năng nhận thức, chức năng thực tiễn, chức năng tư tưởng, chức năng khoa học",
+      "Chức năng nhận thức, chức năng thực tiễn, chức năng khoa học, chức năng phương pháp luân",
+      "C. Chức năng thực tiễn, chức năng tư tưởng, chức nang dự báo, chức năng phương pháp luận",
+      "Chức năng nhận thức, chức năng thực tiễn, chức năng tư tưởng, chức năng phương pháp luận"
     ],
     "answer": "D"
   },
@@ -2158,9 +2158,9 @@ window.QUIZ_DATA = {
     "question": "Hệ thống lý luận kinh tế chính trị nào được ghi nhân là bước đầu nghiền cứu về nền sản xuất tư bản chủ nghĩa?",
     "options": [
       "A. Kinh tế chính trị cố dién Anh",
-      "B. Kinh tế chính tri t8u tư sản",
-      "C. Chủ nghĩa trong nông",
-      "D. Chủ nghĩa trọng thương"
+      "B. Kinh tế chính trị t8u tư sản",
+      "Chủ nghĩa trong nông",
+      "Chủ nghĩa trọng thương"
     ],
     "answer": "D"
   },
@@ -2168,10 +2168,10 @@ window.QUIZ_DATA = {
     "id": 122,
     "question": "Đầu KHÔNG phải là chức năng chính của kinh tế chính trị Mác - Lênin?",
     "options": [
-      "A. Chức năng giáo dục",
-      "B. Chức năng nhận thức",
+      "Chức năng giáo dục",
+      "Chức năng nhận thức",
       "C. Chức nang tu tưởng",
-      "D. Chức năng phương pháp luận"
+      "Chức năng phương pháp luận"
     ],
     "answer": "A"
   },
@@ -2192,7 +2192,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Người sản xuất",
       "B. Người mua",
-      "C. Nha nước",
+      "C. Nhà nước",
       "D. Người trung gian thương mai"
     ],
     "answer": "B"
@@ -2224,7 +2224,7 @@ window.QUIZ_DATA = {
     "question": "Lao động xã hội của người sản xuất hang hoá kết tính trong hang hoá được gọi là gì?",
     "options": [
       "A. Giá trị của hàng hoá",
-      "B. Giá trị sử dung của hàng hoá",
+      "B. Giá trị sử dụng của hàng hoá",
       "C. Gia cả hàng hoa",
       "D. Tiền lương lao động"
     ],
@@ -2234,7 +2234,7 @@ window.QUIZ_DATA = {
     "id": 128,
     "question": "Theo C. Mác, hàng hoá là sản phẩm lao động được sản xuất ra nhẫm mục đích gì?",
     "options": [
-      "A. Trao đổi va mua bán",
+      "A. Trao đổi và mua bán",
       "B. Tiêu dùng",
       "C. Kiếm lợi nhuận",
       "D. Tặng vả biếu"
@@ -2243,18 +2243,18 @@ window.QUIZ_DATA = {
   },
   {
     "id": 129,
-    "question": "MU L I IELE CHUICE Mâu thuẫn cơ bản của sản xuất hàng hóa là gì?",
+    "question": "Mâu thuẫn cơ bản của sản xuất hàng hóa là gì?",
     "options": [
-      "A. Mau thuẫn giữa lao động tư nhân va lao đồng xã hồi",
-      "B. Mau thuẫn giữa lao động cu thế va lao động trửu tượng",
-      "C. Mau thuẫn giữa gia trị sử dụng va giá trị",
-      "D. Mẫu thuẫn giữa gia trị va giả cả hang hóa"
+      "A. Mau thuẫn giữa lao động tư nhân và lao đồng xã hội",
+      "B. Mau thuẫn giữa lao động cu thế và lao động trừu tượng",
+      "C. Mau thuẫn giữa gia trị sử dụng và giá trị",
+      "D. Mẫu thuẫn giữa gia trị và giả cả hang hóa"
     ],
     "answer": "A"
   },
   {
     "id": 130,
-    "question": "hầhỪ  n nầhnn  m mm” Theo C. Mác, lao động cụ thế phản ánh tính chất nào của leo động sản xuất hàng hóa?",
+    "question": "hầhỪ n nầhnn m mm” Theo C. Mác, lao động cụ thế phản ánh tính chất nào của leo động sản xuất hàng hóa?",
     "options": [
       "A. Tính chất xã hội",
       "B. Tinh chất tư nhãn",
@@ -2265,11 +2265,11 @@ window.QUIZ_DATA = {
   },
   {
     "id": 131,
-    "question": "Theo C. Mác, sản xuất hàng hoá ra đời va phát triển dựa trên hai điều kiện cơ bản nào?",
+    "question": "Theo C. Mác, sản xuất hàng hoá ra đời và phát triển dựa trên hai điều kiện cơ bản nào?",
     "options": [
-      "A. Phan cong lao dong xã hội va su tách biệt về mat kinh tế của các chủ thế sản xuất",
-      "B. Trình đồ khoa học - công nghệ cao va lực lương lao dong dồi dao",
-      "C. Sở hữu tư nhãn về tư liệu sản xuất va sự can thiệp của nha nước",
+      "A. Phan cong lao động xã hội và su tách biệt về mat kinh tế của các chủ thế sản xuất",
+      "B. Trình đồ khoa học - công nghệ cao và lực lương lao động dồi dao",
+      "C. Sở hữu tư nhãn về tư liệu sản xuất và sự can thiệp của nhà nước",
       "D. Thị trưởng rong lớn vả hệ thống tải chính phát triển"
     ],
     "answer": "A"
@@ -2279,7 +2279,7 @@ window.QUIZ_DATA = {
     "question": "Adam Smith đã ví cơ chế thị rường như cái gì?",
     "options": [
       "A. Bản tay võ hình",
-      "B. Bong ma võ hình",
+      "B. Bong mà võ hình",
       "C. Con đĩa hai vời",
       "D. Nam châm hai cực"
     ],
@@ -2289,12 +2289,12 @@ window.QUIZ_DATA = {
     "id": 133,
     "question": "Theo C. Mác, tư bản lưu đồng là gì?",
     "options": [
-      "A. Bộ phan tu bản sản xuất ton tại dưới hình thái sức lao động, nguyên nhiên vat liệu vat liệu phụ, giá tn của nó",
+      "A. Bộ phan tu bản sản xuất ton tại dưới hình thái sức lao động, nguyên nhiên vat liệu vat liệu phụ, giá trị của nó",
       "B. ược chuyến một lần, toàn phần vào giá trị sản phấm khi kết thúc ting quá trình sản xuất",
       "C. Bộ phan tư bản sản xuất ton tại dưới hình thái máy móc, thiết bi, nha xưởng cong nghiệp, giá trị của nó được",
       "D. ich chuyến tửng phần, dan dần vào giá trị sản phẩm mới thông qua chu kỳ khấu hao tai sản cố định",
-      "E. Bộ phận tư bản lưu thông ton tại dưới hình thai tiên tệ hoặc hang hóa thương nghiệp, gia trị của nó phục vụ",
-      "F. ho việc duy tri các hoạt động mua bán va trao đối nhằm hiện thực hóa giá trị thang dư trên thị trưởng",
+      "E. Bộ phận tư bản lưu thông ton tại dưới hình thái tiên tệ hoặc hang hóa thương nghiệp, gia trị của nó phục vụ",
+      "F. ho việc duy tri các hoạt động mua bán và trao đổi nhằm hiện thực hóa giá trị thang dư trên thị trưởng",
       "A. Bộ phận tư bản tiền tệ tạm thời nhan rỗi được gửi vào hệ thống tin dụng ngãn hang, gia tri của nó tham gia vào quá trình phân phối lại nền kinh tế nhằm mục đích thu về nguồn lợi nhuận ngân hàng"
     ],
     "answer": "A"
@@ -2303,21 +2303,21 @@ window.QUIZ_DATA = {
     "id": 134,
     "question": "Theo C. Mác, tiền công thực tế là gì?",
     "options": [
-      "A. Số tiền ma công nhân nhân được tử việc bán sức lao đồng",
-      "B. $6 lượng hàng hóa tiêu dùng va dịch vu ma công nhân mua được bằng tiên công danh nghĩa của mình",
+      "A. Số tiền mà công nhân nhân được tử việc bán sức lao đồng",
+      "B. $6 lượng hàng hóa tiêu dùng và dịch vu mà công nhân mua được bằng tiền công danh nghĩa của mình",
       "C. Tống giá trị do người lao động tạo ra trong một gid làm việc",
-      "D. Khoản tiền doanh nghiệp phải nộp cho nha nước"
+      "D. Khoản tiền doanh nghiệp phải nộp cho nhà nước"
     ],
     "answer": "B"
   },
   {
     "id": 135,
-    "question": "WIVL š Sỹ ki inves Theo định nghĩa của C. Mác, sức lao động là gì?",
+    "question": "Theo định nghĩa của C. Mác, sức lao động là gì?",
     "options": [
-      "A. Toàn bộ thế lực va tri lực trong một con người dang sống, được vận dụng dé sản xuất ra giá tn sử dụng",
+      "A. Toàn bộ thế lực và trí lực trong một con người dang sống, được vận dụng dé sản xuất ra giá trị sử dụng",
       "B. Quá trình lao động của con người trong sản xuất",
-      "C. Sản pham vật chat do người lao động tao ra",
-      "D. Céng cụ vả phương tiện lao động"
+      "C. Sản phẩm vật chất do người lao động tạo ra",
+      "D. Céng cụ và phương tiện lao động"
     ],
     "answer": "A"
   },
@@ -2337,7 +2337,7 @@ window.QUIZ_DATA = {
     "question": "Theo giáo trình, tăng tốc độ chu chuyển của tư bản sẽ dẫn đến những kết quả nào?",
     "options": [
       "A. Tang số vòng chu chuyến của tư bản trong năm",
-      "B. Tăng khối lương giá trị thăng du hàng năm",
+      "B. Tăng khối lương giá trị thặng dư hàng năm",
       "C. Tăng số lượng tư bản lưu dong can Ung trước",
       "D. Tang ty suất gia trị thang du hang năm"
     ],
@@ -2345,11 +2345,11 @@ window.QUIZ_DATA = {
   },
   {
     "id": 138,
-    "question": "ahd HALE a Theo ly luận của C. Mác, quan hệ cung - cầu trong nền kinh tế thị trường được điều tiết chủ yếu ở khâu nao của quá trình tái sản xuất xã hội?",
+    "question": "Theo ly luận của C. Mác, quan hệ cung - cầu trong nền kinh tế thị trường được điều tiết chủ yếu ở khâu nao của quá trình tái sản xuất xã hội?",
     "options": [
-      "A. Sản xuất",
+      "Sản xuất",
       "B. Phân phối",
-      "C. Trao đối",
+      "C. Trao đổi",
       "D. Tiêu dùng"
     ],
     "answer": "C"
@@ -2377,10 +2377,10 @@ window.QUIZ_DATA = {
     "id": 141,
     "question": "Theo C. Méc, tư ban cố định trong quá trình sản xuất tư bản chủ nghĩa có hai loại hao mòn nẻo?",
     "options": [
-      "A. Hao mòn tự nhiên va hao mon xã hội",
-      "B. Hao mòn vật chất va hao mòn tinh thần",
+      "A. Hao mòn tự nhiên và hao mon xã hội",
+      "B. Hao mòn vật chất và hao mòn tinh thần",
       "C. Hao mòn ngắn hạn và hao mòn dai han",
-      "D. Hao mon hữu hình va hao mòn võ hình"
+      "D. Hao mon hữu hình và hao mòn võ hình"
     ],
     "answer": "D"
   },
@@ -2388,7 +2388,7 @@ window.QUIZ_DATA = {
     "id": 142,
     "question": "Theo VI. Lênin, đầu là một trong những nguyên nhân hình thành độc quyền trong chủ nghĩa tư bản?",
     "options": [
-      "A. Do su ra đời va can thiệp trực tiếp của nha nước",
+      "A. Do su ra đời và can thiệp trực tiếp của nhà nước",
       "B. Do canh tranh tự do dẫn đến tích tu và tập trung sản xuất",
       "C. Do su doan kết của giai cấp cong nhân",
       "D. Do qua trình toàn cau hoa kinh tế"
@@ -2400,7 +2400,7 @@ window.QUIZ_DATA = {
     "question": "WiIiVL ITF ki. Aã EA/ A2 k Môt trong những biểu hiện mới của tích tụ và tập ung tư bản trong giai đoạn hiện nay là gì?",
     "options": [
       "A. Sự quay trở lại của hình thức cartel sơ khai thế kỷ XIX",
-      "B. Sự xuất hiện va phát tnén của các cong ty xuyên quốc gia (TNCs)",
+      "B. Sự xuất hiện và phát tnén của các cong ty xuyên quốc gia (TNCs)",
       "C. Sự thu hep quy mé của các tố chức độc quyền",
       "D. Sự cham dứt hoan toàn của các liên minh độc quyền quốc tế"
     ],
@@ -2419,12 +2419,12 @@ window.QUIZ_DATA = {
   },
   {
     "id": 145,
-    "question": "5V X kè. š IT khe iTV Theo V.I. Lênin, chủ nghĩa tư bản độc quyền được xem là gì?",
+    "question": "Theo V.I. Lênin, chủ nghĩa tư bản độc quyền được xem là gì?",
     "options": [
-      "A. Mot phương thức sản xuất hoàn toàn mới, khác chủ nghĩa tư bản",
-      "B. Mot giai đoan phát triển của phương thức sản xuất tư bản chủ nghĩa",
-      "C. Hình thức qua dé trực tiếp di lên chủ nghĩa xã hội",
-      "D. Một hình thai kinh tế - xã hội độc lập"
+      "A. Một phương thức sản xuất hoàn toàn mới, khác chủ nghĩa tư bản",
+      "B. Một giai đoạn phát triển của phương thức sản xuất tư bản chủ nghĩa",
+      "Hình thức quá độ trực tiếp đi lên chủ nghĩa xã hội",
+      "D. Một hình thái kinh tế - xã hội độc lập"
     ],
     "answer": "B"
   },
@@ -2435,7 +2435,7 @@ window.QUIZ_DATA = {
       "A. Diện tích lãnh thé quốc gia",
       "B. Tải nguyên thiên nhiên có san",
       "C. Quy mé dan số",
-      "D. Khối lượng sản phấm thang dư ma xã hội do tao ra"
+      "D. Khối lượng sản phấm thang dư mà xã hội do tạo ra"
     ],
     "answer": "D"
   },
@@ -2444,8 +2444,8 @@ window.QUIZ_DATA = {
     "question": "Theo giáo trình, nhận định \"tự do cạnh tranh đẻ ra tập rung sản xuất và sự tập trung sản xuất này, phát triển tới mét mức độ nhất định, lại dẫn tới đốc quyền\" là của tác giả nào?",
     "options": [
       "A. G.Mác",
-      "B. Ph. Angghen",
-      "C. V.I Lénin",
+      "B. Ph. Ăngghen",
+      "C. V.I Lênin",
       "D. LV. Stalin"
     ],
     "answer": "C"
@@ -2454,9 +2454,9 @@ window.QUIZ_DATA = {
     "id": 148,
     "question": "Theo giáo trình, đầu là những vai trở tích cực của chủ nghĩa tư bản trong lịch sử?",
     "options": [
-      "A. Thúc đấy lực lương sản xuất phát triển manh mẽ",
+      "A. Thúc đẩy lực lương sản xuất phát triển manh mẽ",
       "B. Thực hiện xã hội hóa sản xuất ở trình độ cao",
-      "C. Xóa bỏ hoàn toàn ap bức va bóc lột giữa các giai cấp",
+      "C. Xóa bỏ hoàn toàn ap bức và bóc lột giữa các giai cấp",
       "D. Chuyến nền sản xuất nhỏ thành nền sản xuất hiện đại"
     ],
     "answer": "ABD"
@@ -2465,10 +2465,10 @@ window.QUIZ_DATA = {
     "id": 149,
     "question": "Theo giáo trình, xét theo hình thức đầu tư xuất khẩu tư bản có hai hình thức chủ yếu nào?",
     "options": [
-      "A. Đầu tư trực tiếp va dau tư ủy nhiệm",
+      "A. Đầu tư trực tiếp và dau tư ủy nhiệm",
       "B. Đầu tư trực tiếp vẻ đầu tư gián tiếp",
-      "C. Đầu tư trong nước va đầu tu ngoài nước",
-      "D. Đầu tư cong nghiệp va dau tư nông nghiệp"
+      "C. Đầu tư trong nước và đầu tu ngoài nước",
+      "D. Đầu tư cong nghiệp và dau tư nông nghiệp"
     ],
     "answer": "B"
   },
@@ -2487,21 +2487,21 @@ window.QUIZ_DATA = {
     "id": 151,
     "question": "Đại hồi nào của Đảng đã xác định nền kinh tế thị trường định hướng xã hội chủ nghĩa là mô hình kinh tế tống quát của Việt Nam trong thời kỳ quá độ?",
     "options": [
-      "A. Đại hội Đảng toàn quốc lần thứ IX (2001)",
+      "Đại hội Đảng toàn quốc lần thứ IX (2001)",
       "B. Đại hôi Đảng toàn quốc lần thứ VI (1986)",
-      "C. Đại hội Đảng toàn quốc lần thứ VIII (1996)",
-      "D. Đại hội Đảng toàn quốc lần thứ VII (1991)"
+      "Đại hội Đảng toàn quốc lần thứ VIII (1996)",
+      "Đại hội Đảng toàn quốc lần thứ VII (1991)"
     ],
     "answer": "A"
   },
   {
     "id": 152,
-    "question": "MULE IIFEE LRVILC Theo C. Mác, nội dung và hình thức của sở hữu được quyết định trực tiếp bởi yếu tố nào?",
+    "question": "Theo C. Mác, nội dung và hình thức của sở hữu được quyết định trực tiếp bởi yếu tố nào?",
     "options": [
       "A. Ý chí chủ quan của giai cấp thống trị",
       "B. Truyền thống văn hoá lâu đời",
       "C. Trình độ phát triển của lực lượng sản xuất",
-      "D. Hệ thống pháp luật của nha nước"
+      "D. Hệ thống pháp luật của nhà nước"
     ],
     "answer": "C"
   },
@@ -2511,17 +2511,17 @@ window.QUIZ_DATA = {
     "options": [
       "A. Thế chế an sinh",
       "B. Thế chẽ văn hoá",
-      "C. Thể chẽ chính tri",
+      "C. Thể chẽ chính trị",
       "D. Thế chế kinh tế"
     ],
     "answer": "CD"
   },
   {
     "id": 154,
-    "question": "Kinh tế thị trưởng định hướng xã hội chủ nghĩa ở Việt Nam, thành phần kinh tế nào giữ vai trò là một đồng lực quan trong thúc đấy phát tnén kinh tế?",
+    "question": "Kinh tế thị trưởng định hướng xã hội chủ nghĩa ở Việt Nam, thành phần kinh tế nào giữ vai trò là một đồng lực quan trong thúc đẩy phát tnén kinh tế?",
     "options": [
       "A. Thanh phan kinh tế tư nhan",
-      "B. Thanh phần kinh tế nha nước",
+      "B. Thanh phần kinh tế nhà nước",
       "C. Thành phần kinh tế tập thế",
       "D. Thanh phần kinh tế có vốn dau tư nước ngoài"
     ],
@@ -2531,8 +2531,8 @@ window.QUIZ_DATA = {
     "id": 155,
     "question": "Theo giáo trình, một trong những nhiệm vụ chủ yếu d& hoàn thiện thế chế kinh tế thị trường định hướng xã hoi chủ nghĩa ở Việt Nam là gì?",
     "options": [
-      "A. Hoàn thiện thế chế về sở hữu va phát triển các thành phần kinh tế",
-      "B. Giảm vai trò quan lý của Nha nước tập trung phát triển kinh tế tư nhãn",
+      "A. Hoàn thiện thế chế về sở hữu và phát triển các thành phần kinh tế",
+      "B. Giảm vai trò quan lý của Nhà nước tập trung phát triển kinh tế tư nhãn",
       "C. Quay trở về cơ chẽ kế hoạch hoa tập trung quan liêu bao cấp",
       "D. Chuyến đối có lộ trình theo kinh tế thị trưởng tự do kiếu Mỹ"
     ],
@@ -2543,20 +2543,20 @@ window.QUIZ_DATA = {
     "question": "Theo giáo trình, đặc điểm chung của mọi nền kinh tế thị trường về vai trở của Nhà nước là gì?",
     "options": [
       "A. Nhà nước trực tiếp quản lý toàn bộ hoạt động sản xuất kinh doanh",
-      "B. Nha nước không can thiệp vào nền kinh tế",
-      "C. Nha nước quản lý vĩ mõ thông qua hệ thống pháp luật va cong cụ chính sách",
-      "D. Nha nước chỉ tập trung vào quản lý van hóa - giáo dục"
+      "B. Nhà nước không can thiệp vào nền kinh tế",
+      "C. Nhà nước quản lý vĩ mõ thông qua hệ thống pháp luật và cong cụ chính sách",
+      "D. Nhà nước chỉ tập trung vào quản lý van hóa - giáo dục"
     ],
     "answer": "C"
   },
   {
     "id": 157,
-    "question": "Theo giáo trình, đầu là các công cụ chủ yếu đế Nha nước quản lý vĩ mô nền kinh tế thị trưởng định hướng xã hội chủ nghĩa?",
+    "question": "Theo giáo trình, đầu là các công cụ chủ yếu đế Nhà nước quản lý vĩ mô nền kinh tế thị trưởng định hướng xã hội chủ nghĩa?",
     "options": [
       "A. Kế hoạch, pháp luật, công cụ tải chính - tiền tệ, cõng cụ điều tiết kinh tế đối ngoại",
-      "B. Hệ thống pháp luật đồng bộ, cơ chế tự điều tiết của thị trưởng va quy dinh hành chính xã hội",
-      "C. Các chính sách thuế vĩ mõ, trở cấp kinh tế cũng các thanh phan kinh tế tư nhãn va tap thé",
-      "D. Quản lý hành chính va mệnh lệnh trực tiếp tử trung ương đến địa phương"
+      "B. Hệ thống pháp luật đồng bộ, cơ chế tự điều tiết của thị trưởng và quy dinh hành chính xã hội",
+      "C. Các chính sách thuế vĩ mõ, trở cấp kinh tế cũng các thanh phan kinh tế tư nhãn và tap thé",
+      "D. Quản lý hành chính và mệnh lệnh trực tiếp tử trung ương đến địa phương"
     ],
     "answer": "A"
   },
@@ -2564,8 +2564,8 @@ window.QUIZ_DATA = {
     "id": 158,
     "question": "Theo giáo trình, kinh tế thị rường phát triển mạnh và trở thành phương thức kinh tế phổ biến trong hình thái kinh tế - xã hội nào?",
     "options": [
-      "A. Tư bản chủ nghĩa",
-      "B. A. Tư bản chủ nghĩa hiém hữu nd lệ",
+      "Tư bản chủ nghĩa",
+      "Tư bản chủ nghĩa hiém hữu nd lệ",
       "C. Xã hội chủ nghĩa",
       "D. Phong kiến"
     ],
@@ -2575,7 +2575,7 @@ window.QUIZ_DATA = {
     "id": 159,
     "question": "Trong nền kinh tế thị trường, thị trường KHÔNG thực hiện vai trò nào sau đây?",
     "options": [
-      "A. Thưc hiện giá tn hàng hóa",
+      "A. Thưc hiện giá trị hàng hóa",
       "B. Phan bố tư liệu sản xuất",
       "C. Điều tiết nguồn lực cho sản xuất",
       "D. Hoạch định chính sách kinh tế"
@@ -2586,20 +2586,20 @@ window.QUIZ_DATA = {
     "id": 160,
     "question": "Theo giáo trình, kinh tế tri thức được định nghĩa như thế nao?",
     "options": [
-      "A. La nền kinh tế tập trung vào việc khai thác các nguồn tải nguyên thiên nhiên va sử dụng lực lượng lao dong",
+      "A. La nền kinh tế tập trung vào việc khai thác các nguồn tải nguyên thiên nhiên và sử dụng lực lượng lao động",
       "B. ơ bắp giữ vai trò chủ đạo trong tăng trưởng",
-      "C. La nền kinh tế trong đó sản sinh, phố cập va sử dụng tri thức giữ vai tro quyết định nhất đối với phát triển kinh tế",
-      "D. La nên kinh tế tập trung quy hoạch vào các ngành công nghiệp năng quy mô lớn va duy tri các phương thức sản xuất nông nghiệp truyền thống",
+      "C. La nền kinh tế trong đó sản sinh, phố cập và sử dụng tri thức giữ vai tro quyết định nhất đối với phát triển kinh tế",
+      "D. La nên kinh tế tập trung quy hoạch vào các ngành công nghiệp năng quy mô lớn và duy tri các phương thức sản xuất nông nghiệp truyền thống",
       "E. La nền kinh tế trong đỏ việc áp dụng máy móc, cải tiến khoa học kỹ thuật vào quy trình sản xuất giữ vai trò thúc đẩy tăng trưởng kinh tế"
     ],
     "answer": "B"
   },
   {
     "id": 161,
-    "question": "Ngoài việc sử dụng năng lượng điện trong sản xuất, cuộc cách mạng công nghiệp lần thứ hai còn tạo ra những tiến bo vượt bac trong lĩnh vực nào sau day?",
+    "question": "Ngoài việc sử dụng năng lượng điện trong sản xuất, cuộc cách mạng công nghiệp lần thứ hai còn tạo ra những tiến bo vượt bac trong lĩnh vực nào sau đây?",
     "options": [
       "A. Giao thông van tải và thong tin liên lạc",
-      "B. Tri tuệ nhãn tạo va dữ liệu lớn",
+      "B. Tri tuệ nhãn tạo và dữ liệu lớn",
       "C. Cơ giới hóa ngành dệt bằng máy hơi nước",
       "D. Internet van vật (loT) vả in 3D"
     ],
@@ -2629,12 +2629,12 @@ window.QUIZ_DATA = {
   },
   {
     "id": 164,
-    "question": "Theo giáo trình, khái niệm “Cách mạng công nghiệp lần thứ tư” được đề cập lần đầu tiên Ở đầu va năm nào?",
+    "question": "Theo giáo trình, khái niệm “Cách mạng công nghiệp lần thứ tư” được đề cập lần đầu tiên Ở đầu và năm nào?",
     "options": [
-      "A. Tại Mỹ năm 2011",
-      "B. Tại Đức năm 2011",
+      "Tại Mỹ năm 2011",
+      "Tại Đức năm 2011",
       "C. Tai Anh năm 2012",
-      "D. Tại Pháp năm 2011"
+      "Tại Pháp năm 2011"
     ],
     "answer": "B"
   },
@@ -2654,8 +2654,8 @@ window.QUIZ_DATA = {
     "question": "Theo giáo trình, nội dung cơ bản của cuộc Cách mang công nghiệp lần thứ nhất là gì?",
     "options": [
       "A. Chuyến tử lao đồng thủ cõng sang sử dụng đồng cơ điện",
-      "B. Chuyến từ lao đồng thủ công sang lao dong máy móc",
-      "C. Chuyến tử lao dong máy móc sang sử dung năng lương điện vả đồng cơ điện",
+      "B. Chuyến từ lao đồng thủ công sang lao động máy móc",
+      "C. Chuyến tử lao động máy móc sang sử dụng năng lương điện vả đồng cơ điện",
       "D. Chuyến từ lao động cơ khi máy móc lên tự đồng hoá sản xuất"
     ],
     "answer": "B"
@@ -2665,9 +2665,9 @@ window.QUIZ_DATA = {
     "question": "Theo giáo trình, cuộc cách mang công nghiệp lần thứ nhất ở Anh bt nguồn từ ngành nào?",
     "options": [
       "A. Khai thác than đá",
-      "B. Công nghiệp năng (luyện kim, đóng tau)",
+      "Công nghiệp năng (luyện kim, đóng tau)",
       "C. Cong nghiệp nhẹ (đặc biết là dệt may)",
-      "D. Nông nghiệp va chẽ biến thực phẩm"
+      "D. Nông nghiệp và chẽ biến thực phẩm"
     ],
     "answer": "C"
   },
@@ -2695,11 +2695,11 @@ window.QUIZ_DATA = {
   },
   {
     "id": 170,
-    "question": "Theo giáo trình, cuộc cách mang công nghiệp lần thứ tư (CMCN 4.0) đang diễn ra trên thế giới gắn liên với đặc trung nao sau day?",
+    "question": "Theo giáo trình, cuộc cách mang công nghiệp lần thứ tư (CMCN 4.0) đang diễn ra trên thế giới gắn liên với đặc trung nao sau đây?",
     "options": [
-      "A. Sử dụng năng lượng nước va hơi nước trong sản xuất",
-      "B. Sử dụng năng lượng điện va động cơ diện trong sản xuất",
-      "C. Liên kết giữa thế giới thực va thế giới ảo dựa trên AI, loT, big data",
+      "A. Sử dụng năng lượng nước và hơi nước trong sản xuất",
+      "B. Sử dụng năng lượng điện và động cơ diện trong sản xuất",
+      "C. Liên kết giữa thế giới thực và thế giới ảo dựa trên AI, loT, big data",
       "D. Cơ giới hoá ngành dệt may bằng máy hơi nước"
     ],
     "answer": "C"
@@ -2717,11 +2717,11 @@ window.QUIZ_DATA = {
   },
   {
     "id": 172,
-    "question": "Theo Văn kiện Đại hội Đảng, nhận định \"Khoa học va công nghệ sẽ có bước tiến nhảy vọt. Kinh tế tri thức có vai tr ngảy cảng nối bat trong quá trình phát triển lực lượng sản xuất” được nêu trong Đại hồi đại biếu toàn quốc lần thứ mấy của Dang?",
+    "question": "Theo Văn kiện Đại hội Đảng, nhận định \"Khoa học và công nghệ sẽ có bước tiến nhảy vọt. Kinh tế tri thức có vai tr ngảy cảng nối bat trong quá trình phát triển lực lượng sản xuất” được nêu trong Đại hồi đại biếu toàn quốc lần thứ mấy của Dang?",
     "options": [
       "A. Dai hội lần thứ VIII (1996)",
-      "B. Đại hội lan thd IX (2001) Đại hội lãn thứ X (2006)",
-      "C. Đại hội lần thứ XI (2011)"
+      "Đại hội lan thd IX (2001) Đại hội lãn thứ X (2006)",
+      "Đại hội lần thứ XI (2011)"
     ],
     "answer": "B"
   },
@@ -2729,10 +2729,10 @@ window.QUIZ_DATA = {
     "id": 173,
     "question": "Cách mang công nghiệp lần thú hai diễn ra trong giai đoạn nào?",
     "options": [
-      "A. Từ nửa cuối thế ky XIX đến đầu thế ky XX",
-      "B. Tử nửa đầu thế ky XIX đến cuối thế ky XIX",
-      "C. Tử nửa dau thế ky XX đế nữa cuối thế ky XX",
-      "D. Tử nữa cuối thé ky XIX đến nửa cuối thế ky XX"
+      "A. Từ nửa cuối thế kỷ XIX đến đầu thế kỷ XX",
+      "B. Tử nửa đầu thế kỷ XIX đến cuối thế kỷ XIX",
+      "C. Tử nửa dau thế kỷ XX đế nửa cuối thế kỷ XX",
+      "D. Tử nửa cuối thế kỷ XIX đến nửa cuối thế kỷ XX"
     ],
     "answer": "A"
   },
@@ -2740,7 +2740,7 @@ window.QUIZ_DATA = {
     "id": 174,
     "question": "Mục tiêu mà nền kinh tế thị rường định hướng xã hội chủ nghĩa của Việt Nam hướng tới bao gồm những gì? Chọn hai đáp án.",
     "options": [
-      "A. Xã hội \"dân gidu, nước mạnh, dân chủ, công bằng, van minh\".",
+      "A. Xã hội \"dân gidu, nước mạnh, dân chủ, công bằng, văn minh\".",
       "B. Kinh tế chỉ vận hành dưa trên nguyên tắc thị trường tư do.",
       "C. Cân bằng lợi ích giữa các thành phần kinh tế.",
       "D. Hoàn toàn không cần su quản lý của Nhà nước."
@@ -2760,9 +2760,9 @@ window.QUIZ_DATA = {
   },
   {
     "id": 176,
-    "question": "WMVLITIFLE Mỹ Si Theo nghĩa trửu tượng, thị trường được hiếu như thế nào?",
+    "question": "Theo nghĩa trừu tượng, thị trường được hiểu như thế nào?",
     "options": [
-      "A. Là nơi diễn ra hành vi trao đối, mua bán hàng hoá giữa các chủ thế kinh tế với nhau",
+      "A. Là nơi diễn ra hành vi trao đổi, mua bán hàng hoá giữa các chủ thế kinh tế với nhau",
       "B. La tống thế các yếu tố kinh tế vận dong theo quy luật của thị trưởng",
       "C. La nơi người bán quyết dinh gia cả, người mua chỉ được quyền lua chọn",
       "D. La tổng hoa các mối quan hệ liên quan đến trao đổi, mua bán hang hoá, dich vụ trong xã hội"
@@ -2774,7 +2774,7 @@ window.QUIZ_DATA = {
     "question": "Theo C. Mác, ba giai đoạn phát triển của cách mang công nghiệp lần thứ nhất là gì?",
     "options": [
       "A. Hiệp tác giản đơn — công trường thủ công — dai cong nghiệp",
-      "B. Tu cung tự cấp — trao đối giản đơn — kinh tế thị trường",
+      "B. Tu cung tự cấp — trao đổi giản đơn — kinh tế thị trường",
       "C. Phong kiến — tư bản — xã hội chủ nghĩa",
       "D. Nong nghiệp — công nghiệp — dich vụ"
     ],
@@ -2796,7 +2796,7 @@ window.QUIZ_DATA = {
     "question": "'Yếu tố nào quyết định đến sự hình thành của cách mang công nghiệp gi?",
     "options": [
       "A. Sự phát triển vượt bậc của quan hệ sản xuất",
-      "B. Phương thức sản xuất mới ra đời",
+      "Phương thức sản xuất mới ra đời",
       "C. C. Sự phát triển nhảy vọt về trình độ của tư liệu lao động",
       "D. Cáo phát minh sáng chế của các nhà khoa học trên mọi lĩnh vực"
     ],
@@ -2849,10 +2849,10 @@ window.QUIZ_DATA = {
     "id": 184,
     "question": "Cách mạng công nghiệp lần thứ ba diễn ra trong giai đoạn nào?",
     "options": [
-      "A. Từ đâu thập niên 50 của thể ky XX đến cuối thé ky XX",
-      "B. Từ đầu thập niên 60 của thể kỷ XX đến cuối thế ky XX",
-      "C. Từ đâu thập niên 70 của thể ky XX đến cuối thế ky XX",
-      "D. Từ đâu thập niên 80 của thé ky XX đến cuối thế ky XX"
+      "A. Từ đâu thập niên 50 của thế kỷ XX đến cuối thế kỷ XX",
+      "B. Từ đầu thập niên 60 của thể kỷ XX đến cuối thế kỷ XX",
+      "C. Từ đâu thập niên 70 của thế kỷ XX đến cuối thế kỷ XX",
+      "D. Từ đâu thập niên 80 của thế kỷ XX đến cuối thế kỷ XX"
     ],
     "answer": "A"
   },
@@ -2860,9 +2860,9 @@ window.QUIZ_DATA = {
     "id": 185,
     "question": "Xu hướng chung của sản xuất tu bản chủ nghĩa là:",
     "options": [
-      "A. Nâng cao mức tiên công",
+      "A. Nâng cao mức tiền công",
       "B. Hạ thấp mức tiền công",
-      "C. Giữ nguyên mức tiên công"
+      "C. Giữ nguyên mức tiền công"
     ],
     "answer": "B"
   },
@@ -2870,9 +2870,9 @@ window.QUIZ_DATA = {
     "id": 186,
     "question": "Xu hướng chung của sản xuất tu bản chủ nghĩa là:",
     "options": [
-      "A. Nâng cao mức tiên công",
+      "A. Nâng cao mức tiền công",
       "B. Hạ thấp mức tiền công",
-      "C. Giữ nguyên mức tiên công"
+      "C. Giữ nguyên mức tiền công"
     ],
     "answer": "B"
   },
@@ -2892,7 +2892,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Quyền sở hữu tư liệu sản xuất thuộc về nhà nước",
       "B. Tích lũy tư bản",
-      "C. Trao đối tự nguyện",
+      "C. Trao đổi tự nguyện",
       "D. Một hệ thống giá cả và thị trường cạnh tranh."
     ],
     "answer": "A"
@@ -2901,7 +2901,7 @@ window.QUIZ_DATA = {
     "id": 189,
     "question": "Dai hội nào của Đảng Cộng sản Việt Nam đề cập đến sự cần thiết đổi mới cơ chế quản lý kinh tế?",
     "options": [
-      "A. Đại hội dang V Đại hội đảng VI Đại hội dang VII Đại hội đảng Vill"
+      "Đại hội dang V Đại hội đảng VI Đại hội dang VII Đại hội đảng Vill"
     ],
     "answer": "A"
   },
@@ -2941,10 +2941,10 @@ window.QUIZ_DATA = {
     "id": 193,
     "question": "Trong lịch sử phát triển nên sản xuất xã hội, tiên đề nào là quan trọng nhất cho sự ra đời và phát triển của nên kinh tế thị trường?",
     "options": [
-      "A. Sản xuất",
+      "Sản xuất",
       "B. Trao đổi hàng hóa",
       "C. Thị trường",
-      "D. Sản xuất và trao đổi hàng hóa"
+      "Sản xuất và trao đổi hàng hóa"
     ],
     "answer": "D"
   },
@@ -2972,13 +2972,13 @@ window.QUIZ_DATA = {
   },
   {
     "id": 196,
-    "question": "Các nhân tố nào sau đây ảnh hưởng đến năng suất lao dong?",
+    "question": "Các nhân tố nào sau đây ảnh hưởng đến năng suất lao động?",
     "options": [
       "A. Trình độ khéo léo trung bình của người lao động; Mức độ phát triển của khoa học và trình độ áp dụng khoa học vào quy trình công nghệ; Sự kết hợp xã hội của quá trình sản xuất; Quy mô và hiệu suất của tư liệu sản xuất; Các điều kiện tự nhiên",
       "B. Các chính sách quy định từ nhà nước; Phương pháp và quy định giờ làm việc và đãi ngộ; Sự hợp tác của quá trình làm việc nhóm hiệu quả; Sự phát triển và đào tạo liên tục; Khả năng sáng tạo và đổi mới và thay đổi tư duy",
       "C. Trình độ và kỹ năng của người lao động ngày càng được nâng cao; Môi trường làm việc phù hợp phát huy hết khả năng cá nhân; Quản lý và tổ chức oông việc có sự phân công rõ ràng; Sức khỏe và tình trạng thể chất",
       "D. ủa người lao động được đảm bảo; Các chuẩn mực quy tắc và thái độ của người lao động trong lao động sản xuất",
-      "E. Chất lượng nguyên liệu và công cu sản xuất đáp ứng nhu oầu cho quá trình sản xuất, Sự sẵn sang của nguồn tài chính mang tính ổn định đâu tư vào máy móc; Mức độ tự chủ nhất định của người lao động trong quá trình sản xuất lao dong; Sự công bằng trong quá trình lao động hoạt động sản xuất; Thời tiết và điều kiện môi. trường tự nhiên"
+      "E. Chất lượng nguyên liệu và công cu sản xuất đáp ứng nhu oầu cho quá trình sản xuất, Sự sẵn sang của nguồn tài chính mang tính ổn định đâu tư vào máy móc; Mức độ tự chủ nhất định của người lao động trong quá trình sản xuất lao động; Sự công bằng trong quá trình lao động hoạt động sản xuất; Thời tiết và điều kiện môi. trường tự nhiên"
     ],
     "answer": "A"
   },
@@ -2986,7 +2986,7 @@ window.QUIZ_DATA = {
     "id": 197,
     "question": "Quan điểm “đổi mới phải luôn luôn quán triệt quan điểm “dân là gốc” vì lợi ích của nhân dân, dựa vào nhân dân, phát huy vai trò làm chủ, tinh thần trách nhiệm, sức sáng tạo và mọi nguồn lực của nhân dân; phát huy sức mạnh đại đoàn kết dân tộc” được đưa ra trong đại hội nào?",
     "options": [
-      "A. Đại hội đảng X Đại hội dang XI Đại hội đảng XII Đại hội đảng XIII"
+      "Đại hội đảng X Đại hội dang XI Đại hội đảng XII Đại hội đảng XIII"
     ],
     "answer": "D"
   },
@@ -3016,10 +3016,10 @@ window.QUIZ_DATA = {
     "id": 200,
     "question": "Giá trị sức lao động được đo gián tiếp bằng:",
     "options": [
-      "A. Giá tri của những tư liệu sản xuất để nuôi sống người lao động",
+      "A. Giá trị của những tư liệu sản xuất để nuôi sống người lao động",
       "B. Giá trị của những tư liệu tiêu dùng để nuôi sống người lao động",
       "C. C. Giá cả của những tư liệu tiêu dùng để nuôi sống bản thân người lao động",
-      "D. Giá tri của những tư liệu tiêu dùng để nuôi sống nhà tư bản"
+      "D. Giá trị của những tư liệu tiêu dùng để nuôi sống nhà tư bản"
     ],
     "answer": "B"
   },
@@ -3052,7 +3052,7 @@ window.QUIZ_DATA = {
       "B. Luật chơi chính thức và phi chính thức được đặt ra đối với các chủ thể tham gia hoạt động trong nền kinh tế",
       "C. ủa một quốp gia trong một giai đoạn lich sử nhất định",
       "D. Bude oấu thành bởi hệ thống các bộ phận khác nhau mà mỗi bộ phận cũng là một hệ thống phức tap gồm nhiều yếu tố.",
-      "E. Quy luật vận động và phát triển của một cộng dong xã hội"
+      "Quy luật vận động và phát triển của một cộng dong xã hội"
     ],
     "answer": "B"
   },
@@ -3095,15 +3095,15 @@ window.QUIZ_DATA = {
       "A. Xã hội loài người càng phát triển, sự tách biệt về sở hữu cảng sâu sắc, hàng hoá được sản xuất ra cảng phong phú.",
       "B. Xã hội loài người cảng phát triển, sự tách biệt về sở hữu cảng sâu sắo, hàng hoá được sản xuất ra càng khan hiếm.",
       "C. Xã hội loài người cảng kém phát triển, sự tách biệt về sở hữu cảng sâu sắc, hàng hoá được sản xuất ra àng kém phong phú.",
-      "D. Sản xuất cang phát triển, sự tách biệt về sở hữu càng sâu sắc, hàng hoá được sản xuất ra càng kém phong phú."
+      "Sản xuất cang phát triển, sự tách biệt về sở hữu càng sâu sắc, hàng hoá được sản xuất ra càng kém phong phú."
     ],
     "answer": "A"
   },
   {
     "id": 208,
-    "question": "Điền vào chỗ trống: C. Máo va Ph. Angghen đã nhân xét rằng: “Giai cấp tư sản, trong quá trình thống trị giai cấp chưa đây một thé ky, đã tạo ra những... nhiều hơn và đồ sộ hơn... của tất cả oáo thể hệ trước kia gop lại”",
+    "question": "Điền vào chỗ trống: C. Máo và Ph. Ăngghen đã nhân xét rằng: “Giai cấp tư sản, trong quá trình thống trị giai cấp chưa đây một thế kỷ, đã tạo ra những... nhiều hơn và đồ sộ hơn... của tất cả oáo thể hệ trước kia gop lại”",
     "options": [
-      "A. Lực lượng sản xuất. lực lượng sản xuất",
+      "Lực lượng sản xuất. lực lượng sản xuất",
       "B. Quan hệ sản xuất.. quan hệ sản xuất",
       "C. Của cai.. của cai",
       "D. Vật chất.. vật chất"
@@ -3122,10 +3122,10 @@ window.QUIZ_DATA = {
   },
   {
     "id": 210,
-    "question": "Bóc lột giá trị thăng du tương đối là hình thức:",
+    "question": "Bóc lột giá trị thặng dư tương đối là hình thức:",
     "options": [
       "A. Tăng thời gian ngày lao động",
-      "B. . Rút ngắn thời gian lao động can thiết và thời gian lao động thăng du",
+      "B. . Rút ngắn thời gian lao động can thiết và thời gian lao động thặng dư",
       "C. C. Rút ngắn thời gian lao động tất yếu",
       "D. Tăng thời gian lao động tất yếu"
     ],
@@ -3191,7 +3191,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Phục vu lợi ích của tổ chức độc quyền tư nhân và cứu nguy cho chủ nghĩa tư bản",
       "B. Phục vụ lợi ích của tổ chức độc quyền tư nhân",
-      "C. Phục vụ lợi ích của nha nước tư san"
+      "C. Phục vụ lợi ích của nhà nước tư san"
     ],
     "answer": "A"
   },
@@ -3208,23 +3208,23 @@ window.QUIZ_DATA = {
   },
   {
     "id": 218,
-    "question": "Chức năng nao của kinh tế chính trị Mác - Lénin thể hiện sự vận dụng đúng các quy luật kinh tế khách quan thông qua điều chỉnh hành vi cá nhân hoặc các chính sách kinh tế sẽ góp phần thúc đấy kinh tế - xã hội phát triển theo hướng tiến bộ?",
+    "question": "Chức năng nao của kinh tế chính trị Mác - Lênin thể hiện sự vận dụng đúng các quy luật kinh tế khách quan thông qua điều chỉnh hành vi cá nhân hoặc các chính sách kinh tế sẽ góp phần thúc đẩy kinh tế - xã hội phát triển theo hướng tiến bộ?",
     "options": [
-      "A. Chức năng thực tiễn",
-      "B. . Chức năng nhận thức",
-      "C. Chức năng tư tưởng",
-      "D. Chức năng phương pháp luận"
+      "Chức năng thực tiễn",
+      "Chức năng nhận thức",
+      "Chức năng tư tưởng",
+      "Chức năng phương pháp luận"
     ],
     "answer": "A"
   },
   {
     "id": 219,
-    "question": "Phương thức sản xuất tư bản chủ nghĩa hình thành và thay thế cho phương thức sản sản xuất nào?",
+    "question": "Phương thức sản xuất tư bản chủ nghĩa hình thành và thay thế cho phương thức sản xuất nào?",
     "options": [
-      "A. Phương thức sản xuất phong kiến",
-      "B. Phương thức sản xuất chiếm hữu nô lệ",
-      "C. C. Phương thức sản xuất cộng sản nguyên thuỷ",
-      "D. Phương thức sản xuất cộng sản chủ nghĩa"
+      "Phương thức sản xuất phong kiến",
+      "Phương thức sản xuất chiếm hữu nô lệ",
+      "Phương thức sản xuất cộng sản nguyên thuỷ",
+      "Phương thức sản xuất cộng sản chủ nghĩa"
     ],
     "answer": "A"
   },
@@ -3297,7 +3297,7 @@ window.QUIZ_DATA = {
     "question": "Lý luận kinh tế chính trị của C. Mác và Ph. Ăngghen được cô đọng và tập trung trong tác phẩm nào?",
     "options": [
       "A. Tưbản",
-      "B. Bản thảo kính tế - triét hoc",
+      "B. Bản thảo kính tế - triét học",
       "C. Luge thảo phê phán khoa kinh tế chính trị",
       "D. Tuyên ngôn của Đảng Cộng sản"
     ],
@@ -3307,10 +3307,10 @@ window.QUIZ_DATA = {
     "id": 227,
     "question": "Cách mang công nghiệp lần thứ nhất diễn ra trong thời gian nào?",
     "options": [
-      "A. Từ giữa thế ky XV đến giữa thế ky XIX",
-      "B. Từ giữa thế ky XVI đến giữa thế ky XVII",
-      "C. Từ giữa thế ky XVIII đến giữa thế ky XIX",
-      "D. Từ giữa thế ky XIX đến giữa thế ky XX"
+      "A. Từ giữa thế kỷ XV đến giữa thế kỷ XIX",
+      "B. Từ giữa thế kỷ XVI đến giữa thế kỷ XVII",
+      "C. Từ giữa thế kỷ XVIII đến giữa thế kỷ XIX",
+      "D. Từ giữa thế kỷ XIX đến giữa thế kỷ XX"
     ],
     "answer": "C"
   },
@@ -3330,7 +3330,7 @@ window.QUIZ_DATA = {
     "id": 229,
     "question": "Mọi tư bản đều biểu hiện dưới dạng tiền, nhưng tiền không phải là tư bản. Vậy khi nào tiền trở thành tư bản?",
     "options": [
-      "A. Tiên biến thành tư bản khi được dùng để mang lại giá trị thăng du.",
+      "A. Tiên biến thành tư bản khi được dùng để mang lại giá trị thặng dư.",
       "B. Tiên biến thành tư bản khi được dùng để mang lại địa vị làm chủ nhà tư bản.",
       "C. C. Tiên biến thành tư bản khi được dùng đề mang lại giá trị chung cho toàn xã hội.",
       "D. Tiền biến thành tư bản khi được dùng với vai trò là một phương tiên thanh toán"
@@ -3361,7 +3361,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 232,
-    "question": "Xuất khẩu giá trị ra nước ngoài nhằm mục đích thu được giá trị thăng du và cáo nguồn lợi kháo 6 cáo nước mà mình đâu tư gọi là gì?",
+    "question": "Xuất khẩu giá trị ra nước ngoài nhằm mục đích thu được giá trị thặng dư và cáo nguồn lợi kháo 6 cáo nước mà mình đâu tư gọi là gì?",
     "options": [
       "A. Xuất khẩu tư bản",
       "B. Nhập khẩu tư bản Đâu tư thị trường Đầu tư tiền tệ"
@@ -3414,7 +3414,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 237,
-    "question": "Theo kinh tế - chính tri Mác - Lênin, loại tiền nào có chức năng cất trữ?",
+    "question": "Theo kinh tế - chính trị Mác - Lênin, loại tiền nào có chức năng cất trữ?",
     "options": [
       "A. Tiền giấy",
       "B. Tiên điện tử",
@@ -3438,15 +3438,15 @@ window.QUIZ_DATA = {
     "question": "Trong giai đoạn chủ nghĩa tư bản cạnh tranh tự do, quy luật giá trị thăng dư biểu hiện thành quy luật",
     "options": [
       "A. Lợi nhuận độc quyền",
-      "B. Tỷ suất lợi nhuân bình quân",
+      "B. Tỷ suất lợi nhuận bình quân",
       "C. C. Lợi nhuận độc quyền cao",
-      "D. Ty suất giá trị thăng du"
+      "D. Ty suất giá trị thặng dư"
     ],
     "answer": "B"
   },
   {
     "id": 240,
-    "question": "Chu nghĩa trọng nông tập trung trong tâm vào nghiên cứu lĩnh vực nào?",
+    "question": "Chủ nghĩa trọng nông tập trung trong tâm vào nghiên cứu lĩnh vực nào?",
     "options": [
       "A. Lĩnh vực sản xuất",
       "B. Lĩnh vực lưu thông",
@@ -3459,10 +3459,10 @@ window.QUIZ_DATA = {
     "id": 241,
     "question": "Hệ thống lý luận kinh tế chính trị nào bước đầu nghiên cứu về nền sản xuất tư bản chủ nghĩa?",
     "options": [
-      "A. Chủ nghĩa trọng thương",
-      "B. Chủ nghĩa trọng nông",
-      "C. Chủ nghĩa tư bản",
-      "D. Chủ nghĩa xã hội"
+      "Chủ nghĩa trọng thương",
+      "Chủ nghĩa trọng nông",
+      "Chủ nghĩa tư bản",
+      "Chủ nghĩa xã hội"
     ],
     "answer": "A"
   },
@@ -3479,7 +3479,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 243,
-    "question": "Nội dung về kinh tế chính trị của C. Mac va Ph. Ăngghen được trình bày nhiều nhất trong tác phẩm nào?",
+    "question": "Nội dung về kinh tế chính trị của C. Mac và Ph. Ăngghen được trình bày nhiều nhất trong tác phẩm nào?",
     "options": [
       "A. TuBan",
       "B. Hệ tư tưởng Đức",
@@ -3536,7 +3536,7 @@ window.QUIZ_DATA = {
     "id": 248,
     "question": "Trong nền sản xuất hàng hóa, lạm phát là hiện tượng kinh tế tác động trực tiếp đến điều gì?",
     "options": [
-      "A. Sản xuất và tiêu dùng",
+      "Sản xuất và tiêu dùng",
       "B. Tuần hoàn và chu chuyển tư bản",
       "C. Tích tụ và tập trung tư bản",
       "D. Năng suất lao động"
@@ -3568,7 +3568,7 @@ window.QUIZ_DATA = {
     "id": 251,
     "question": "Lao động sản xuất có vai trò gì đối với con người?",
     "options": [
-      "A. Tao ra của cải vật chất dé nuôi sống con người",
+      "A. Tạo ra của cải vật chất dé nuôi sống con người",
       "B. Phát triển, hoàn thiện con người ca về thể lực và trí lực",
       "C. Giúp con người tích luỹ kinh nghiệm, chế tạo ra công cụ sản xuất ngày càng tinh vi",
       "D. Các phương án trả lời đều đúng"
@@ -3577,7 +3577,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 252,
-    "question": "Ai là người đầu tiên phát minh ra tính hai mặt oủa lao động sản xuất hàng hóa: lao động cụ thể và lao động trửu tượng?",
+    "question": "Ai là người đầu tiên phát minh ra tính hai mặt oủa lao động sản xuất hàng hóa: lao động cụ thể và lao động trừu tượng?",
     "options": [
       "A. David Ricardo",
       "B. Karl Marx",
@@ -3633,7 +3633,7 @@ window.QUIZ_DATA = {
     "id": 257,
     "question": "Điểm giống nhau giữa dia tô tuyệt đối và địa tô chênh lệch đó là",
     "options": [
-      "A. Có nguồn gốc từ giá tri thăng dư, đều là kết quả của sự chiếm đoạt lao động thang dư của công nhân nông nghiệp làm thuê",
+      "A. Có nguồn gốc từ giá trị thăng dư, đều là kết quả của sự chiếm đoạt lao động thang dư của công nhân nông nghiệp làm thuê",
       "B. Có nguồn gốc từ lợi nhuận thu được, đều là kết quả của sự chiếm đoạt lao động thang du của công nhân nông nghiệp làm thuê",
       "C. Có nguồn gốc từ giá trị thăng dư, đều là kết quả của sự chism đoạt lao động thăng dư của công nhân công nghiệp làm thuê",
       "D. Có nguồn gốc từ lợi nhuận thu được, đều là kết quả của sự chiếm đoạt lao động thang dư của công nhân ông nghiệp làm thuê"
@@ -3667,7 +3667,7 @@ window.QUIZ_DATA = {
     "question": "Qua trình sản xuất tư bản là quá trình sản xuất:",
     "options": [
       "A. Giá trị sử dụng",
-      "B. Giá tri thang dư",
+      "B. Giá trị thang dư",
       "C. Giá trị trao đổi"
     ],
     "answer": "B"
@@ -3687,10 +3687,10 @@ window.QUIZ_DATA = {
     "id": 262,
     "question": "Sự khác nhau giữa địa tô tuyệt đối và địa tô chênh lệch đó là:",
     "options": [
-      "A. Độc quyền kinh doanh ruộng đã theo kiểu tư bản chủ nghĩa là nguyên nhân sinh ra địa tô chênh lệch, con",
+      "Độc quyền kinh doanh ruộng đã theo kiểu tư bản chủ nghĩa là nguyên nhân sinh ra địa tô chênh lệch, con",
       "B. ộc quyền tư hữu về ruộng đất là nguyên nhân sinh ra địa tô tuyệt đối",
-      "C. Độc quyền sở hữu đất đã theo kiểu tư bản chủ nghĩa là nguyên nhân sinh ra địa tô chênh lệch, còn độc quyền tư hữu về ruộng đất là nguyên nhân sinh ra địa tô tuyệt đối",
-      "D. Độc quyền kinh doanh ruộng đã theo kiểu tư bản chủ nghĩa là nguyên nhân sinh ra địa tô chênh lệch, con",
+      "Độc quyền sở hữu đất đã theo kiểu tư bản chủ nghĩa là nguyên nhân sinh ra địa tô chênh lệch, còn độc quyền tư hữu về ruộng đất là nguyên nhân sinh ra địa tô tuyệt đối",
+      "Độc quyền kinh doanh ruộng đã theo kiểu tư bản chủ nghĩa là nguyên nhân sinh ra địa tô chênh lệch, con",
       "E. ộc quyền sử dụng về ruộng đất là nguyên nhân sinh ra địa tô tuyệt đối"
     ],
     "answer": "A"
@@ -3710,9 +3710,9 @@ window.QUIZ_DATA = {
     "id": 264,
     "question": "Chon phương án đúng về quy luật kinh tế:",
     "options": [
-      "A. Quy luật kinh tế là quy luật xã hội do con người đặt ra, là quy luật khách quan phát sinh tác dụng qua hoạt",
+      "Quy luật kinh tế là quy luật xã hội do con người đặt ra, là quy luật khách quan phát sinh tác dụng qua hoạt",
       "B. ộng kinh tế của con người.",
-      "C. Quy luật kinh tế có tính lịch sử",
+      "Quy luật kinh tế có tính lịch sử",
       "D. Các phương án trả lời đều đúng"
     ],
     "answer": "B"
@@ -3721,16 +3721,16 @@ window.QUIZ_DATA = {
     "id": 265,
     "question": "Tư bản cố định và tư bản lưu động thuộc phạm trù tư bản nào?",
     "options": [
-      "A. Tư bản sản xuất",
-      "B. Tư bản tiền tệ",
-      "C. Tư bản bất biến",
-      "D. Tư bản tiêu dùng"
+      "Tư bản sản xuất",
+      "Tư bản tiền tệ",
+      "Tư bản bất biến",
+      "Tư bản tiêu dùng"
     ],
     "answer": "A"
   },
   {
     "id": 266,
-    "question": "M - khối lượng giá trị thăng dư phản ánh điều gì?",
+    "question": "M - khối lượng giá trị thặng dư phản ánh điều gì?",
     "options": [
       "A. Trình độ khai thác sức lao động làm thuê",
       "B. Trình độ bóc lột sức lao động của nhà tư bản",
@@ -3743,8 +3743,8 @@ window.QUIZ_DATA = {
     "id": 267,
     "question": "Dựa vào căn cứ nào để chia tư bản ra thành tư bản cố định và tư bản lưu dong?",
     "options": [
-      "A. Phương thức chuyển giá trị của các bộ phận tu bản sang sản phẩm",
-      "B. Vai trò các bộ phận tư bản trong quá trình sản xuất giá trị thăng du",
+      "Phương thức chuyển giá trị của các bộ phận tu bản sang sản phẩm",
+      "B. Vai trò các bộ phận tư bản trong quá trình sản xuất giá trị thặng dư",
       "C. Sự thay đổi về lượng trong quá trình sản xuất"
     ],
     "answer": "A"
@@ -3807,7 +3807,7 @@ window.QUIZ_DATA = {
     "id": 273,
     "question": "Cơ chế thị trường có sự điều tiết của nhà nước nhằm phục vụ lợi ích của ai?",
     "options": [
-      "A. Chủ nghĩa tu bản độc quyền",
+      "Chủ nghĩa tu bản độc quyền",
       "B. Nhà nước dân chủ",
       "C. Các công ty tài chính",
       "D. Nhân dân lao động"
@@ -3816,7 +3816,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 274,
-    "question": "Độc quyền nha nước xuất hiện trong chủ nghĩa tư bản là sự liên minh giữa nhà nước tư bản với:",
+    "question": "Độc quyền nhà nước xuất hiện trong chủ nghĩa tư bản là sự liên minh giữa nhà nước tư bản với:",
     "options": [
       "A. Các tổ chức nhà nước",
       "B. Các tổ chức độc quyền",
@@ -3882,7 +3882,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Tạo ra khả năng và động lực to lớn cho việc nghiên cứu khoa học - kỹ thuật",
       "B. Làm giảm năng xuất lao động và tăng nhu cầu lao động lành nghề",
-      "C. Độc quyền làm giảm quy mô kinh tế của quốc gia",
+      "Độc quyền làm giảm quy mô kinh tế của quốc gia",
       "D. Làm lành mạnh hơn sự cạnh tranh trong nền kinh tế"
     ],
     "answer": "A"
@@ -3917,9 +3917,9 @@ window.QUIZ_DATA = {
     "options": [
       "A. Là nền kinh tế thị trường có sự quản lý của nhà nước xã hội chủ nghĩa, do Đảng Cộng sản Việt Nam lãnh ạo",
       "B. Thực hiện phân phối theo kết quả lao động",
-      "C. Là nền kinh tế ma trong đó việc xác lập thể chế sở hữu, phân phối, quản trị kinh doanh của các chủ thể",
+      "C. Là nền kinh tế mà trong đó việc xác lập thể chế sở hữu, phân phối, quản trị kinh doanh của các chủ thể",
       "D. ũng như quản lý nhà nước hướng tới xáo lập những giá trị cốt lõi về xã hội",
-      "E. Là nền kinh tế phát thuy được trí tuệ và nguồn lực của toàn dân",
+      "E. Là nền kinh tế phát huy được trí tuệ và nguồn lực của toàn dân",
       "F. Tất cả phương án"
     ],
     "answer": "E"
@@ -3928,7 +3928,7 @@ window.QUIZ_DATA = {
     "id": 284,
     "question": "Đảng ta khẳng định: “Nền kinh tế thị trường định hướng xã hội chủ nghĩa ở nước ta là nền kinh tế hàng hoá. nhiều thành phần, vận hành theo cơ chế thị trường, có sự quản lý của Nhà nước, dưới sự lãnh đạo của Đảng Cong sản” từ Đại hội nao?",
     "options": [
-      "A. Đại hội XI (2011) Đại hội X (2006) Đại hội VI (1986) Đại hội V (1982)"
+      "Đại hội XI (2011) Đại hội X (2006) Đại hội VI (1986) Đại hội V (1982)"
     ],
     "answer": "A"
   },
@@ -3945,7 +3945,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 286,
-    "question": "Đặc điểm nào dưới đây không phải của kinh tế thi trường?",
+    "question": "Đặc điểm nào dưới đây không phải của kinh tế thị trường?",
     "options": [
       "A. Kinh tế thị trường là kinh tế hàng hoá phát triển cao",
       "B. Kinh tế thị trường lấy khoa học công nghệ hiện đại làm cơ sở",
@@ -3971,7 +3971,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Nhà nước",
       "B. Pháp luật",
-      "C. Quy luật giá trị",
+      "Quy luật giá trị",
       "D. Kinh tế thể giới"
     ],
     "answer": "A"
@@ -3980,7 +3980,7 @@ window.QUIZ_DATA = {
     "id": 289,
     "question": "Mô hình kinh tế thị trường định hướng xã hội chủ nghĩa ở nước ta được chính thức nêu ra ở Đại hội nào của “Đảng Cộng sản Việt Nam?",
     "options": [
-      "A. Đại hội VI Đại hội VIII Đại hội IX ĐạihộiX"
+      "Đại hội VI Đại hội VIII Đại hội IX ĐạihộiX"
     ],
     "answer": "C"
   },
@@ -4020,10 +4020,10 @@ window.QUIZ_DATA = {
     "id": 293,
     "question": "Công nghiệp hóa ở nước Anh bắt nguồn tử ngành nào?",
     "options": [
-      "A. Công nghiệp dệt",
-      "B. Công nghiệp cơ khí chế tạo",
-      "C. Công nghiệp khai khoáng",
-      "D. Công nghiệp đóng tàu"
+      "Công nghiệp dệt",
+      "Công nghiệp cơ khí chế tạo",
+      "Công nghiệp khai khoáng",
+      "Công nghiệp đóng tàu"
     ],
     "answer": "A"
   },
@@ -4062,7 +4062,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 297,
-    "question": "Để sản xuất ra 1000 đôi dép, công ty đầu tư 100000 USD cho nguyên liệu, vật liệu, 5000 USD cho hao mòn máy móc. Công ty đó trả 5000 USD cho công nhân, trình độ bóc lột đạt 200%. Tính giá trị (W) của 10000 đôi dép công ty sản xuất ra?",
+    "question": "Để sản xuất ra 1000 đôi đểp, công ty đầu tư 100000 USD cho nguyên liệu, vật liệu, 5000 USD cho hao mòn máy móc. Công ty đó trả 5000 USD cho công nhân, trình độ bóc lột đạt 200%. Tính giá trị (W) của 10000 đôi đểp công ty sản xuất ra?",
     "options": [
       "A. W= 120000 USD",
       "B. W=110000USD",
@@ -4075,7 +4075,7 @@ window.QUIZ_DATA = {
     "id": 298,
     "question": "Lý thuyết bàn tay vô hình của Adam Smith được hiểu là gì?",
     "options": [
-      "A. Người bán và người mua, phan bố nguồn lực kinh tế đạt được hiệu quả xã hội lớn nhất mà không cần su an thiệp của chính phủ",
+      "A. Người bán và người mua, phan bố nguồn lực kinh tế đạt được hiệu quả xã hội lớn nhất mà không cần su can thiệp của chính phủ",
       "B. Mô tả khả năng của cơ chế thị trường trong việc điều chỉnh cung cầu trên thị trường.",
       "C. Các cá nhân tham gia muốn tối đa hóa lợi nhuận cho mình",
       "D. Mọi người đều bị bàn tay vô hình dẫn tới kết quả làm lợi cho chính mình"
@@ -4115,11 +4115,11 @@ window.QUIZ_DATA = {
   },
   {
     "id": 302,
-    "question": "Lao động trừu tượng tao ra yếu tố nào?",
+    "question": "Lao động trừu tượng tạo ra yếu tố nào?",
     "options": [
       "A. Giá trị của hàng hoá",
       "B. Giá trị sử dụng của hàng hoa",
-      "C. Tiên lương",
+      "C. Tiền lương",
       "D. Lợi nhuận cho tư bản"
     ],
     "answer": "A"
@@ -4137,32 +4137,32 @@ window.QUIZ_DATA = {
   },
   {
     "id": 304,
-    "question": "Be a Á” LÊ, |) ER BBL Ni 2. Giá trị sử dung của hang hóa phản ánh:",
+    "question": "Be a Á” LÊ, |) ER BBL Ni 2. Giá trị sử dụng của hang hóa phản ánh:",
     "options": [
       "A. Tính chất tư nhãn của hàng hóa",
       "B. Tinh chat xã hội của hang hóa",
-      "C. Ca tinh chất tư nhãn va tinh chất xã hội của hang hóa",
+      "C. Ca tinh chất tư nhãn và tinh chất xã hội của hang hóa",
       "D. Lao động trữu tượng của ngưỡi sản xuất"
     ],
     "answer": "A"
   },
   {
     "id": 305,
-    "question": "HC SG LEO NHANG KG G7 GIẢ ior Mle oi. SH Giá trị xã hồi của hang hoá công nghiệp va nông nghiệp giống nhau ở chỗ dựa trên:",
+    "question": "HC SG LEO NHANG KG G7 GIẢ ior Mle oi. SH Giá trị xã hội của hang hoá công nghiệp và nông nghiệp giống nhau ở chỗ dựa trên:",
     "options": [
       "A. Hao phí lao đồng xã hội cần thiết",
-      "B. Hao phi lao dong xã hội trong điều kiện sản xuất trung bình",
+      "B. Hao phi lao động xã hội trong điều kiện sản xuất trung bình",
       "C. Hao phi lao động xã hội trong điêu kiện sản xuất khó khăn nhất"
     ],
     "answer": "A"
   },
   {
     "id": 306,
-    "question": "Cousera El Sus i Khoa hoc Hì Liên kết các doanh nghiệp theo cùng một ngành là theo hình thức:",
+    "question": "Cousera El Sus i Khoa học Hì Liên kết các doanh nghiệp theo cùng một ngành là theo hình thức:",
     "options": [
       "A. Liên kết dọc",
       "B. Liên kết ngang",
-      "C. Cả liên kết doc va liên kết ngang",
+      "C. Cả liên kết doc và liên kết ngang",
       "D. Liên kết đa ngành"
     ],
     "answer": "B"
@@ -4192,7 +4192,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 309,
-    "question": "ỚNG]S9XFA 2 4 l4 - NHHNNNH ... PRAIA ee” BEEN VE kinh tế, xuất khấu tư bản nha nước thường hướng vào:",
+    "question": "ỚNG]S9XFA 2 4 l4 - NHHNNNH ... PRAIA ee” BEEN VE kinh tế, xuất khấu tư bản nhà nước thường hướng vào:",
     "options": [
       "A. Ngành kết cấu ha tang",
       "B. Ngành có vốn chu chuyến nhanh",
@@ -4202,10 +4202,10 @@ window.QUIZ_DATA = {
   },
   {
     "id": 310,
-    "question": "CLOUIFsera v HJ DƯUQCC, vio AN Các tố chức doc quyền sử dung giá cả độc quyền de:",
+    "question": "CLOUIFsera v HJ DƯUQCC, vio AN Các tố chức doc quyền sử dụng giá cả độc quyền de:",
     "options": [
-      "A. Củng cố vai trò của tố chức đốc quyền",
-      "B. Chiêm đoạt giá tn thang du của người khác",
+      "A. Cũng cố vai trò của tố chức đốc quyền",
+      "B. Chiêm đoạt giá trị thang du của người khác",
       "C. Gay thiệt hai cho các dai thủ canh tranh"
     ],
     "answer": "B"
@@ -4215,7 +4215,7 @@ window.QUIZ_DATA = {
     "question": "ÊẼỂẼẼÉÊẼÊỂÊỂ u...ẴÄ.I]Ử]ÃÀIII Đâu là giới han phát triển của chủ nghĩa tư bản?",
     "options": [
       "A. Muc dich của nền sản xuất tư bản chủ nghĩa vẫn tập trung chủ yếu vì lợi ich của thiếu số giai cấp tư sản",
-      "B. Thúc đấy lực lượng sản xuất phát triển nhanh chóng",
+      "B. Thúc đẩy lực lượng sản xuất phát triển nhanh chóng",
       "C. Chuyển nên sản xuất nhỏ thành nền sản xuất lớn hiện đại",
       "D. Thục hiện xã hội hoa sản xuất"
     ],
@@ -4226,7 +4226,7 @@ window.QUIZ_DATA = {
     "question": "TT Nguyên nhân dẫn tới hình thành các tố chức độc quyền đa ngành đó là:",
     "options": [
       "A. Canh tranh gay gắt và đối phó với luật chống doc quyền",
-      "B. Canh tranh giữa các ngành va canh tranh da quốc gia",
+      "B. Canh tranh giữa các ngành và canh tranh da quốc gia",
       "C. Thu lợi nhuận kinh doanh tử chứng khoán",
       "D. Đối phó với luật chống độc quyền ở các quốc gia"
     ],
@@ -4234,18 +4234,18 @@ window.QUIZ_DATA = {
   },
   {
     "id": 313,
-    "question": "mm Trong cơ chế của độc quyền nhà nước trong chủ nghĩa tư bản thì:",
+    "question": "Trong cơ chế của độc quyền nhà nước trong chủ nghĩa tư bản thì:",
     "options": [
-      "A. Nha nước phụ thuộc vao tố chức độc quyền",
-      "B. Nha nước không phụ thuốc vao tố chức độc quyền",
-      "C. Tổ chức độc quyền phụ thuộc vao nha nước",
-      "D. Tổ chức độc quyền va nha nước cạnh tranh gay gắt với nhau"
+      "A. Nhà nước phụ thuộc vao tố chức độc quyền",
+      "B. Nhà nước không phụ thuốc vao tố chức độc quyền",
+      "C. Tổ chức độc quyền phụ thuộc vao nhà nước",
+      "D. Tổ chức độc quyền và nhà nước cạnh tranh gay gắt với nhau"
     ],
     "answer": "A"
   },
   {
     "id": 314,
-    "question": "Ee Lý luận kinh tế chính trị của C. Mác va Ph. Angghen được cô dong và tập trung trong tác phẩm nào?",
+    "question": "Lý luận kinh tế chính trị của C. Mác và Ph. Ăngghen được cô dong và tập trung trong tác phẩm nào?",
     "options": [
       "A. Tưbản",
       "B. Bản thảo kinh tế - triết học",
@@ -4258,10 +4258,10 @@ window.QUIZ_DATA = {
     "id": 315,
     "question": "Chức năng nào của kinh tế chính trị Mác - Lênin thể hiện sự vận dụng đúng các quy luật kinh tế khách quan i thông qua điều chỉnh hành vi cá nhân hoặc các chính sách kinh tế sẽ góp phần thúc đẩy kinh tế - xã hội phát triển theo hướng tiến bộ?",
     "options": [
-      "A. Chức năng thực tiến",
-      "B. Chức năng nhận thức",
-      "C. Chức năng tư tưởng",
-      "D. Chức năng phương pháp luận"
+      "Chức năng thực tiến",
+      "Chức năng nhận thức",
+      "Chức năng tư tưởng",
+      "Chức năng phương pháp luận"
     ],
     "answer": "A"
   },
@@ -4280,8 +4280,8 @@ window.QUIZ_DATA = {
     "id": 317,
     "question": "Hệ thống lý luận kinh tế chính trị đầu tiên nghiên cứu về sản xuất tư bản chủ nghĩa là:",
     "options": [
-      "A. Chủ nghĩa trọng thương",
-      "B. Chủ nghĩa trọng nông",
+      "Chủ nghĩa trọng thương",
+      "Chủ nghĩa trọng nông",
       "C. Kinh tế chính trị cổ điển",
       "D. Kinh tế chính trị cổ điển Anh"
     ],
@@ -4303,7 +4303,7 @@ window.QUIZ_DATA = {
     "question": "Yếu tố nào quyết định đến sự hình thành của cách mạng công nghiệp c-",
     "options": [
       "A. Sự phát triển vượt bậc của quan hệ sản xuất",
-      "B. Phương thức sản xuất mới ra đời",
+      "Phương thức sản xuất mới ra đời",
       "C. Sự phát triển nhảy vọt về trình độ của tư liệu lao động",
       "D. Các phát minh sáng chế của các nhà khoa học trên mọi lĩnh vực"
     ],
@@ -4336,7 +4336,7 @@ window.QUIZ_DATA = {
     "question": "Kinh tế trị thức là: Em g Db v t »",
     "options": [
       "A. Nền kinh tế trong đó có sự sản sinh ra, phổ cập và sử dụng tri thức giữ vai trò quyết định nhất đối với sự phát triển kinh tế, tạo ra của cải, nâng cao chất lượng cuộc sống",
-      "B. Nền kinh tế áp dụng khoa hoc kỹ thuật vào sản xuất",
+      "B. Nền kinh tế áp dụng khoa học kỹ thuật vào sản xuất",
       "C. Nền kinh tế phát triển giáo dục đào tạo và xem đây là nền tảng, động lực cho công nghiệp hoá, hiện đại hoá",
       "D. Nền kinh tế sử dụng tri thức trong sản xuất là phổ biến, vì thế cần đẩy mạnh dua sinh viên di du học ở các nước phát triển"
     ],
@@ -4355,12 +4355,12 @@ window.QUIZ_DATA = {
   },
   {
     "id": 324,
-    "question": "Cách mạng công nghiệp lần thứ tư được đề cập lần dau tiên tại ở đầu va năm nào?",
+    "question": "Cách mạng công nghiệp lần thứ tư được đề cập lần dau tiên tại ở đầu và năm nào?",
     "options": [
-      "A. Tại Đức năm 2011",
-      "B. Tại Pháp năm 2011",
-      "C. Tại Anh năm 2012",
-      "D. Tại Mỹ năm 2011"
+      "Tại Đức năm 2011",
+      "Tại Pháp năm 2011",
+      "Tại Anh năm 2012",
+      "Tại Mỹ năm 2011"
     ],
     "answer": "A"
   },
@@ -4412,10 +4412,10 @@ window.QUIZ_DATA = {
     "id": 329,
     "question": "Cách mạng công nghiệp lần thứ hai diễn ra trong giai đoạn nào?",
     "options": [
-      "A. Từ nửa cuối thế ky XIX đến đầu thế ky XX",
-      "B. Từ nửa đầu thé kỷ XIX đến cuối thé ky XIX",
-      "C. Từ nửa dau thế ky XX đế nữa cuối thé ky XX",
-      "D. Từ nửa cuối thé ky XIX đến nửa cuối thế ky XX"
+      "A. Từ nửa cuối thế kỷ XIX đến đầu thế kỷ XX",
+      "B. Từ nửa đầu thé kỷ XIX đến cuối thế kỷ XIX",
+      "C. Từ nửa dau thế kỷ XX đế nửa cuối thế kỷ XX",
+      "D. Từ nửa cuối thế kỷ XIX đến nửa cuối thế kỷ XX"
     ],
     "answer": "A"
   },
@@ -4426,7 +4426,7 @@ window.QUIZ_DATA = {
       "A. Lĩnh vực lưu thông",
       "B. Lĩnh vực sản xuất",
       "C. Lĩnh vực thuế",
-      "D. Lĩnh vực tiên lương"
+      "D. Lĩnh vực tiền lương"
     ],
     "answer": "A"
   },
@@ -4434,10 +4434,10 @@ window.QUIZ_DATA = {
     "id": 331,
     "question": "TE Hệ thống lý luận kinh tế chính trị nào bước đầu nghiên cứu về nền san xuất tu ban chủ nghĩa?",
     "options": [
-      "A. Chủ nghĩa trọng thương",
-      "B. Chủ nghĩa trong néng",
-      "C. Chủ nghĩa tư bản",
-      "D. Chủ nghĩa xã hội"
+      "Chủ nghĩa trọng thương",
+      "Chủ nghĩa trong néng",
+      "Chủ nghĩa tư bản",
+      "Chủ nghĩa xã hội"
     ],
     "answer": "A"
   },
@@ -4445,8 +4445,8 @@ window.QUIZ_DATA = {
     "id": 332,
     "question": "lo Thế nao là lao động trừu tương?",
     "options": [
-      "A. La hoat động có mục dich, có ý thức của con người",
-      "B. La những lao dong ngành nghề tao ra của cải",
+      "A. La hoạt động có mục dich, có ý thức của con người",
+      "B. La những lao động ngành nghề tạo ra của cải",
       "C. La sự hao phi sức lao động nói chung của người sản xuất hang hóa",
       "D. La lao động sản xuất nếu coi đó là sự hao phí sức lao động nói chung của con người"
     ],
@@ -4458,7 +4458,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Có ảnh hưởng tới giá cả thị trường",
       "B. Quyết dinh gia trị và gia cả hang hoa",
-      "C. Chỉ quyết dịnh đến giá cả va có ảnh hưởng đến gia trị"
+      "C. Chỉ quyết dịnh đến giá cả và có ảnh hưởng đến gia trị"
     ],
     "answer": "A"
   },
@@ -4532,10 +4532,10 @@ window.QUIZ_DATA = {
     "id": 340,
     "question": "Thế nào là tư bản cho vay?",
     "options": [
-      "A. La tư bản hang hóa ma người chủ của nó nhường cho người khác sử dụng ở trong mốt thời gian nhất định ể thu lợi tức",
-      "B. La tư bản tiền tệ ma người chủ của nó nhường cho người khác sử dụng ở trong một thời gian nhất định đề thu lợi tức",
-      "C. La tư bản tiền tệ mã ngưỡi chủ của nó nhưỡng cho ngưỡi khác sử dung ö trong một thai gian nhất định để thu lợi nhuận",
-      "D. La tư bản sản xuất mã người chủ của nó nhưỡng cho người khác sử dụng ð trong một thời gian nhất định ể thu lợi tức"
+      "A. La tư bản hang hóa mà người chủ của nó nhường cho người khác sử dụng ở trong một thời gian nhất định ể thu lợi tức",
+      "B. La tư bản tiền tệ mà người chủ của nó nhường cho người khác sử dụng ở trong một thời gian nhất định đề thu lợi tức",
+      "C. La tư bản tiền tệ mã ngưỡi chủ của nó nhường cho người khác sử dụng ö trong một thai gian nhất định để thu lợi nhuận",
+      "D. La tư bản sản xuất mã người chủ của nó nhường cho người khác sử dụng ð trong một thời gian nhất định ể thu lợi tức"
     ],
     "answer": "B"
   },
@@ -4545,7 +4545,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Tiền công được biểu hiện bằng số lượng hàng hóa tiêu dùng và dịch vụ mà công nhân mua được bằng tiền ông danh nghĩa của mình",
       "B. Tiền công được biểu hiện bằng số lượng hàng hóa tiêu dùng và dịch vụ mà công nhân mua được bằng tiền ông thực tế của mình",
-      "C. Tiên công được biểu hiện bằng số tư liệu sản xuất và tiêu dùng và dịch vụ mà công nhân mua được bằng tiền công thực tế của mình"
+      "C. Tiền công được biểu hiện bằng số tư liệu sản xuất và tiêu dùng và dịch vụ mà công nhân mua được bằng tiền công thực tế của mình"
     ],
     "answer": "A"
   },
@@ -4561,7 +4561,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 343,
-    "question": "NHI G1. PHI NA ANH GP 1G NA Cá Khoa hoo Jt Sức lao dong trở thanh hang hoá mồt cách phố biến tử khi nẻo?",
+    "question": "NHI G1. PHI NA ANH GP 1G NA Cá Khoa hoo Jt Sức lao động trở thanh hang hoá mồt cách phố biến tử khi nẻo?",
     "options": [
       "A. Tử khi có chủ nghĩa tư bản",
       "B. Tử khi có sản xuất hang hoa",
@@ -4574,15 +4574,15 @@ window.QUIZ_DATA = {
     "id": 344,
     "question": "ECoursera v LU Suoc_v | Chi phí thực tế của xã hội đề sản xuất hang hoá là:",
     "options": [
-      "A. Chị phi lao động song va lao dong quá khứ",
-      "B. Chị phi tư bản bất biến va tu bản khả biến",
-      "C. Chi phi sức lao động của toàn xã hội"
+      "A. Chị phi lao động song và lao động quá khứ",
+      "B. Chị phi tư bản bất biến và tu bản khả biến",
+      "C. Chi phí sức lao động của toàn xã hội"
     ],
     "answer": "A"
   },
   {
     "id": 345,
-    "question": "I ”.MÄẴšI Di 2DMCUC,. ”MÔÄDÄSÚU Về mat lượng giữa p va mì thì:",
+    "question": "Về mat lượng giữa p và mì thì:",
     "options": [
       "A. p luôn nhỏ hơn m p luôn lớn hơn m g bằngm'"
     ],
@@ -4590,12 +4590,12 @@ window.QUIZ_DATA = {
   },
   {
     "id": 346,
-    "question": "Trong lịch sử phát triển nên sản xuất xã hội, tiên đề nào là quan trọng nhất cho sự ra đời và phát triển của nên B kinh tế thi trường?",
+    "question": "Trong lịch sử phát triển nên sản xuất xã hội, tiên đề nào là quan trọng nhất cho sự ra đời và phát triển của nên B kinh tế thị trường?",
     "options": [
-      "A. Sản xuất",
+      "Sản xuất",
       "B. Trao đổi hàng hóa",
       "C. Thị trường",
-      "D. Sản xuất và trao đổi hàng hóa"
+      "Sản xuất và trao đổi hàng hóa"
     ],
     "answer": "D"
   },
@@ -4605,7 +4605,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Phong kiến",
       "B. Chiếm hữu nd lệ",
-      "C. Tư bản chủ nghĩa",
+      "Tư bản chủ nghĩa",
       "D. Xã hội chủ nghĩa"
     ],
     "answer": "C"
@@ -4636,13 +4636,13 @@ window.QUIZ_DATA = {
     "id": 350,
     "question": "Đảng ta khẳng định: “Nền kinh tế thị trường định hướng xã hội chủ nghĩa ở nước ta là nền kinh tế h Q.U nhiều thành phần, vận hành theo cơ chế thị trường, có sự quản lý của Nhà nước, dưới sự lãnh đạo CUS Dang Cộng sản” từ Đại hội nào?",
     "options": [
-      "A. Đại hội XI (2011) Đại hội X (2006) Đại hội VI (1986) Đại hội V (1982)"
+      "Đại hội XI (2011) Đại hội X (2006) Đại hội VI (1986) Đại hội V (1982)"
     ],
     "answer": "A"
   },
   {
     "id": 351,
-    "question": "Đặc điểm nào dưới đây không phải của kinh tế thi trường?",
+    "question": "Đặc điểm nào dưới đây không phải của kinh tế thị trường?",
     "options": [
       "A. Kinh tế thị trường là kinh tế hàng hoá phát triển cao",
       "B. Kinh tế thị trường lấy khoa học công nghệ hiện đại làm cơ sở",
@@ -4655,7 +4655,7 @@ window.QUIZ_DATA = {
     "id": 352,
     "question": "Quan điểm “đổi mới phải luôn luôn quán triệt quan điểm “dân là gốc” vì lợi ích của nhân dân, dựa vào nhân anf phát huy vai trò làm chủ, tinh thần trách nhiệm, sức sáng tạo và moi nguồn lực của nhân dân; phát huy sức mạnh đại đoàn kết dân tộc” được đưa ra trong đại hội nào?",
     "options": [
-      "A. Đại hội đảng X Đại hội đảng XI Đại hội đảng XII Đại hội đảng XIII"
+      "Đại hội đảng X Đại hội đảng XI Đại hội đảng XII Đại hội đảng XIII"
     ],
     "answer": "C"
   },
@@ -4663,7 +4663,7 @@ window.QUIZ_DATA = {
     "id": 353,
     "question": "Công cụ quản lý vĩ mô của nhà nước trong nền kinh tế thị trường định hướng xã hội chủ nghĩa là?",
     "options": [
-      "A. Kế hoạch và thi trường, hệ thống pháp luật, các công cụ tai chinh-tién tệ, công cụ điều tiết kinh tế đối ngoại",
+      "A. Kế hoạch và thị trường, hệ thống pháp luật, các công cụ tài chính-tién tệ, công cụ điều tiết kinh tế đối ngoại",
       "B. Kế hoạch và thị trường, kinh tế tư nhân, quản lý tiền tệ",
       "C. Thuế, kinh tế tư nhân, kinh tế tập thể",
       "D. Hệ thống các chính sách kinh tế và xã hội"
@@ -4672,21 +4672,21 @@ window.QUIZ_DATA = {
   },
   {
     "id": 354,
-    "question": "NT CT Xây dưng nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam nhằm thực hiện mục tiêu gì?",
+    "question": "Xây dưng nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam nhằm thực hiện mục tiêu gì?",
     "options": [
-      "A. Dân giảu, nước manh, dân chủ, công bằng, van minh",
-      "B. Dan giảu, nước manh, công bằng, dan chủ, van minh",
-      "C. Dãn gidu, nước mạnh, van minh, công bằng, dan chủ",
-      "D. Dãn giảu, nước mạnh, dan chủ, van minh, công bằng"
+      "A. Dân giảu, nước mạnh, dân chủ, công bằng, văn minh",
+      "B. Dan giảu, nước mạnh, công bằng, dan chủ, văn minh",
+      "C. Dãn gidu, nước mạnh, văn minh, công bằng, dan chủ",
+      "D. Dãn giảu, nước mạnh, dan chủ, văn minh, công bằng"
     ],
     "answer": "A"
   },
   {
     "id": 355,
-    "question": "HP Tư tưởng kinh tế dau tiên của giai cấp tư san trong giai đoan phương thức san xuất phong kiến tan rã va chủ nghĩa tư bản ra đời đó là:",
+    "question": "HP Tư tưởng kinh tế dau tiên của giai cấp tư san trong giai đoạn phương thức san xuất phong kiến tan rã và chủ nghĩa tư bản ra đời đó là:",
     "options": [
-      "A. Chủ nghĩa trọng thương",
-      "B. Chủ nghĩa trọng nông",
+      "Chủ nghĩa trọng thương",
+      "Chủ nghĩa trọng nông",
       "C. Kinh t& chính trị cố điển Anh",
       "D. Kinh tế chính trị của Karl Marx"
     ],
@@ -4694,9 +4694,9 @@ window.QUIZ_DATA = {
   },
   {
     "id": 356,
-    "question": "HN II Lý thuyết bản tay vô hình của Adam Smith được hiếu là gì? (chon 3 phương án đúng)",
+    "question": "Lý thuyết bàn tay vô hình của Adam Smith được hiếu là gì? (chon 3 phương án đúng)",
     "options": [
-      "A. Người bán và người mua, phan bố ngudn lực kinh tế dat được hiệu quả xã hồi lớn nhất ma không can sự an thiệp của chính phủ",
+      "A. Người bán và người mua, phan bố ngudn lực kinh tế dat được hiệu quả xã hội lớn nhất mà không can sự can thiệp của chính phủ",
       "B. MG tả khả năng của cơ chế thị trường trong việc điều chinh cung cầu trên thị trường.",
       "C. Các cả nhãn tham gia muốn tối da hoa lợi nhuận cho mình",
       "D. Mọi ngudi đều bi bản tay võ hình dẫn tới kết quả làm lợi cho chính minh"
@@ -4705,12 +4705,12 @@ window.QUIZ_DATA = {
   },
   {
     "id": 357,
-    "question": "Công thức về giá trị hang hóa G = c + (v+m). Trong đó (v+m) là bộ phan giá trị mới của hàng hoá, do hao phí lao dong tạo ra. Vay c là biếu hiện của giá trị nao?",
+    "question": "Công thức về giá trị hang hóa G = c + (v+m). Trong đó (v+m) là bộ phan giá trị mới của hàng hoá, do hao phí lao động tạo ra. Vay c là biếu hiện của giá trị nao?",
     "options": [
-      "A. La giá tn của những tư liệu sản xuất đã được tiêu dùng, là bộ phan lao động qua khứ da được kết tinh trong máy móc, nguyên, nhiên, vật liệu",
-      "B. La gia tri của những tư liệu lao dong đã được tiêu hao, là bộ phan lao động quá khứ đã được kết tinh trong lao dong sản xuất",
-      "C. La tư bản khả biến điều kiện can thiết để qua trình tạo ra giá trị thăng du được diễn ra",
-      "D. La tư bản (ng trước điều kiện cần để dau tư va tái sản xuất và mỡ rộng quy mỡ sản xuất"
+      "A. La giá trị của những tư liệu sản xuất đã được tiêu dùng, là bộ phan lao động qua khứ da được kết tinh trong máy móc, nguyên, nhiên, vật liệu",
+      "B. La gia tri của những tư liệu lao động đã được tiêu hao, là bộ phan lao động quá khứ đã được kết tinh trong lao động sản xuất",
+      "C. La tư bản khả biến điều kiện can thiết để qua trình tạo ra giá trị thặng dư được diễn ra",
+      "D. La tư bản (ng trước điều kiện cần để dau tư và tái sản xuất và mỡ rộng quy mỡ sản xuất"
     ],
     "answer": "A"
   },
@@ -4718,7 +4718,7 @@ window.QUIZ_DATA = {
     "id": 358,
     "question": "Mọi tư bản đều biểu hiện dưới dạng tiên, nhưng tiền không phải là tư bản. Vậy khi nào tiền trở thành tư bản?",
     "options": [
-      "A. Tiên biến thành tu ban khi được dùng để mang lại giá trị thăng du.",
+      "A. Tiên biến thành tu ban khi được dùng để mang lại giá trị thặng dư.",
       "B. Tiên biến thành tu bản khi được dùng để mang lại địa vị làm chủ nhà tư bản.",
       "C. Tiền biến thành tư bản khi được dùng để mang lại giá trị chung cho toàn xã hội.",
       "D. Tiên biến thành tư bản khi được dùng với vai trò là một phương tiện thanh toán."
@@ -4727,7 +4727,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 359,
-    "question": "EE mm, r Em GrrT Sư khác biệt về mục tiêu giữa kinh tế thị trường định hướng xã hồi chủ nghĩa với kinh tế thị trường tư bản chủ nghĩa là gì? (lua chọn ba đáp án)",
+    "question": "EE mm, r Em GrrT Sư khác biệt về mục tiêu giữa kinh tế thị trường định hướng xã hội chủ nghĩa với kinh tế thị trường tư bản chủ nghĩa là gì? (lua chọn ba đáp án)",
     "options": [
       "A. Hướng tới phát triển lực lượng sản xuất",
       "B. Xây dưng cơ sở vật chất - kỹ thuật của chủ nghĩa xã hội.",
@@ -4738,12 +4738,12 @@ window.QUIZ_DATA = {
   },
   {
     "id": 360,
-    "question": "Nguyên nhân nào quyết định nhất dẫn đến su sup đố của Liên Xô va hệ thống XHCN ở Dong Âu?",
+    "question": "Nguyên nhân nào quyết định nhất dẫn đến su sup đố của Liên Xô và hệ thống XHCN ở Dong Âu?",
     "options": [
       "A. Cơ chế kế hoạch hoá tập trung mệnh lệnh",
       "B. Sự tiến bộ kỹ thuật không đồng bộ",
-      "C. Sản xuất không đi đôi với tiêu ding",
-      "D. Công nghiệp hoa nhanh"
+      "Sản xuất không đi đôi với tiêu ding",
+      "Công nghiệp hoa nhanh"
     ],
     "answer": "A"
   },
@@ -4753,7 +4753,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Thu hút vốn dau tư nước ngoài, thu hút công nghệ hiện đại",
       "B. Học hởi kinh nghiệm quản lý tiên tiến của thế giới",
-      "C. Khai thác thị trưởng thế giới để tiêu thu các sản phẩm ma nước ta có nhiều lợi thé va kha năng cạnh tranh ao",
+      "C. Khai thác thị trưởng thế giới để tiêu thụ các sản phẩm mà nước ta có nhiều lợi thé và kha năng cạnh tranh ao",
       "D. Đầu tư tư bản trực tiếp thu lợi nhuận ở nước ngoài"
     ],
     "answer": "D"
@@ -4774,8 +4774,8 @@ window.QUIZ_DATA = {
     "question": "Nội dung cơ bản của cách mang công nghiệp lần thứ nhất đó là:",
     "options": [
       "A. Chuyến tử lao đồng thủ công sang lao đồng máy móc",
-      "B. Chuyến tử lao động thủ công sang sử dung dong cơ điện",
-      "C. Chuyến tử lao động máy móc sang lao động sử dụng năng lượng điện va động cơ điện",
+      "B. Chuyến tử lao động thủ công sang sử dụng dong cơ điện",
+      "C. Chuyến tử lao động máy móc sang lao động sử dụng năng lượng điện và động cơ điện",
       "D. Chuyển tử lao đồng cơ khi may móc lên tự đồng hóa sản xuất."
     ],
     "answer": "A"
@@ -4798,7 +4798,7 @@ window.QUIZ_DATA = {
       "A. Một giai đoạn",
       "B. Hai giai đoạn",
       "C. Ba giai doan",
-      "D. Bỡn giai đoan"
+      "D. Bỡn giai đoạn"
     ],
     "answer": "C"
   },
@@ -4809,13 +4809,13 @@ window.QUIZ_DATA = {
       "A. Cướp bóc thuộc địa",
       "B. Khai thác lao động làm thuê",
       "C. Lam pha sản những ngudi sản xuất nhỏ trong nông nghiệp",
-      "D. Bivay nha nước"
+      "D. Bivay nhà nước"
     ],
     "answer": "D"
   },
   {
     "id": 367,
-    "question": "Mô hình công nghiệp hoá của Nhật Bản va các nước công nghiệp mới gợi dlagy ow",
+    "question": "Mô hình công nghiệp hoá của Nhật Bản và các nước công nghiệp mới gợi dlagy ow",
     "options": [
       "A. NICs",
       "B. TNCs",
@@ -4836,10 +4836,10 @@ window.QUIZ_DATA = {
   },
   {
     "id": 369,
-    "question": "le _. Tiến m công nghiệp hoá theo kiếu rút ngắn so với các nước di trước đặc biệt chúng ta cần thực hiện yêu cầu nào?",
+    "question": "Tiến m công nghiệp hoá theo kiểu rút ngắn so với các nước đi trước đặc biệt chúng ta cần thực hiện yêu cầu nào?",
     "options": [
-      "A. Phát triển kinh tế và công nghiệp phải có sự nhảy vot va không can thực hiển tuần tự",
-      "B. Coi trong phát triển giáo dục va dao tạo, khoa học và công nghệ, xem day là nền tang va dong luc cho",
+      "A. Phát triển kinh tế và công nghiệp phải có sự nhảy vot và không can thực hiển tuần tự",
+      "B. Coi trong phát triển giáo dục và dao tạo, khoa học và công nghệ, xem day là nền tang và dong luc cho",
       "C. ông nghiệp hóa, hiện đại hóa",
       "D. Phát triển kinh tế tri thức được đỡi lại trong giai đoạn sau",
       "E. Ưu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ"
@@ -4851,18 +4851,18 @@ window.QUIZ_DATA = {
     "question": "Công nghiệp hoá ở Anh (cuộc cách mang công nghiệp lần thứ nhất) bắt montane",
     "options": [
       "A. Cong nghiệp nhẹ",
-      "B. Công nghiệp nang",
+      "Công nghiệp nang",
       "C. Dichvu",
-      "D. Sản xuất vũ khi"
+      "Sản xuất vũ khi"
     ],
     "answer": "A"
   },
   {
     "id": 371,
-    "question": "\"Khoa học va công nghệ sẽ có bước tiến nhảy vot. Kinh tế trị thức có vai vò ngày càng nổi bong ud kh II phát triển lực lượng sản xuất” được nhân định trong dai hội mấy của Đảng?",
+    "question": "\"Khoa học và công nghệ sẽ có bước tiến nhảy vot. Kinh tế trị thức có vai vò ngày càng nổi bong ud kh II phát triển lực lượng sản xuất” được nhân định trong dai hội mấy của Đảng?",
     "options": [
       "A. Đai hội Vill Đai hội IX",
-      "B. Dai hdi X Đại hội XI"
+      "Đại hội XI"
     ],
     "answer": "B"
   },
@@ -4870,7 +4870,7 @@ window.QUIZ_DATA = {
     "id": 372,
     "question": "lo NHNG Pai Hội X của Đảng chỉ rõ mục tiêu đấy manh công nghiệp hoá, hiện dai hoá cần:",
     "options": [
-      "A. Gắn với phát triển kinh tế tri thức; coi kinh tế trị thức là yếu tố quan trong của nền kinh tế va của cong nghiệp hóa, hiền dai hóa",
+      "A. Gắn với phát triển kinh tế tri thức; coi kinh tế trị thức là yếu tố quan trong của nền kinh tế và của cong nghiệp hóa, hiền dai hóa",
       "B. Gắn với nền kinh tế thị trường định hướng tư bản chủ nghĩa",
       "C. Gan với nên kinh tế khép kin",
       "D. Gan với nền kinh tẽ thi trưởng, thực hiện chiến lược hang xuất khấu"
@@ -4879,12 +4879,12 @@ window.QUIZ_DATA = {
   },
   {
     "id": 373,
-    "question": "leo. Kinh tế chính trị Mác - Lénin đã kế thửa va phát triển trực bếp những thành tưu của:",
+    "question": "leo. Kinh tế chính trị Mác - Lênin đã kế thửa và phát triển trực bếp những thành tưu của:",
     "options": [
       "A. Kinh tế chính trị cố điến Anh",
-      "B. Chủ nghĩa trong thương",
-      "C. Chủ nghĩa trọng nông",
-      "D. Kinh t& chính tri tam thưởng"
+      "Chủ nghĩa trong thương",
+      "Chủ nghĩa trọng nông",
+      "D. Kinh t& chính trị tam thưởng"
     ],
     "answer": "A"
   },
@@ -4892,10 +4892,10 @@ window.QUIZ_DATA = {
     "id": 374,
     "question": "Hệ thống lý luận kinh tế chính trị đều tiền nghiên cứu về sản xuất tư bản chủ nghĩa là.",
     "options": [
-      "A. Chủ nghĩa trọng thương",
-      "B. Chủ nghĩa trong néng",
-      "C. Kinh tế chính tri cố điển",
-      "D. Kinh t& chính tri cố điển Anh"
+      "Chủ nghĩa trọng thương",
+      "Chủ nghĩa trong néng",
+      "C. Kinh tế chính trị cố điển",
+      "D. Kinh t& chính trị cố điển Anh"
     ],
     "answer": "A"
   },
@@ -4903,16 +4903,16 @@ window.QUIZ_DATA = {
     "id": 375,
     "question": "Đối tượng nghiền cứu của kinh tế chính trị Mác - Lênin được hiếu là:",
     "options": [
-      "A. Các quan hệ xã hội của sản xuất va trao đối",
+      "A. Các quan hệ xã hội của sản xuất và trao đổi",
       "B. Các quan hệ giữa lực lượng sản xuất và quan hệ sản xuất",
-      "C. Các quan hệ giữa cơ sở ha tang va kiến trúc thương tang",
+      "C. Các quan hệ giữa cơ sở ha tang và kiến trúc thương tang",
       "D. Những biểu hiện vật chất của lực lượng sản xuất"
     ],
     "answer": "A"
   },
   {
     "id": 376,
-    "question": "I Kinh tế chính trị cổ điến Anh được hình thành và phát triển từ cuối thế kỷ XVIII đến nửa đầu thế ky XIX, mở đầu bằng các quan điểm lý luận của nha kinh tế chính trị hoc nao sau day?",
+    "question": "I Kinh tế chính trị cổ điến Anh được hình thành và phát triển từ cuối thế kỷ XVIII đến nửa đầu thế kỷ XIX, mở đầu bằng các quan điểm lý luận của nha kinh tế chính trị học nao sau đây?",
     "options": [
       "A. David Ricardo",
       "B. Adam Smith",
@@ -4925,9 +4925,9 @@ window.QUIZ_DATA = {
     "id": 377,
     "question": "——“—“—_——...ỊcỊỤŨ.I Muc đích nghiên cứu ở cấp độ cao nhất của kinh tế chính trị Mác - Lênin là gì?",
     "options": [
-      "A. Nhằm phát hiện ra các quy luật chi phối quan hệ giữa người và người trong sản xuất và trao đối",
-      "B. Nhằm phát hiện ra các quy luật chi phối quan hệ giữa người vả xã hội trong sản xuất va trao đối",
-      "C. Nhằm phát hiện ra các quy luật chi phối quan hệ giữa người va người trong sản xuất va tiêu dùng",
+      "A. Nhằm phát hiện ra các quy luật chi phối quan hệ giữa người và người trong sản xuất và trao đổi",
+      "B. Nhằm phát hiện ra các quy luật chi phối quan hệ giữa người vả xã hội trong sản xuất và trao đổi",
+      "C. Nhằm phát hiện ra các quy luật chi phối quan hệ giữa người và người trong sản xuất và tiêu dùng",
       "D. Nhằm phát hiện ra các quy luật chi phối quan hệ giữa người và hang hod trong sản xuất và tiéu dùng"
     ],
     "answer": "A"
@@ -4949,7 +4949,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Liên kết dọc",
       "B. Liên kết ngang",
-      "C. Cả liên kết doc va liên kết ngang",
+      "C. Cả liên kết doc và liên kết ngang",
       "D. Liên kết đa ngành"
     ],
     "answer": "B"
@@ -4958,10 +4958,10 @@ window.QUIZ_DATA = {
     "id": 380,
     "question": "lo Những biếu hiện của độc quyền nhà nước trong chủ nghĩa tư bản là:",
     "options": [
-      "A. Sư kết hop nhân sư giữa tố chức doc quyền cùng với nha nước; su hình thanh, phát triển của sở hữu nha nước",
-      "B. Sư kết hop về nhân sự giữa tố chức độc quyền cùng với nha nước; sự hình thành, phát triển của sở hữu nha nước; sư điều tiết kinh tế của nha nước tư sản.",
-      "C. Sự kết hợp về nhãn sự giữa tố chức độc quyền cing với nha nước; sự hình thành, phát triển của sở hữu nha nước; sư điều tiết kinh tế đối ngoại của nha nước tư sản",
-      "D. Sự kết hợp vẽ nhân sự giữa tổ chức độc quyền với nha nước; sự điều tiết kinh tế của nha nước tư sản."
+      "A. Sư kết hop nhân sư giữa tố chức doc quyền cùng với nhà nước; su hình thanh, phát triển của sở hữu nhà nước",
+      "B. Sư kết hop về nhân sự giữa tố chức độc quyền cùng với nhà nước; sự hình thành, phát triển của sở hữu nhà nước; sư điều tiết kinh tế của nhà nước tư sản.",
+      "C. Sự kết hợp về nhãn sự giữa tố chức độc quyền cing với nhà nước; sự hình thành, phát triển của sở hữu nhà nước; sư điều tiết kinh tế đối ngoại của nhà nước tư sản",
+      "D. Sự kết hợp vẽ nhân sự giữa tổ chức độc quyền với nhà nước; sự điều tiết kinh tế của nhà nước tư sản."
     ],
     "answer": "B"
   },
@@ -4970,7 +4970,7 @@ window.QUIZ_DATA = {
     "question": "Sự phát triển của các tố chức độc quyền trong ngần hang đã làm thay đối quan hệ gia ngân hàng và ofc. doanh nghiệp công nghiệp do la:",
     "options": [
       "A. Từ trung gian thanh toán trở thành khống chẽ mọi hoạt động kinh tế - xã hội",
-      "B. Từ trung gian thanh toán trở thành cố đồng của các doanh nghiệp nha nước",
+      "B. Từ trung gian thanh toán trở thành cố đồng của các doanh nghiệp nhà nước",
       "C. Tử hoạt dong cho vay trở thành hoạt động khống chế doanh tư nhãn",
       "D. Tử hoạt động cho vay trở thành chi phối các doanh nghiệp"
     ],
@@ -4978,7 +4978,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 382,
-    "question": "Về kinh tế, xuất khấu tư ban nha nước nhằm mục dich gì?",
+    "question": "Về kinh tế, xuất khấu tư ban nhà nước nhằm mục dich gì?",
     "options": [
       "A. Tao môi trưởng thuần lợi cho xuất khấu tư bản tư nhãn.",
       "B. Tao điều kiện cho các nước nhập khấu tư bản phát triển",
@@ -5000,18 +5000,18 @@ window.QUIZ_DATA = {
   },
   {
     "id": 384,
-    "question": "eh là A INTE EERE — A bb FREE BBW] Sở hữu độc quyền nha nước là sự kết hop của:",
+    "question": "eh là A INTE EERE — A bb FREE BBW] Sở hữu độc quyền nhà nước là sự kết hop của:",
     "options": [
-      "A. Sở hữu nha nước va sở hữu doc quyền tư nhân",
+      "A. Sở hữu nhà nước và sở hữu doc quyền tư nhân",
       "B. Sở hữu của liên minh các tập đoàn doc quyền",
-      "C. Sa hữu của liên minh các nha nước tư sản",
-      "D. Sỡ hữu nha nước ở chính quốc va thuộc dia"
+      "C. Sa hữu của liên minh các nhà nước tư sản",
+      "D. Sỡ hữu nhà nước ở chính quốc và thuộc dia"
     ],
     "answer": "A"
   },
   {
     "id": 385,
-    "question": "EEE Hình thức độc quyền nao thống nhất việc sản xuất, tiêu thu, tai vu đều do một ban quản tri quản lý?",
+    "question": "Hình thức độc quyền nao thống nhất việc sản xuất, tiêu thụ, tai vu đều do một ban quản trị quản lý?",
     "options": [
       "A. Cartel",
       "B. Syndicate",
@@ -5044,9 +5044,9 @@ window.QUIZ_DATA = {
   },
   {
     "id": 388,
-    "question": "W.. .. Giá trị cá biệt của hàng hoá do:",
+    "question": "Giá trị cá biệt của hàng hoá do:",
     "options": [
-      "A. Hao phí lao dong cá biệt của người sản xuất quyết định",
+      "A. Hao phí lao động cá biệt của người sản xuất quyết định",
       "B. Hao phí lao động cá biệt của người sản xuất nhiều hàng hoá quyết định",
       "C. Hao phí lao động của ngành quyết dinh",
       "D. Hao phí lao động xã hội cần thiết quyết dinh"
@@ -5057,16 +5057,16 @@ window.QUIZ_DATA = {
     "id": 389,
     "question": "Yếu tố quyết định đến giá cả hang hoá là:",
     "options": [
-      "A. Giá tn của hàng hoá",
+      "A. Giá trị của hàng hoá",
       "B. Quan hệ cung cau về hang hoá",
-      "C. Giá tn sử dụng của hang hoa",
+      "C. Giá trị sử dụng của hang hoa",
       "D. Gia trị của đồng tiền"
     ],
     "answer": "A"
   },
   {
     "id": 390,
-    "question": "a Ty lệ giữa lao động phức tap va lao động giản đơn tăng lên có ảnh hưởng như thế nào đến lương giá tri được tạo ra trong một đơn vị thời gian?",
+    "question": "a Ty lệ giữa lao động phức tap và lao động giản đơn tăng lên có ảnh hưởng như thế nào đến lương giá trị được tạo ra trong một đơn vị thời gian?",
     "options": [
       "A. Tăng lên",
       "B. Giữ nguyên hoặc Không đối",
@@ -5079,30 +5079,30 @@ window.QUIZ_DATA = {
     "id": 391,
     "question": "le... Số lương tền cần thiết trong lưu thông có mối quan hệ thế nào với tống số giá cả hang hóa được dua ra thị trưởng và tốc độ lưu thông của tiền tệ?",
     "options": [
-      "A. Tỉ lẽ thuận với tống giá cả hang hóa đưa ra thị trưởng va tốc do lưu thong tiền tệ",
-      "B. Ti lệ nghịch với tổng giá cả hang hóa dua ra thị trường va tốc do lưu thông tiền tệ",
-      "C. Tỉ lệ thuận với tống giá cả hang hóa đưa ra thị trường vả ti lệ nghịch với tốc độ lưu thong tiền tệ",
-      "D. Ti lệ nghịch với tống giá hang hóa cả đưa ra thị trưởng va ti lệ thuận với tốc độ lưu thông tiền tệ"
+      "A. Tỉ lẽ thuận với tống giá cả hang hóa đưa ra thị trưởng và tốc do lưu thông tiền tệ",
+      "B. Ti lệ nghịch với tổng giá cả hang hóa dua ra thị trường và tốc do lưu thông tiền tệ",
+      "C. Tỉ lệ thuận với tống giá cả hang hóa đưa ra thị trường vả ti lệ nghịch với tốc độ lưu thông tiền tệ",
+      "D. Ti lệ nghịch với tống giá hang hóa cả đưa ra thị trưởng và ti lệ thuận với tốc độ lưu thông tiền tệ"
     ],
     "answer": "C"
   },
   {
     "id": 392,
-    "question": "Mệnh đề nao sau đây là ý không đúng về lao dong phúc tap? 0.",
+    "question": "Mệnh đề nao sau đây là ý không đúng về lao động phúc tap? 0.",
     "options": [
-      "A. Lao động phức tap là lao dong được tiến hành trong điều kiện cưỡng độ lao dong cao.",
-      "B. Lao động phức tạp là lao dong trải qua dao tạo, huấn luyện.",
-      "C. Trong cùng một thời gian lao dong, lao dong phức tap tạo ra nhiều gia trị hơn lao đồng giản don.",
+      "A. Lao động phức tap là lao động được tiến hành trong điều kiện cưỡng độ lao động cao.",
+      "B. Lao động phức tạp là lao động trải qua dao tạo, huấn luyện.",
+      "Trong cùng một thời gian lao động, lao động phức tap tạo ra nhiều gia trị hơn lao đồng giản don.",
       "D. Lao động phức tạp là bội số của lao động giản đơn."
     ],
     "answer": "A"
   },
   {
     "id": 393,
-    "question": "Phương hướng cơ bản, lầu dai để tang sản phẩm xã hồi là gì? -",
+    "question": "Phương hướng cơ bản, lầu dai để tang sản phẩm xã hội là gì? -",
     "options": [
       "A. Tăng năng suất lao đồng",
-      "B. Tăng cường độ lao dong",
+      "B. Tăng cường độ lao động",
       "C. Kéo dai thời gian lao động",
       "D. Mở rộng quy mõ sản xuất, khai thác tải nguyên thiên nhiên"
     ],
@@ -5114,7 +5114,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Giá trị của nó cảng cao",
       "B. Giá cả của nó cảng cao",
-      "C. Ca giá tn va gia cả của hang hóa cảng cao",
+      "C. Ca giá trị và gia cả của hang hóa cảng cao",
       "D. Giá trị của nó cảng giảm"
     ],
     "answer": "B"
@@ -5123,10 +5123,10 @@ window.QUIZ_DATA = {
     "id": 395,
     "question": "Phương pháp tạo ra giá trị thăng dư tuyệt đối là gì?",
     "options": [
-      "A. Kéo dài thời gian lao dong thăng dư khi thời gian lao đồng tất yếu, năng suất lao dong và giá tn sức lao ộng không đối",
-      "B. Kéo dài thời gian lao dong tất yếu khi thời gian lao dong thang du, năng suất lao dong va giá trị sức lao ồng không đối",
-      "C. Rút ngắn thời gian lao động thang dư khi thời gian lao động tất yếu, năng suất lao động va giá trị sức lao ồng không đối",
-      "D. Rút ngắn thối gian lao động tất yếu khi thời gian lao động thang du, năng suất lao động va giá trị sức lao ông không đối"
+      "A. Kéo dài thời gian lao động thăng dư khi thời gian lao đồng tất yếu, năng suất lao động và giá trị sức lao ộng không đối",
+      "B. Kéo dài thời gian lao động tất yếu khi thời gian lao động thang du, năng suất lao động và giá trị sức lao ồng không đối",
+      "C. Rút ngắn thời gian lao động thang dư khi thời gian lao động tất yếu, năng suất lao động và giá trị sức lao ồng không đối",
+      "D. Rút ngắn thối gian lao động tất yếu khi thời gian lao động thang du, năng suất lao động và giá trị sức lao ông không đối"
     ],
     "answer": "A"
   },
@@ -5146,7 +5146,7 @@ window.QUIZ_DATA = {
     "question": "lo _X— Địa tõ tuyệt đối được hiếu là gì?",
     "options": [
       "A. Loại địa t6 mà tất cá các nha tư bản kinh doanh nông nghiệp đều phải nộp cho dia chủ, cho dù ruộng đất là tốt hay xấu",
-      "B. Phan giá trị thăng dư còn lại sau khi đã khấu trừ di phần lợi nhuận bình quan ma các nhà tư bản kinh doanh néng nghiệp phải nộp cho địa chủ",
+      "B. Phan giá trị thăng dư còn lại sau khi đã khấu trừ di phần lợi nhuận bình quan mà các nhà tư bản kinh doanh néng nghiệp phải nộp cho địa chủ",
       "C. Lợi nhuận siêu ngạch dõi ra ngoài lợi nhuận bình quân",
       "D. Giá dat ngoài thị trường"
     ],
@@ -5167,10 +5167,10 @@ window.QUIZ_DATA = {
     "id": 399,
     "question": "Quá trình lưu thông tư bản là:",
     "options": [
-      "A. Tuần hoàn va chu chuyến giá trị hàng hóa",
-      "B. Tuần hoan va chu chuyến tư bản",
-      "C. Tuan hoan va chu chuyển hang hóa",
-      "D. Tuan hoan va tích lũy tư bản"
+      "A. Tuần hoàn và chu chuyến giá trị hàng hóa",
+      "B. Tuần hoan và chu chuyến tư bản",
+      "C. Tuan hoan và chu chuyển hang hóa",
+      "D. Tuan hoan và tích lũy tư bản"
     ],
     "answer": "B"
   },
@@ -5178,43 +5178,43 @@ window.QUIZ_DATA = {
     "id": 400,
     "question": "EE Lượng lợi nhuận có thế là:",
     "options": [
-      "A. Bang hoặc thấp hơn lượng giá tn thang dư",
+      "A. Bang hoặc thấp hơn lượng giá trị thang dư",
       "B. Cao hơn hoặc thấp hơn lượng gia tn thăng dư",
       "C. Bang, cao hơn hoặc thấp hơn lượng gia tri thang dư",
-      "D. Bằng, hoặc cao hơn lượng gia tri thăng du"
+      "D. Bằng, hoặc cao hơn lượng gia tri thặng dư"
     ],
     "answer": "C"
   },
   {
     "id": 401,
-    "question": "le _„sEẽe Tư duy của Đảng về kinh tế thị trưởng là:",
+    "question": "„sEẽe Tư duy của Đảng về kinh tế thị trưởng là:",
     "options": [
       "A. Có thế và cần thiết sử dụng kinh tế thị trưởng đế xây dưng chủ nghĩa xã hội ở nước ta",
-      "B. Có thế va không can thiết sử dụng kinh tế thị trường đế xây dựng chủ nghĩa xã hội ở nước ta",
-      "C. Khong thé vả khõng can thiết sử dung kinh tế thị trưởng để xay dung chủ nghĩa xã hội ở nước ta",
+      "B. Có thế và không can thiết sử dụng kinh tế thị trường đế xây dựng chủ nghĩa xã hội ở nước ta",
+      "C. Khong thé vả khõng can thiết sử dụng kinh tế thị trưởng để xay dung chủ nghĩa xã hội ở nước ta",
       "D. Kinh tẽ thi trưỡng là cải riêng có của chủ nghĩa tư bản"
     ],
     "answer": "A"
   },
   {
     "id": 402,
-    "question": "lo NINH Đại hội nào đã xác định kinh tế thị trường định hướng xã hội chủ nghĩa là “một kiểu tố chức kinh tế vừa tuần theo quy luật của kinh tế thị trưởng vừa dưa trên cơ sở va chịu sự dẫn dắt chị phối bởi các nguyên tac va bản chất của chủ nghĩa xã hội?",
+    "question": "Đại hội nào đã xác định kinh tế thị trường định hướng xã hội chủ nghĩa là “một kiểu tố chức kinh tế vừa tuần theo quy luật của kinh tế thị trưởng vừa dưa trên cơ sở và chịu sự dẫn dắt chị phối bởi các nguyên tac và bản chất của chủ nghĩa xã hội?",
     "options": [
-      "A. Đại hội Đảng toàn quốc lần thú VI",
-      "B. Đại hội Đảng toàn quốc lần thứ VII",
-      "C. Đại hội Đảng toán quốc lần thứ VIII",
-      "D. Đại hội Đảng toàn quốc lần thứ IX"
+      "Đại hội Đảng toàn quốc lần thú VI",
+      "Đại hội Đảng toàn quốc lần thứ VII",
+      "Đại hội Đảng toán quốc lần thứ VIII",
+      "Đại hội Đảng toàn quốc lần thứ IX"
     ],
     "answer": "D"
   },
   {
     "id": 403,
-    "question": "le II _ HH Hoan thiện hệ thống luật pháp, cơ chế, chính sách cho hoat động va phát triển lành manh của thị trường chứng khoán, tang tính minh bach chống các giao dich phi pháp, các hành vi rửa tiên là thuộc về:",
+    "question": "Hoan thiện hệ thống luật pháp, cơ chế, chính sách cho hoạt động và phát triển lành mạnh của thị trường chứng khoán, tăng tính minh bạch chống các giao dịch phi pháp, các hành vi rửa tiền là thuộc về:",
     "options": [
       "A. Thống nhất nhận thức về nền kinh tế thị trường dinh hướng XHCN",
-      "B. Hoan thiện thế chế về sở hữu va các thanh phần kinh tế, loại hình doanh nghiệp va các tố chức sản xuất kinh doanh",
+      "B. Hoan thiện thế chế về sở hữu và các thanh phần kinh tế, loại hình doanh nghiệp và các tố chức sản xuất kinh doanh",
       "C. Hoan thiện thể chẽ đảm bảo đồng bộ các yếu tỡ thị trưởng và phát triển đồng bộ các loại thị trưng",
-      "D. Hoan thiện thế chế va vai tr lãnh đạo của Đảng"
+      "D. Hoan thiện thế chế và vai tr lãnh đạo của Đảng"
     ],
     "answer": "C"
   },
@@ -5223,17 +5223,17 @@ window.QUIZ_DATA = {
     "question": "Nền kinh tế thị trưởng định hướng xã hội chủ nghĩa ở Việt Nam có tính chất:",
     "options": [
       "A. Phố biến và đặc thủ",
-      "B. Phố biến va cách mang",
-      "C. Phố biến va riêng biệt",
-      "D. Phố biến va đại chúng"
+      "B. Phố biến và cách mang",
+      "C. Phố biến và riêng biệt",
+      "D. Phố biến và đại chúng"
     ],
     "answer": "A"
   },
   {
     "id": 405,
-    "question": "Ww._. Ð YGr77-755- Trong nền kinh tế thị trường định hướng xã hồi chủ nghĩa, thành phần kinh tế nào giữ vai trò chủ đao?",
+    "question": "Ww._. Ð YGr77-755- Trong nền kinh tế thị trường định hướng xã hội chủ nghĩa, thành phần kinh tế nào giữ vai trò chủ đao?",
     "options": [
-      "A. Thanh phần kinh tế nha nước",
+      "A. Thanh phần kinh tế nhà nước",
       "B. Thanh phần kinh tế tư nhãn",
       "C. Thanh phần kinh té tập thé",
       "D. Thanh phan kinh tế có vốn dau tu nước ngoai"
@@ -5244,16 +5244,16 @@ window.QUIZ_DATA = {
     "id": 406,
     "question": "\"BH II Xét về trình đồ phát triển, kinh tế thị trường ở Việt Nam bao gồm nhiều cấp độ:",
     "options": [
-      "A. Sản xuất hàng hóa nhỏ, kinh tế thị trường sơ khai, kinh tế thị trường hiện đại dan xen",
-      "B. Sản xuất hàng hóa lớn, kinh thế thị trường sơ khai, kinh tế thị trường dan xen",
-      "C. Sản xuất hàng hóa nhỏ, kinh tế thị trưởng hoản thiên, kinh tế thị trường hiện đại",
-      "D. Sản xuất hàng hóa lớn, kinh tế thị trưởng hoàn thiện, kinh tế thị trưởng hiện đại dan xen"
+      "Sản xuất hàng hóa nhỏ, kinh tế thị trường sơ khai, kinh tế thị trường hiện đại dan xen",
+      "Sản xuất hàng hóa lớn, kinh thế thị trường sơ khai, kinh tế thị trường dan xen",
+      "Sản xuất hàng hóa nhỏ, kinh tế thị trưởng hoản thiên, kinh tế thị trường hiện đại",
+      "Sản xuất hàng hóa lớn, kinh tế thị trưởng hoàn thiện, kinh tế thị trưởng hiện đại dan xen"
     ],
     "answer": "A"
   },
   {
     "id": 407,
-    "question": "em _ Trong nền kinh tế thị trường, thị trường KHÔNG thực hiện vai trò nào sau đây?",
+    "question": "Trong nền kinh tế thị trường, thị trường KHÔNG thực hiện vai trò nào sau đây?",
     "options": [
       "A. Thực hiện giá trị hàng hóa",
       "B. Phân bố tư liệu sản xuất",
@@ -5266,18 +5266,18 @@ window.QUIZ_DATA = {
     "id": 408,
     "question": "Trong lịch sử phát triển nền sản xuất xã hội, tiện đề nẻo là quan trong nhất cosymovaphatigaciansn | kinh tế thị trường?",
     "options": [
-      "A. Sản xuất",
-      "B. Trao đối hang hóa",
+      "Sản xuất",
+      "B. Trao đổi hang hóa",
       "C. Thị trưởng",
-      "D. Sản xuất va trao đối hang hóa"
+      "Sản xuất và trao đổi hang hóa"
     ],
     "answer": "D"
   },
   {
     "id": 409,
-    "question": "le  ..__⁄_—/uả. c c FC , Cho ví du: nhà tư bản đầu tư 50 USD đế mua nguyên vat liệu dệt vải, tốn 5 USD cho hao mòn máy móc đế dệt được 10 mét vải từ nguyên liệu trên, 15 USD để trả công cho công nhân làm việc trong 8 giờ theo thoả thuận, nhưng sau 4 giờ thì công nhân đã làm xong 10 mét vải. Đế giá trị thang du được tạo ra 15 USD, nha tư bản cần làm gi?",
+    "question": "le ..__⁄_—/uả. c c FC , Cho ví du: nhà tư bản đầu tư 50 USD đế mua nguyên vat liệu dệt vải, tốn 5 USD cho hao mòn máy móc đế dệt được 10 mét vải từ nguyên liệu trên, 15 USD để trả công cho công nhân làm việc trong 8 giờ theo thoả thuận, nhưng sau 4 giờ thì công nhân đã làm xong 10 mét vải. Đế giá trị thang du được tạo ra 15 USD, nha tư bản cần làm gi?",
     "options": [
-      "A. Đầu tư thêm 50 USD cho nguyên liệu, 5 USD cho hao mòn máy móc va bat công nhân làm thêm 4 giờ nữa như thoả thuận",
+      "A. Đầu tư thêm 50 USD cho nguyên liệu, 5 USD cho hao mòn máy móc và bat công nhân làm thêm 4 giờ nữa như thoả thuận",
       "B. Ngay tử thời điểm làm xong 4 gid thì giá trị thăng dư được tạo ra rồi",
       "C. Nhà tư bản cần bất công nhãn tang ca 4 gid nữa bên cạnh 8 gid thoả thuần",
       "D. Nha tư bản yêu cầu cõng nhãn tang ca thêm 6 gid nữa dé tạo ra giá trị mới"
@@ -5286,7 +5286,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 410,
-    "question": "Loại tiền nào được hiếu là phương tiện thanh toán ma giá trị hay sức mua của nó với tư cách là tiền vượt xa chi phi sản xuất ra nó hay giá trị của nó khi dùng vào việc khác, chú không dũng làm tiện?",
+    "question": "Loại tiền nào được hiếu là phương tiện thanh toán mà giá trị hay sức mua của nó với tư cách là tiền vượt xa chi phí sản xuất ra nó hay giá trị của nó khi dùng vào việc khác, chú không dũng làm tiện?",
     "options": [
       "A. Tiên quy ước",
       "B. Tiền tượng trưng",
@@ -5301,18 +5301,18 @@ window.QUIZ_DATA = {
     "options": [
       "A. Kinh tế thị trưởng có thé tự hình thành khi có các diều kiện khách quan.",
       "B. Kinh tế thị trưởng tư bản chủ nghĩa là mỡ hình tối ưu nhất cho mọi quốc gia.",
-      "C. Kinh tế thị trưởng là động lực thúc đấy lực lượng sản xuất phát triển nhanh va hiệu quả.",
+      "C. Kinh tế thị trưởng là động lực thúc đẩy lực lượng sản xuất phát triển nhanh và hiệu quả.",
       "D. Kinh tế thị trưởng giúp Việt Nam độc lập hoàn toàn khỏi các quy luật của thị trưởng toàn cau."
     ],
     "answer": "AC"
   },
   {
     "id": 412,
-    "question": "Lựa chon đáp án đúng nhất: Mong muốn dần giàu, nước mạnh, dan chủ, công bằng, văn minh là mong muốn II chung của ai?",
+    "question": "Lựa chọn đáp án đúng nhất: Mong muốn dần giàu, nước mạnh, dan chủ, công bằng, văn minh là mong muốn II chung của ai?",
     "options": [
       "A. Chỉ các quốc gia phát triển",
       "B. Chỉ các quốc gia đang phát triển",
-      "C. Các nước xã hội chủ nghĩa mới giảnh được chủ quyền dân tốc",
+      "C. Các nước xã hội chủ nghĩa mới giảnh được chủ quyền dân tộc",
       "D. Tất cả các quốc gia trên thế giới"
     ],
     "answer": "D"
@@ -5333,8 +5333,8 @@ window.QUIZ_DATA = {
     "question": "— s‹: co xvamm USD 99”9°Z°27”Ï”Sò”mŸ]ÏX~Pm”mm Điệu gì xảy ra nếu cung thấp hơn cầu?",
     "options": [
       "A. Giá cả cao hơn giá trì",
-      "B. Giá cả thấp hơn giá tn",
-      "C. Hang hoa tao ra dược tang cao giá ban",
+      "B. Giá cả thấp hơn giá trị",
+      "C. Hang hoa tạo ra dược tang cao giá ban",
       "D. Hang hoá phong phú"
     ],
     "answer": "A"
@@ -5345,16 +5345,16 @@ window.QUIZ_DATA = {
     "options": [
       "A. Tiền lương phải trả cho người lao động",
       "B. Nguyên liệu, vật liệu, máy móc, sức lao động",
-      "C. Hang hoa, súc lao động",
+      "C. Hang hoa, sức lao động",
       "D. Vật liệu, máy móc, tiền công trả cho công nhân"
     ],
     "answer": "A"
   },
   {
     "id": 416,
-    "question": "EE Theo C.Mác có một loại hàng hoá đặc biệt mà khi sử dụng nó thì gia trị của nó không những được bảo tồn ma còn tao ra những giá trị mới lớn hơn giá tri bản than nó. Hàng hoá đó là gi?",
+    "question": "Theo C.Mác có một loại hàng hoá đặc biệt mà khi sử dụng nó thì gia trị của nó không những được bảo tồn mà còn tạo ra những giá trị mới lớn hơn giá trị bản than nó. Hàng hoá đó là gi?",
     "options": [
-      "A. Hàng hoa súc lao dong",
+      "A. Hàng hoa sức lao động",
       "B. Thức ăn",
       "C. Dịch vu chăm sóc sức khoẻ",
       "D. Nước uống"
@@ -5374,10 +5374,10 @@ window.QUIZ_DATA = {
   },
   {
     "id": 418,
-    "question": "NI NINH Kinh tế thị trưởng định hướng xã hồi chủ nghĩa ở Việt Nam thảnh phần kinh tế nào giữ vai trò là mot dong lực quan trọng thúc đấy phát triển kinh tế?",
+    "question": "Kinh tế thị trưởng định hướng xã hội chủ nghĩa ở Việt Nam thành phần kinh tế nào giữ vai trò là một động lực quan trọng thúc đẩy phát triển kinh tế?",
     "options": [
       "A. Thành phần kinh tế tu nhân",
-      "B. Thanh phần kinh tế nha nước",
+      "B. Thanh phần kinh tế nhà nước",
       "C. Thanh phần kinh tế tập thé",
       "D. Thanh phần kinh tế có vốn dau tư nước ngoài"
     ],
@@ -5385,9 +5385,9 @@ window.QUIZ_DATA = {
   },
   {
     "id": 419,
-    "question": "Quy luật giá trị có tác dung:",
+    "question": "Quy luật giá trị có tác dụng:",
     "options": [
-      "A. Điều tiết sản xuất va lưu thông hang hoa.",
+      "A. Điều tiết sản xuất và lưu thông hang hoa.",
       "B. Cải tiến kỹ thuật, tăng năng suất lao động",
       "C. Phân hoá những người sản xuất",
       "D. Các phương án trả lời đều đúng"
@@ -5396,12 +5396,12 @@ window.QUIZ_DATA = {
   },
   {
     "id": 420,
-    "question": "Ee Những ngành nào sẽ được nha nước tư sản dau tư thay cho giai cấp tư sản tư nhân?",
+    "question": "Ee Những ngành nào sẽ được nhà nước tư sản dau tư thay cho giai cấp tư sản tư nhân?",
     "options": [
       "A. Những ngành phải mất chi phí đầu tư lớn, thu hồi vốn nhanh nhưng lợi nhuận ít",
-      "B. Những ngành phải mất chi phi dau tư lớn, thu hồi vốn chậm nhưng lợi nhuận cao",
-      "C. Những ngành phải mất chi phi dau tư không lớn, tuy nhiên thu hồi vén nhanh va lợi nhuận cao",
-      "D. Những ngành phải mất chi phi dau tư lớn tuy nhiên thu hồi vốn chậm và lợi nhuận it"
+      "B. Những ngành phải mất chi phí dau tư lớn, thu hồi vốn chậm nhưng lợi nhuận cao",
+      "C. Những ngành phải mất chi phí dau tư không lớn, tuy nhiên thu hồi vốn nhanh và lợi nhuận cao",
+      "D. Những ngành phải mất chi phí dau tư lớn tuy nhiên thu hồi vốn chậm và lợi nhuận ít"
     ],
     "answer": "D"
   },
@@ -5420,7 +5420,7 @@ window.QUIZ_DATA = {
     "question": "Trong giai đoạn chủ nghĩa tư bản cạnh tranh tự do, quy luật giá trị thăng dư biểu hiện thành quy luật:",
     "options": [
       "A. Lợi nhuận độc quyền",
-      "B. Tỷ suất lợi nhuân bình quan",
+      "B. Tỷ suất lợi nhuận bình quan",
       "C. Lợi nhuận độc quyền cao",
       "D. Tỷ suất giá trị thăng dư"
     ],
@@ -5487,7 +5487,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Tích luỹ nguyên thuỷ",
       "B. Sự phát triển mạnh mẽ của phương tiện giao thông vận tải nhờ đó mở rộng giao lưu buôn bán quốc tế",
-      "C. Sự tác động của quy luật giá tri",
+      "C. Sự tác động của quy luật giá trị",
       "D. Sự điều tiết của nhà nước tư sản"
     ],
     "answer": "A"
@@ -5505,7 +5505,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 430,
-    "question": "RRR RRR RRRRRRRR RE RAR =E—_—S———, Thi trường được hiểu là gì?",
+    "question": "RRR RRR RRRRRRRR RE RAR =E—_—S———, Thị trường được hiểu là gì?",
     "options": [
       "A. Tổng hỏa những quan hệ kinh tế",
       "B. Tổng hòa những quan hệ xã hội",
@@ -5538,11 +5538,11 @@ window.QUIZ_DATA = {
   },
   {
     "id": 433,
-    "question": "0 00... FC, Lượng giá trị của hàng hóa được đo bằng đơn vị",
+    "question": "Lượng giá trị của hàng hóa được đo bằng đơn vị nào?",
     "options": [
       "A. Khối lượng",
       "B. Năng suất",
-      "C. Thời gian lao dong xã hội cần thiết",
+      "C. Thời gian lao động xã hội cần thiết",
       "D. Mức độ khan hiếm của hàng hóa"
     ],
     "answer": "C"
@@ -5551,7 +5551,7 @@ window.QUIZ_DATA = {
     "id": 434,
     "question": "'] Trong nền sản xuất hàng hóa, lạm phát là hiện tượng kinh tế tác động trục tiếp đến điều gì?",
     "options": [
-      "A. Sản xuất va tiêu dùng",
+      "Sản xuất và tiêu dùng",
       "B. Tuần hoàn và chu chuyển tư bản",
       "C. Tích tụ và tập trung tư bản",
       "D. Năng suất lao động"
@@ -5562,9 +5562,9 @@ window.QUIZ_DATA = {
     "id": 435,
     "question": "'Ï Nan kinh tế hàng hoá có thể hình thành và phát triển khi có các điều kiện nào?",
     "options": [
-      "A. Phân công lao động xã hoi va sự tách biệt về mặt kinh tế của các chủ thế sản xuất.",
+      "A. Phân công lao động xã hoi và sự tách biệt về mặt kinh tế của các chủ thế sản xuất.",
       "B. Của cải dư thừa",
-      "C. Khi có chế độ tư hữu xuất hiện",
+      "Khi có chế độ tư hữu xuất hiện",
       "D. Sự tách biệt về mặt kinh tế của các chủ thể sản xuất"
     ],
     "answer": "A"
@@ -5575,7 +5575,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. La lao động không can trải qua dao tạo cũng có thế làm được",
       "B. Là lao động làm công việc đơn giản",
-      "C. Là lao động chỉ làm một cong đoạn của qua trình tao ra hàng hoa",
+      "C. Là lao động chỉ làm một cong đoạn của qua trình tạo ra hàng hoa",
       "D. Lao động của người dưới tuổi thành niên"
     ],
     "answer": "A"
@@ -5606,8 +5606,8 @@ window.QUIZ_DATA = {
     "question": "Kinh tế chính trị Mác - Lênin đã kế thừa và phát triển trực tiếp những thành tựu của:",
     "options": [
       "A. Kinh tế chính trị cổ điển Anh",
-      "B. Chủ nghĩa trọng thương",
-      "C. Chủ nghĩa trọng nông",
+      "Chủ nghĩa trọng thương",
+      "Chủ nghĩa trọng nông",
       "D. Kinh tế chính trị tdm thường"
     ],
     "answer": "A"
@@ -5649,10 +5649,10 @@ window.QUIZ_DATA = {
     "id": 443,
     "question": "Công nghiệp hoá ở Anh (cuộc cách mạng công nghiệp lần thứ nhất) bắt nguồn từ ngành nào?",
     "options": [
-      "A. Công nghiệp nhẹ",
-      "B. Công nghiệp nặng",
+      "Công nghiệp nhẹ",
+      "Công nghiệp nặng",
       "C. Dịchvụ",
-      "D. Sản xuất vũ khí"
+      "Sản xuất vũ khí"
     ],
     "answer": "A"
   },
@@ -5702,7 +5702,7 @@ window.QUIZ_DATA = {
     "id": 448,
     "question": "Đại Hội X của Đảng chỉ rõ mục tiêu đấy mạnh công nghiệp hoá, hiện đại hoá cần",
     "options": [
-      "A. Gần với phát triển kinh tế tri thúc; coi kinh tế tri thức là yếu tố quan trong của nền kinh tế va của công nghiệp hóa, hiện đại hóa",
+      "A. Gần với phát triển kinh tế tri thúc; coi kinh tế tri thức là yếu tố quan trong của nền kinh tế và của công nghiệp hóa, hiện đại hóa",
       "B. Gan với nền kinh tế thị trường định hướng tư bản chủ nghĩa",
       "C. Gắn với nền kinh tế khép kín",
       "D. Gan với nền kinh tế thị trường, thực hiện chiến lược hàng xuất khấu"
@@ -5735,21 +5735,21 @@ window.QUIZ_DATA = {
     "id": 451,
     "question": "Cách mạng công nghiệp lần thứ tư được đề cập lần đầu tiên tại ở đâu và năm nào?",
     "options": [
-      "A. Tại Đức năm 2011",
-      "B. Tại Pháp năm 2011",
-      "C. Tại Anh năm 2012",
-      "D. Tại Mỹ năm 2011"
+      "Tại Đức năm 2011",
+      "Tại Pháp năm 2011",
+      "Tại Anh năm 2012",
+      "Tại Mỹ năm 2011"
     ],
     "answer": "A"
   },
   {
     "id": 452,
-    "question": "Dau KHÔNG phải là chúc năng chính của kinh tế chính trị Mác - Lênin?",
+    "question": "Dau KHÔNG phải là chức năng chính của kinh tế chính trị Mác - Lênin?",
     "options": [
-      "A. Chức năng giáo dục",
-      "B. Chức năng nhận thức",
+      "Chức năng giáo dục",
+      "Chức năng nhận thức",
       "C. Chic năng tư tưởng",
-      "D. Chức năng phương pháp luận"
+      "Chức năng phương pháp luận"
     ],
     "answer": "A"
   },
@@ -5757,21 +5757,21 @@ window.QUIZ_DATA = {
     "id": 453,
     "question": "Đối tượng nghiên cứu của kinh tế chính trị Mác - Lênin là gì?",
     "options": [
-      "A. Nghiên cứu các quan hệ sản xuất trong các khâu của quá trình tái sản xuất xã hội: sản xuất - phần phối - trao đổi - tiêu dùng",
-      "B. Nghiên cứu các quan hệ sản xuất trong các khâu của quá trình tái sản xuất xã hội: sản xuất - trao đối - phân phối - tiêu dùng",
-      "C. Nghiên cứu các quan hệ sản xuất trong các khâu của quá trình sản xuất xã hội: sản xuất - trao đối - tiêu ùng",
+      "A. Nghiên cứu các quan hệ sản xuất trong các khâu của quá trình tái sản xuất xã hội: sản xuất - phân phối - trao đổi - tiêu dùng",
+      "B. Nghiên cứu các quan hệ sản xuất trong các khâu của quá trình tái sản xuất xã hội: sản xuất - trao đổi - phân phối - tiêu dùng",
+      "C. Nghiên cứu các quan hệ sản xuất trong các khâu của quá trình sản xuất xã hội: sản xuất - trao đổi - tiêu ùng",
       "D. Nghiên cứu các quan hệ sản xuất trong các khâu của quá trình sản xuất xã hội: mua - bán"
     ],
     "answer": "A"
   },
   {
     "id": 454,
-    "question": "Kinh tế chính trị cổ điển Anh được hình thành và phát triển trong thời ky nào?",
+    "question": "Kinh tế chính trị cổ điển Anh được hình thành và phát triển trong thời kỳ nào?",
     "options": [
       "A. Tu cố đại đến thế kỷ XVIII",
-      "B. Từ nữa cuối thế ky XVII đến nữa đầu thế ky XVIII",
-      "C. Từ cuối thế ky XVIII đến nửa dau thé kỷ XIX",
-      "D. Từ nữa đầu thế kỷ XIX"
+      "B. Từ nửa cuối thế kỷ XVII đến nửa đầu thế kỷ XVIII",
+      "C. Từ cuối thế kỷ XVIII đến nửa dau thé kỷ XIX",
+      "D. Từ nửa đầu thế kỷ XIX"
     ],
     "answer": "C"
   },
@@ -5779,10 +5779,10 @@ window.QUIZ_DATA = {
     "id": 455,
     "question": "Kinh tế chính trị Mác - Lênin có những chức năng nào?",
     "options": [
-      "A. Chức năng nhận thức, chức năng thực tiễn, chức năng tư tưởng, chúc năng khoa học",
-      "B. Chức năng nhận thức, chức năng thực tiễn, chức năng khoa học, chức năng phương pháp luận",
-      "C. Chức năng thực tiễn, chức năng tư tưởng, chức năng dư báo, chức năng phương pháp luận",
-      "D. Chức năng nhận thức, chức năng thực tiễn, chức năng tư tưởng, chức năng phương pháp luận"
+      "Chức năng nhận thức, chức năng thực tiễn, chức năng tư tưởng, chức năng khoa học",
+      "Chức năng nhận thức, chức năng thực tiễn, chức năng khoa học, chức năng phương pháp luận",
+      "Chức năng thực tiễn, chức năng tư tưởng, chức năng dư báo, chức năng phương pháp luận",
+      "Chức năng nhận thức, chức năng thực tiễn, chức năng tư tưởng, chức năng phương pháp luận"
     ],
     "answer": "D"
   },
@@ -5800,10 +5800,10 @@ window.QUIZ_DATA = {
     "id": 457,
     "question": "ÏÌ Tư bản cố định và tư bản lưu động thuộc phạm trù tư bản nào?",
     "options": [
-      "A. Tư bản sản xuất",
-      "B. Tư bản tiền tệ",
-      "C. Tư bản bất biến",
-      "D. Tư bản tiêu dùng"
+      "Tư bản sản xuất",
+      "Tư bản tiền tệ",
+      "Tư bản bất biến",
+      "Tư bản tiêu dùng"
     ],
     "answer": "A"
   },
@@ -5811,7 +5811,7 @@ window.QUIZ_DATA = {
     "id": 458,
     "question": "Giá trị sức lao động được đo gián tiếp bằng:",
     "options": [
-      "A. Giá tri của những tư liệu sản xuất đế nuôi sống người lao động",
+      "A. Giá trị của những tư liệu sản xuất đế nuôi sống người lao động",
       "B. Giá trị của những tư liệu tiêu dùng để nuôi sống người lao động",
       "C. Giá cả của những tư liệu tiéu dùng dé nuôi sống ban than người lao động",
       "D. Giá trị của những tư liệu tiêu dùng để nuôi sống nhà tư bản"
@@ -5820,7 +5820,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 459,
-    "question": "Khối lượng giá trị thăng du được tinh bằng công thức nao?",
+    "question": "Khối lượng giá trị thặng dư được tinh bằng công thức nao?",
     "options": [
       "A. M=m'*p",
       "B. M=m'*V",
@@ -5832,7 +5832,7 @@ window.QUIZ_DATA = {
     "id": 460,
     "question": "Tính chất của tư bản bất biến (c) là",
     "options": [
-      "A. Giá trị của nó không thay đối về lượng va được chuyến nguyên ven sang sản phẩm",
+      "A. Giá trị của nó không thay đối về lượng và được chuyến nguyên ven sang sản phẩm",
       "B. Giá trị của nó không thay đối và được chuyển ngay sang sản phẩm sau một chu kỳ sản xuất",
       "C. Giá trị của nó chuyến dần vào sản phẩm qua khấu hao"
     ],
@@ -5854,8 +5854,8 @@ window.QUIZ_DATA = {
     "question": "Giá trị thăng dư siêu ngạch là hình thức:",
     "options": [
       "A. Biến tướng của giá trị thăng dư tuyệt đối",
-      "B. Biến tướng của giá trị thăng du tương đối",
-      "C. Bién tướng của giá trị thăng du cố định",
+      "B. Biến tướng của giá trị thặng dư tương đối",
+      "C. Bién tướng của giá trị thặng dư cố định",
       "D. Biến tướng của giá trị thăng dư lưu động"
     ],
     "answer": "B"
@@ -5875,10 +5875,10 @@ window.QUIZ_DATA = {
     "id": 464,
     "question": "Đâu là các nhân tố thúc đẩy sự tăng trưởng kinh tế?",
     "options": [
-      "A. Kỹ thuật - công nghệ: Cơ cấu kinh tế: Thể chế chính tri; Con người",
-      "B. Con người. Kỹ thuật -công nghệ: Cơ cấu kinh tế; Thể chế chính tri, vốn",
+      "A. Kỹ thuật - công nghệ: Cơ cấu kinh tế: Thể chế chính trị; Con người",
+      "B. Con người. Kỹ thuật -công nghệ: Cơ cấu kinh tế; Thể chế chính trị, vốn",
       "C. Con người, Cơ cấu kinh tế; Thể chế chính trị, vốn",
-      "D. Kỹ thuật - công nghệ: Cơ cấu kinh tế; Thể chế chính tri, vốn"
+      "D. Kỹ thuật - công nghệ: Cơ cấu kinh tế; Thể chế chính trị, vốn"
     ],
     "answer": "B"
   },
@@ -5919,7 +5919,7 @@ window.QUIZ_DATA = {
     "id": 468,
     "question": "Đại hội nào của Đảng Cộng sản Việt Nam đề cập đến sự cần thiết đổi mới cơ chế quản lý kinh tế? K",
     "options": [
-      "A. Đại hội dang V Đại hội dang VI Đại hội đảng VII Đại hội đảng Vill"
+      "Đại hội dang V Đại hội dang VI Đại hội đảng VII Đại hội đảng Vill"
     ],
     "answer": "B"
   },
@@ -5969,7 +5969,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 473,
-    "question": "Trong nền kinh tế thi trường định hướng xã hội chủ nghĩa ở Việt Nam, vai trò của kinh tế nha nước và kinh tế tư E nhân đó là:",
+    "question": "Trong nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam, vai trò của kinh tế nhà nước và kinh tế tư E nhân đó là:",
     "options": [
       "A. Kinh tế nhà nước giữ vai trò chủ đạo, kinh tế tư nhân giữ vai trò là một động lực quan trọng",
       "B. Kinh tế nhà nước giữ vai trò quyết định, kinh tế tư nhân giữ vai trò là một động lực quan trọng",
@@ -5991,7 +5991,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 475,
-    "question": "Loại tiền nào được hiểu là phương tiện thanh toán mà giá trị hay sức mua của nó với tư cách là tiên vượt xa chi K phi sản xuất ra nó hay gia tri của nó khi dùng vào việc khác, chứ không dùng làm tiền?",
+    "question": "Loại tiền nào được hiểu là phương tiện thanh toán mà giá trị hay sức mua của nó với tư cách là tiền vượt xa chi K phi sản xuất ra nó hay gia tri của nó khi dùng vào việc khác, chứ không dùng làm tiền?",
     "options": [
       "A. Tiên quy ước",
       "B. Tiền tượng trưng",
@@ -6004,7 +6004,7 @@ window.QUIZ_DATA = {
     "id": 476,
     "question": "of Ly thuyết ban tay vô hình của Adam Smith được hiểu là gì?",
     "options": [
-      "A. Người ban và người mua, phân bố nguồn lực kinh tế dat được hiệu qua xã hội lớn nhất mà không cần sự an thiệp của chính phủ",
+      "A. Người ban và người mua, phân bố nguồn lực kinh tế dat được hiệu quả xã hội lớn nhất mà không cần sự can thiệp của chính phủ",
       "B. Mô tả khả năng của cơ chế thị trường trong việc điều chỉnh cung cầu trên thị trường.",
       "C. Các cá nhân tham gia muốn tối đa hóa lợi nhuận cho mình",
       "D. Mọi người đều bị bàn tay vô hình dẫn tới kết quả làm lợi cho chính mình"
@@ -6013,7 +6013,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 477,
-    "question": "Z% Để sản xuất ra 1000 đôi dép, công ty đầu tư 100000 USD cho nguyên liệu, vật liệu, 5000 USD cho hao mòn máy móc. Công ty đó trả 5000 USD cho công nhân, trình độ bóc lột đạt 200%. Tính giá trị (W) của 10000 đôi dép công ty sản xuất ra?",
+    "question": "Z% Để sản xuất ra 1000 đôi đểp, công ty đầu tư 100000 USD cho nguyên liệu, vật liệu, 5000 USD cho hao mòn máy móc. Công ty đó trả 5000 USD cho công nhân, trình độ bóc lột đạt 200%. Tính giá trị (W) của 10000 đôi đểp công ty sản xuất ra?",
     "options": [
       "A. W= 120000 USD",
       "B. W=110000USD",
@@ -6037,8 +6037,8 @@ window.QUIZ_DATA = {
     "id": 479,
     "question": "Hệ thống lý luận kinh tế chính trị đầu tiên nghiên cứu về sản xuất tư bản chủ nghĩa là",
     "options": [
-      "A. Chủ nghĩa trong thương",
-      "B. Chủ nghĩa trọng nông",
+      "Chủ nghĩa trong thương",
+      "Chủ nghĩa trọng nông",
       "C. Kinh tế chính trị cố dién",
       "D. Kinh tế chính trị cổ điển Anh"
     ],
@@ -6048,7 +6048,7 @@ window.QUIZ_DATA = {
     "id": 480,
     "question": "Cách mạng công nghiệp lần thứ ba diễn ra trong giai đoạn nào?",
     "options": [
-      "A. Tử đầu thập niên 50 của thế ky XX đến cuối thé kỷ XX",
+      "A. Tử đầu thập niên 50 của thế kỷ XX đến cuối thé kỷ XX",
       "B. Tử đâu thập niên 60 của thé kỷ XX đến cuối thế kỷ XX",
       "C. Từ đầu thập niên 70 của thế kỷ XX đến cuối thế kỷ XX",
       "D. Tử dau thập niên 80 của thế kỷ XX đến cuối thé kỷ XX"
@@ -6068,9 +6068,9 @@ window.QUIZ_DATA = {
   },
   {
     "id": 482,
-    "question": "Điền vào chỗ trống: C. Mác và Ph. Ăngghen đã nhận xét rằng: “Giai cấp tư sản, trong quá trình thống trị giai Kã cấp chưa day một thé ky, đã tạo ra những... nhiêu hơn và đồ sộ hơn... của tất cả các thế hệ trước kia gop lại”",
+    "question": "Điền vào chỗ trống: C. Mác và Ph. Ăngghen đã nhận xét rằng: “Giai cấp tư sản, trong quá trình thống trị giai Kã cấp chưa day một thế kỷ, đã tạo ra những... nhiêu hơn và đồ sộ hơn... của tất cả các thế hệ trước kia gop lại”",
     "options": [
-      "A. Lực lượng sản xuất.. lực lượng sản xuất",
+      "Lực lượng sản xuất.. lực lượng sản xuất",
       "B. Quan hệ sản xuất.. quan hệ sản xuất",
       "C. Của oải.. của cải",
       "D. Vật chất.. vật chất"
@@ -6083,7 +6083,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Chuyến tử lao động thủ cong sang lao động máy móc",
       "B. Chuyển từ lao động thủ công sang sử dụng động cơ điện",
-      "C. Chuyến từ lao động máy móc sang lao động sử dụng năng lương điện va động cơ điện"
+      "C. Chuyến từ lao động máy móc sang lao động sử dụng năng lương điện và động cơ điện"
     ],
     "answer": "A"
   },
@@ -6091,10 +6091,10 @@ window.QUIZ_DATA = {
     "id": 484,
     "question": "’ Quan điểm nào dưới đây không phải là đặc trung chủ yếu của quá trình công nghiệp hóa, hiện đại hóa ở Việt Nam ?",
     "options": [
-      "A. Công nghiệp hóa, hiện đại hóa gắn liền với phát triển công nghiệp nang",
-      "B. Công nghiệp hóa, hiện đại hóa trong điều kiện nền kinh tế thị trường, định hướng xã hội chủ nghĩa",
-      "C. Công nghiệp hóa, hiện đại hóa trong bối cảnh toàn cầu hóa kinh tế quốc tế",
-      "D. Công nghiệp hóa, hiện đại hóa theo định hướng xã hội chủ nghĩa"
+      "Công nghiệp hóa, hiện đại hóa gắn liền với phát triển công nghiệp nang",
+      "Công nghiệp hóa, hiện đại hóa trong điều kiện nền kinh tế thị trường, định hướng xã hội chủ nghĩa",
+      "Công nghiệp hóa, hiện đại hóa trong bối cảnh toàn cầu hóa kinh tế quốc tế",
+      "Công nghiệp hóa, hiện đại hóa theo định hướng xã hội chủ nghĩa"
     ],
     "answer": "A"
   },
@@ -6113,7 +6113,7 @@ window.QUIZ_DATA = {
     "id": 486,
     "question": "“Khoa học và công nghệ sẽ có bước tiến nhảy vọt. Kinh tế tri thức có vai trò ngày cảng nổi bật trong quá trình | phát triển lực lượng sản xuất” được nhận định trong đại hội mấy của Đảng?",
     "options": [
-      "A. Đại hội Vill Đại hội IX ĐạihộiX Đại hội XI"
+      "Đại hội Vill Đại hội IX ĐạihộiX Đại hội XI"
     ],
     "answer": "B"
   },
@@ -6139,9 +6139,9 @@ window.QUIZ_DATA = {
   },
   {
     "id": 489,
-    "question": "60 Chọn phương án sai: vai trò của cách mang công nghiệp đối với sự phát triển đó là:",
+    "question": "Chọn phương án sai: vai trò của cách mang công nghiệp đối với sự phát triển đó là:",
     "options": [
-      "A. Thúc đấy sự phát triển của lực lượng sản xuất",
+      "A. Thúc đẩy sự phát triển của lực lượng sản xuất",
       "B. Thúc đẩy các quan hệ sản xuất mới ra đời",
       "C. Thúc đẩy hoàn thiện quan hệ sản xuất",
       "D. Thúc đẩy đổi mới phương thức quản trị phát triển"
@@ -6194,7 +6194,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 494,
-    "question": "Điền vào chỗ trống để hoàn thành câu sau: “Chính trị kinh tế học tuyệt nhiên không nghiên cứu sự sản xuất, KE ma nghiên cứu những quan hệ xã hội giữa... trong sản xuất, nghiên cứu chế độ xã hội của sản xuất”.",
+    "question": "Điền vào chỗ trống để hoàn thành câu sau: “Chính trị kinh tế học tuyệt nhiên không nghiên cứu sự sản xuất, KE mà nghiên cứu những quan hệ xã hội giữa... trong sản xuất, nghiên cứu chế độ xã hội của sản xuất”.",
     "options": [
       "A. Người với người",
       "B. Con người với tiền tệ",
@@ -6205,12 +6205,12 @@ window.QUIZ_DATA = {
   },
   {
     "id": 495,
-    "question": "Chức năng nào của kinh tế chính trị Mác - Lênin thể hiện sự vận dụng đúng các quy luật kinh tế khách quan | ¢ thông qua điều chỉnh hành vi cá nhân hoặc các chính sách kinh tế sẽ góp phần thúc đấy kinh tế - xã hội phát triển theo hướng tiến bộ?",
+    "question": "Chức năng nào của kinh tế chính trị Mác - Lênin thể hiện sự vận dụng đúng các quy luật kinh tế khách quan | ¢ thông qua điều chỉnh hành vi cá nhân hoặc các chính sách kinh tế sẽ góp phần thúc đẩy kinh tế - xã hội phát triển theo hướng tiến bộ?",
     "options": [
-      "A. Chức năng thực tiến",
-      "B. Chức năng nhận thức",
-      "C. Chức năng tư tưởng",
-      "D. Chức năng phương pháp luận"
+      "Chức năng thực tiến",
+      "Chức năng nhận thức",
+      "Chức năng tư tưởng",
+      "Chức năng phương pháp luận"
     ],
     "answer": "A"
   },
@@ -6250,7 +6250,7 @@ window.QUIZ_DATA = {
     "id": 499,
     "question": "{ Độc quyền được hiểu là: K",
     "options": [
-      "A. Liên minh giữa các doanh nghiệp lớn, có khả năng thâu tóm việc sản xuất va tiêu thụ một số loại hàng hóa,",
+      "A. Liên minh giữa các doanh nghiệp lớn, có khả năng thâu tóm việc sản xuất và tiêu thụ một số loại hàng hóa,",
       "B. ó khả năng định ra giá cả độc quyền, nhằm thu lợi nhuận độc quyền cao",
       "C. Liên minh giữa các doanh nghiệp vửa và nhỏ, có khả năng thâu tóm việc sản xuất và tiêu thụ một số loại hàng hóa, có khả nang định ra giá cả độc quyền, nhằm thu lợi nhuận độc quyền cao",
       "D. Liên minh giữa các tổ chức cá nhân và nhà nước, có khả năng thâu tóm việc sản xuất và tiêu thụ một số loại hàng hóa, có khả năng định ra giá cả độc quyền, nhắm thu lợi nhuận độc quyền cao"
@@ -6274,7 +6274,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Sở hữu nhà nước và sở hữu tư nhãn chủ nghĩa tư bản",
       "B. Sở hữu nhà nước và sở hữu độc quyền tư nhân",
-      "C. Sở hữu nha nước tư sản",
+      "C. Sở hữu nhà nước tư sản",
       "D. Sở hữu của nhiều nước tư bản"
     ],
     "answer": "B"
@@ -6294,7 +6294,7 @@ window.QUIZ_DATA = {
     "id": 503,
     "question": "'Ï Co chế thị trường có sự điều tiết của nhà nước nhằm phục vụ lợi ích của ai?",
     "options": [
-      "A. Chủ nghĩa tư bản độc quyền",
+      "Chủ nghĩa tư bản độc quyền",
       "B. Nhà nước dân chủ",
       "C. . Các cong ty tai chính",
       "D. Nhân dân lao động"
@@ -6314,7 +6314,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 505,
-    "question": "SE Trong chủ nghĩa tư bản ngày nay, các trùm tai chính thống tri nền kinh tế thông qua:",
+    "question": "Trong chủ nghĩa tư bản ngày nay, các trùm tai chính thống tri nền kinh tế thông qua:",
     "options": [
       "A. Kết hợp \"chế độ tham dự\" với \"chế độ uỷ nhiệm\"",
       "B. Chế độ tham dự",
@@ -6361,7 +6361,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Có giá trị sử dụng, có giá cả, có thể trao đổi, mua bán nhưng không do hao phí lao động trực tiếp tạo ra",
       "B. Có giá trị, có giá cả, có thể trao đổi, mua bán nhưng không do hao phí lao động trực tiếp tạo ra",
-      "C. Có giá tri sử dụng, có giá trị, có thể trao đổi, mua bán nhưng không do hao phí lao động trực tiếp tao ra",
+      "C. Có giá trị sử dụng, có giá trị, có thể trao đổi, mua bán nhưng không do hao phí lao động trực tiếp tạo ra",
       "D. Có giá trị, có thể trao đổi, mua bán nhưng không do hao phí lao động trực tiếp tạo ra"
     ],
     "answer": "A"
@@ -6394,7 +6394,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Lao động phức tap là lao động tri tuệ của người lao động có trình độ cao",
       "B. Lao động phức tạp là lao động trải qua đào tạo, huấn luyện",
-      "C. Trong cùng một thời gian lao động, lao động phức tap tạo ra nhiều giá tri hơn lao động giản đơn."
+      "Trong cùng một thời gian lao động, lao động phức tap tạo ra nhiều giá trị hơn lao động giản đơn."
     ],
     "answer": "A"
   },
@@ -6422,7 +6422,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 515,
-    "question": "9Ï] Luong giá tri của đơn vị hàng hoá thay đổi K",
+    "question": "9Ï] Luong giá trị của đơn vị hàng hoá thay đổi K",
     "options": [
       "A. Tỷ lệ nghịch với năng suất lao động, không phụ thuộc vào cưỡng độ lao động",
       "B. Ty lệ thuận với năng suất lao động",
@@ -6434,10 +6434,10 @@ window.QUIZ_DATA = {
     "id": 516,
     "question": "Ban chất tiền công trong chủ nghĩa tư ban là:",
     "options": [
-      "A. Hình thức biểu hiện bằng tiên của giá trị sức lao động",
-      "B. Hình thức biểu hiện bằng tiền của giá cả sức lao động",
-      "C. Hình thức biểu hiện bằng tiền của giá trị lao động",
-      "D. Hình thức biểu hiện bằng tiên của giá cả của lao động"
+      "Hình thức biểu hiện bằng tiên của giá trị sức lao động",
+      "Hình thức biểu hiện bằng tiền của giá cả sức lao động",
+      "Hình thức biểu hiện bằng tiền của giá trị lao động",
+      "Hình thức biểu hiện bằng tiên của giá cả của lao động"
     ],
     "answer": "B"
   },
@@ -6464,12 +6464,12 @@ window.QUIZ_DATA = {
   },
   {
     "id": 519,
-    "question": "Ø5 c ) Sự khác nhau giữa dia tô tuyệt đối va dia tô chênh lệch đó là: Go",
+    "question": "Ø5 c ) Sự khác nhau giữa dia tô tuyệt đối và dia tô chênh lệch đó là: Go",
     "options": [
-      "A. Độc quyền kinh doanh ruộng đã theo kiểu tu bản chủ nghĩa là nguyên nhân sinh ra dia tô chênh lệch, còn",
+      "Độc quyền kinh doanh ruộng đã theo kiểu tu bản chủ nghĩa là nguyên nhân sinh ra dia tô chênh lệch, còn",
       "B. ộc quyền tư hữu về ruộng đất là nguyên nhân sinh ra địa tô tuyệt đối",
-      "C. Độc quyền sở hữu đất đã theo kiểu tư bản chủ nghĩa là nguyên nhân sinh ra địa tô chênh lệch, còn độc quyền tư hữu về ruộng đất là nguyên nhân sinh ra dia tô tuyệt đối",
-      "D. Độc quyền kinh doanh ruộng đã theo kiểu tư bản chủ nghĩa là nguyên nhân sinh ra địa tô chênh lệch, còn",
+      "Độc quyền sở hữu đất đã theo kiểu tư bản chủ nghĩa là nguyên nhân sinh ra địa tô chênh lệch, còn độc quyền tư hữu về ruộng đất là nguyên nhân sinh ra dia tô tuyệt đối",
+      "Độc quyền kinh doanh ruộng đã theo kiểu tư bản chủ nghĩa là nguyên nhân sinh ra địa tô chênh lệch, còn",
       "E. ộc quyền sử dụng về ruộng đất là nguyên nhân sinh ra địa tô tuyệt đối"
     ],
     "answer": "A"
@@ -6479,7 +6479,7 @@ window.QUIZ_DATA = {
     "question": "Mức độ bóc lột của nhà tư bản được tính bằng",
     "options": [
       "A. Tỷ suất lợi nhuận",
-      "B. Ty suất giá tri thang dư",
+      "B. Ty suất giá trị thang dư",
       "C. Ty suất lợi nhuận bình quân"
     ],
     "answer": "B"
@@ -6499,9 +6499,9 @@ window.QUIZ_DATA = {
     "id": 522,
     "question": "Quá trình sản xuất tư bản là quá trình sản xuất EX",
     "options": [
-      "A. Giá tri sử dung",
+      "A. Giá trị sử dụng",
       "B. Giá trị thang du",
-      "C. Gia tri trao đối"
+      "C. Gia tri trao đổi"
     ],
     "answer": "B"
   },
@@ -6511,8 +6511,8 @@ window.QUIZ_DATA = {
     "options": [
       "A. Kéo dài thời gian lao động thăng dư khi thời gian lao động tất yếu, năng suất lao động và giá trị sức lao ộng không đối",
       "B. Kéo dài thời gian lao động tất yếu khi thời gian lao động thăng dư, năng suất lao động và giá trị sức lao ồng khong đối",
-      "C. Rút ngắn thời gian lao động thang dư khi thời gian lao động tất yếu, năng suất lao động và giá tri sức lao ộng không đổi",
-      "D. Rút ngắn thời gian lao động tất yếu khi thời gian lao động thăng dư, năng suất lao động và giá tri sức lao ộng không đổi"
+      "C. Rút ngắn thời gian lao động thang dư khi thời gian lao động tất yếu, năng suất lao động và giá trị sức lao ộng không đổi",
+      "D. Rút ngắn thời gian lao động tất yếu khi thời gian lao động thăng dư, năng suất lao động và giá trị sức lao ộng không đổi"
     ],
     "answer": "A"
   },
@@ -6522,8 +6522,8 @@ window.QUIZ_DATA = {
     "options": [
       "A. Tỷ suất giá trị thăng dư, tốc độ chu chuyển tư bản, cấu tạo hữu cơ của tư bản, tiết kiệm tư bản bất biến",
       "B. Tỷ suất lợi tức, tốc độc chu chuyển tư bản, cấu tạo hữu cơ của tư bản, tiết kiệm tư bản bất biến",
-      "C. Khối lượng giá trị thăng du, tỷ suất giá trị thăng dư, cấu tạo hữu cơ của tu bản, tiết kiệm tư bản bất biến",
-      "D. Khối lượng giá trị thăng du, tỷ suất lợi tức, tỷ suất giá trị thăng dư, tốc độ chu chuyển của tư bản"
+      "C. Khối lượng giá trị thặng dư, tỷ suất giá trị thăng dư, cấu tạo hữu cơ của tu bản, tiết kiệm tư bản bất biến",
+      "D. Khối lượng giá trị thặng dư, tỷ suất lợi tức, tỷ suất giá trị thăng dư, tốc độ chu chuyển của tư bản"
     ],
     "answer": "A"
   },
@@ -6533,9 +6533,9 @@ window.QUIZ_DATA = {
     "options": [
       "A. Là nền kinh tế thị trường có sự quản lý của nhà nước xã hội chủ nghĩa, do Đảng Cộng san Việt Nam lãnh a0",
       "B. Thực hiện phân phối theo kết quả lao động",
-      "C. Là nên kinh tế ma trong đó việc xác lập thể chế sở hữu, phân phối, quản trị kinh doanh của các chủ thé",
+      "C. Là nên kinh tế mà trong đó việc xác lập thể chế sở hữu, phân phối, quản trị kinh doanh của các chủ thé",
       "D. ũng như quản lý nhà nước hướng tới xác lập những giá trị cốt lõi về xã hội",
-      "E. Là nền kinh tế phát thuy được trí tuệ và nguồn lực của toàn dân",
+      "E. Là nền kinh tế phát huy được trí tuệ và nguồn lực của toàn dân",
       "F. Tất cả phương án"
     ],
     "answer": "E"
@@ -6544,18 +6544,18 @@ window.QUIZ_DATA = {
     "id": 526,
     "question": "Đại hội nào đã xác định kinh tế thị trường định hướng xã hội chủ nghĩa là “một kiểu tổ chức kinh tế vừa tuân a theo quy luật của kinh tế thị trường vừa dưa trên cơ sở và chịu sự dẫn dắt chi phối bởi các nguyên tắc và ban chất của chủ nghĩa xã hội?",
     "options": [
-      "A. Đại hội Đảng toàn quốc lần thứ VI",
-      "B. Đại hội Đảng toàn quốc lần thứ VII",
-      "C. Đại hội Đảng toàn quốc lần thứ VIII",
-      "D. Đại hội Đảng toàn quốc lần thứ IX"
+      "Đại hội Đảng toàn quốc lần thứ VI",
+      "Đại hội Đảng toàn quốc lần thứ VII",
+      "Đại hội Đảng toàn quốc lần thứ VIII",
+      "Đại hội Đảng toàn quốc lần thứ IX"
     ],
     "answer": "D"
   },
   {
     "id": 527,
-    "question": "“1  Tưduy của Đảng về kinh tế thị trường là: a",
+    "question": "Tư duy của Đảng về kinh tế thị trường là: a",
     "options": [
-      "A. Có thể và cần thiết sử dụng kinh tế thi trường để xây dựng chủ nghĩa xã hội ở nước ta",
+      "A. Có thể và cần thiết sử dụng kinh tế thị trường để xây dựng chủ nghĩa xã hội ở nước ta",
       "B. Có thể và không cần thiết sử dụng kinh tế thị trường để xây dựng chủ nghĩa xã hội ở nước ta",
       "C. Không thể và không cấn thiết sử dụng kinh tế thị trường để xây dựng chủ nghĩa xã hội ở nước ta",
       "D. Kinh tế thị trường là cái riêng có của chủ nghĩa tư bản"
@@ -6579,7 +6579,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Phong kiến",
       "B. Chiếm hữu nô lệ",
-      "C. Tư bản chủ nghĩa",
+      "Tư bản chủ nghĩa",
       "D. Xã hội chủ nghĩa"
     ],
     "answer": "B"
@@ -6597,12 +6597,12 @@ window.QUIZ_DATA = {
   },
   {
     "id": 531,
-    "question": "Trong lịch sử phát triển nền sản xuất xã hội, tiên đề nào là quan trọng nhất cho sự ra đời va phát triển của nên kinh tế thị trường?",
+    "question": "Trong lịch sử phát triển nền sản xuất xã hội, tiên đề nào là quan trọng nhất cho sự ra đời và phát triển của nên kinh tế thị trường?",
     "options": [
-      "A. Sản xuất",
+      "Sản xuất",
       "B. Trao đổi hàng hóa",
       "C. Thị trường",
-      "D. Sản xuất và trao đổi hàng hóa"
+      "Sản xuất và trao đổi hàng hóa"
     ],
     "answer": "D"
   },
@@ -6610,7 +6610,7 @@ window.QUIZ_DATA = {
     "id": 532,
     "question": "Quan điểm “đối mới phải luôn luôn quán triệt quan điểm “dân là gốc” vì lợi ích của nhân dân, dựa vào nhân mo. phát huy vai trò làm chủ, tinh thần trách nhiệm, sức sáng tao và mọi nguồn lực của nhân dân; phát huy sức mạnh đại đoàn kết dân tộc” được đưa ra trong đại hội nào?",
     "options": [
-      "A. Đại hội đảng X Đại hội đảng XI Đại hội đảng XII Đại hội đảng XIII"
+      "Đại hội đảng X Đại hội đảng XI Đại hội đảng XII Đại hội đảng XIII"
     ],
     "answer": "C"
   },
@@ -6627,9 +6627,9 @@ window.QUIZ_DATA = {
   },
   {
     "id": 534,
-    "question": "Mô hình kinh tế thi trường định hướng xã hội chủ nghĩa ở nước ta lần đầu tiên được Đảng dua ra tại Dai hội sof)",
+    "question": "Mô hình kinh tế thị trường định hướng xã hội chủ nghĩa ở nước ta lần đầu tiên được Đảng dua ra tại Dai hội sof)",
     "options": [
-      "A. Đại hội IX (2001) Đại hội X (2006) Đại hội XI (2011) Đại hội V (1982)"
+      "Đại hội IX (2001) Đại hội X (2006) Đại hội XI (2011) Đại hội V (1982)"
     ],
     "answer": "A"
   },
@@ -6661,8 +6661,8 @@ window.QUIZ_DATA = {
     "options": [
       "A. Đầu thế kỷ XIX",
       "B. Giữa thế kỷ XIX",
-      "C. Cuối thế ky XIX",
-      "D. Dau thế ky XX"
+      "C. Cuối thế kỷ XIX",
+      "D. Dau thế kỷ XX"
     ],
     "answer": "C"
   },
@@ -6670,8 +6670,8 @@ window.QUIZ_DATA = {
     "id": 538,
     "question": "Tư tưởng kinh tế đầu tiên của giai cấp tư sản trong giai đoạn phương thức sản xuất phong kiến tan rã và chủ nghĩa tư bản ra đời đó là:",
     "options": [
-      "A. Chủ nghĩa trọng thương",
-      "B. Chủ nghĩa trọng nông",
+      "Chủ nghĩa trọng thương",
+      "Chủ nghĩa trọng nông",
       "C. Kinh tế chính trị cổ điển Anh",
       "D. Kinh tế chính trị của Karl Marx"
     ],
@@ -6679,7 +6679,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 539,
-    "question": "Z4 Ai là người đưa kinh tế chính trị trở thành môn khoa học có tính hệ thống với các phạm trù và khái niệm chuyên ngành?",
+    "question": "Ai là người đưa kinh tế chính trị trở thành môn khoa học có tính hệ thống với các phạm trù và khái niệm chuyên ngành?",
     "options": [
       "A. Adam Smith",
       "B. David Ricardo",
@@ -6690,10 +6690,10 @@ window.QUIZ_DATA = {
   },
   {
     "id": 540,
-    "question": "60 Tiến hành công nghiệp hoá theo kiểu rứt ngắn so với các nước đi trước đặc biệt chúng ta cần thực hiện yêu [a cầu nào",
+    "question": "Tiến hành công nghiệp hoá theo kiểu rút ngắn so với các nước đi trước đặc biệt chúng ta cần thực hiện yêu [a cầu nào",
     "options": [
       "A. Phát triển kinh tế và công nghiệp phải có sự nhảy vọt và không cần thực hiện tuần tự",
-      "B. Coi trong phát triển giáo dục va dao tạo, khoa học và công nghệ, xem đây là nền tang và động lực cho",
+      "B. Coi trong phát triển giáo dục và dao tạo, khoa học và công nghệ, xem đây là nền tang và động lực cho",
       "C. ông nghiệp hóa, hiện đại hóa",
       "D. Phát triển kinh tế trí thức được dời lại trong giai đoạn sau",
       "E. Uu tiên phát triển công nghiệp nặng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ"
@@ -6704,10 +6704,10 @@ window.QUIZ_DATA = {
     "id": 541,
     "question": "Công nghiệp hóa ở nước Anh bắt nguồn từ ngành nào? BE",
     "options": [
-      "A. Công nghiệp dệt",
-      "B. Công nghiệp cơ khí chế tạo",
-      "C. Công nghiệp khai khoáng",
-      "D. Công nghiệp đóng tàu"
+      "Công nghiệp dệt",
+      "Công nghiệp cơ khí chế tạo",
+      "Công nghiệp khai khoáng",
+      "Công nghiệp đóng tàu"
     ],
     "answer": "A"
   },
@@ -6716,7 +6716,7 @@ window.QUIZ_DATA = {
     "question": "Yếu tố nào quyết định đến sự hình thành của cách mạng công nghiệp gì?",
     "options": [
       "A. Su phát triển vượt bậc của quan hệ sản xuất",
-      "B. Phương thức sản xuất mới ra đời",
+      "Phương thức sản xuất mới ra đời",
       "C. Sư phát triển nhảy vot về trình độ của tư liệu lao động",
       "D. Các phát minh sáng chế của các nhà khoa học trên mọi lĩnh vực"
     ],
@@ -6739,8 +6739,8 @@ window.QUIZ_DATA = {
     "options": [
       "A. Cơ chẽ kế hoạch hoá tập trung mệnh lệnh",
       "B. Sự tiến bộ kỹ thuật không đồng bộ",
-      "C. Sản xuất không di đôi với tiêu dùng",
-      "D. Công nghiệp hoá nhanh"
+      "Sản xuất không di đôi với tiêu dùng",
+      "Công nghiệp hoá nhanh"
     ],
     "answer": "A"
   },
@@ -6770,7 +6770,7 @@ window.QUIZ_DATA = {
     "id": 547,
     "question": "Đặc trưng của cách mạng công nghiệp lần thứ hai đó là:",
     "options": [
-      "A. Sử dụng năng lượng điện va động cơ điện, dé tạo ra dây chuyền sản xuất có tính chuyên môn hóa cao",
+      "A. Sử dụng năng lượng điện và động cơ điện, dé tạo ra dây chuyền sản xuất có tính chuyên môn hóa cao",
       "B. Sử dụng năng lượng điện và máy hơi nước để cơ khí hóa sản xuất",
       "C. . Sử dụng năng lượng hơi nước, dé cơ khí hóa sản xuất",
       "D. Sử dụng công nghệ thông tin và máy tính để tự động hóa sản xuất"
@@ -6792,10 +6792,10 @@ window.QUIZ_DATA = {
     "id": 549,
     "question": "Cách mạng công nghiệp lần thứ hai diễn ra trong giai đoạn nào?",
     "options": [
-      "A. Từ nửa cuối thế ky XIX đến dau thế ky XX",
-      "B. Từ nữa dau thé ky XIX đến cuối thé ky XIX",
-      "C. Từ nửa đầu thế ky XX đế nữa cuối thé ky XX",
-      "D. Từ nửa cuối thế ky XIX đến nửa cuối thế ky XX"
+      "A. Từ nửa cuối thế kỷ XIX đến dau thế kỷ XX",
+      "B. Từ nữa dau thế kỷ XIX đến cuối thế kỷ XIX",
+      "C. Từ nửa đầu thế kỷ XX đế nửa cuối thế kỷ XX",
+      "D. Từ nửa cuối thế kỷ XIX đến nửa cuối thế kỷ XX"
     ],
     "answer": "A"
   },
@@ -6805,18 +6805,18 @@ window.QUIZ_DATA = {
     "options": [
       "A. Thu hút vốn đầu tư nước ngoài, thu hút công nghệ hiện đại",
       "B. Học hỏi kinh nghiệm quản lý tiên tiến của thế giới",
-      "C. Khai thác thị trường thế giới để tiêu thụ các sản phẩm ma nước ta có nhiều lợi thế và khả năng cạnh tranh ao",
+      "C. Khai thác thị trường thế giới để tiêu thụ các sản phẩm mà nước ta có nhiều lợi thế và khả năng cạnh tranh ao",
       "D. Dau tư tư bản trực tiếp thu lợi nhuận ở nước ngoài"
     ],
     "answer": "D"
   },
   {
     "id": 551,
-    "question": ",.,.,....,; . Cách mạng công nghiệp lần thd nhất diễn ra trong thời gian nào?",
+    "question": "Cách mạng công nghiệp lần thd nhất diễn ra trong thời gian nào?",
     "options": [
       "A. Từ giữa thế kỷ XV đến giữa thế kỷ XIX",
-      "B. Tu giữa thế ky XVI đến giữa thế kỷ XVII",
-      "C. Tu giữa thế ky XVIII đến giữa thế kỷ XIX",
+      "B. Tu giữa thế kỷ XVI đến giữa thế kỷ XVII",
+      "C. Tu giữa thế kỷ XVIII đến giữa thế kỷ XIX",
       "D. Từ giữa thế kỷ XIX đến giữa thế kỷ XX"
     ],
     "answer": "C"
@@ -6825,11 +6825,11 @@ window.QUIZ_DATA = {
     "id": 552,
     "question": "Tiến hành công nghiệp hoá theo kiểu rút ngắn so với các nước đi trước, đặc biệt như Việt Nam cần thực hiện EX yéu cau nao?",
     "options": [
-      "A. Phát triển kinh tế và công nghiệp phải có sự nhảy vọt va không cần thực hiện tuần tự",
-      "B. Coi trọng phát triển giáo dục và đảo tạo, khoa học va công nghệ, xem đây là nền tang và động lực cho",
+      "A. Phát triển kinh tế và công nghiệp phải có sự nhảy vọt và không cần thực hiện tuần tự",
+      "B. Coi trọng phát triển giáo dục và đảo tạo, khoa học và công nghệ, xem đây là nền tang và động lực cho",
       "C. ông nghiệp hóa, hiện đại hóa",
       "D. Phát triển kinh tế tri thức được dời lại trong giai đoạn sau",
-      "E. Uu tiên phát triển công nghiệp năng một cách hợp lý trên cơ sở phát triển nông nghiệp va công nghiệp nhẹ."
+      "E. Uu tiên phát triển công nghiệp năng một cách hợp lý trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ."
     ],
     "answer": "B"
   },
@@ -6859,7 +6859,7 @@ window.QUIZ_DATA = {
     "id": 555,
     "question": "Lý luận kinh tế chính trị của C. Mác và Ph. Ăngghen được cô đọng và tập trung trong tác phẩm nào? K5",
     "options": [
-      "A. Tư bản",
+      "Tư bản",
       "B. Bản thảo kinh tế - triết học",
       "C. Lược thảo phê phán khoa kinh tế chính trị",
       "D. Tuyên ngôn của Đảng Cộng sản"
@@ -6879,7 +6879,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 557,
-    "question": "merƒỂỂrmr<©O©OƠẮmmm.0SGUr  mn—mrm rm mm” ”” =Ð~<~x~x===-g?h:t?m‹ợsur 7® Ai là người được C.Mác coi là sáng lập ra kinh tế chính trị tư sản cổ điển Anh?",
+    "question": "merƒỂỂrmr<©O©OƠẮmmm.0SGUr mn—mrm rm mm” ”” =Ð~<~x~x===-g?h:t?m‹ợsur 7® Ai là người được C.Mác coi là sáng lập ra kinh tế chính trị tư sản cổ điển Anh?",
     "options": [
       "A. David Ricardo",
       "B. Adam Smith",
@@ -6893,15 +6893,15 @@ window.QUIZ_DATA = {
     "question": "Trong xuất khẩu tư bản, có hai hình thức đầu tư đó là:",
     "options": [
       "A. Đầu tư trực tiếp vả dau tư gián tiếp",
-      "B. Đầu tư trực tiếp va đầu tư ủy nhiệm",
-      "C. Đầu tư trực tiếp va dau tư nha nước",
+      "B. Đầu tư trực tiếp và đầu tư ủy nhiệm",
+      "C. Đầu tư trực tiếp và dau tư nhà nước",
       "D. Đầu tư tư bản tư nhân và đầu tư tư bản nhà nước"
     ],
     "answer": "A"
   },
   {
     "id": 559,
-    "question": "Chọn các ý không đúng về sản phẩm va hàng hoá:",
+    "question": "Chọn các ý không đúng về sản phẩm và hàng hoá:",
     "options": [
       "A. Mọi sản phẩm đều là hang hoá",
       "B. Mọi sản phẩm đều là kết quả của sản xuất",
@@ -6922,7 +6922,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 561,
-    "question": "Tổng kết thực tiễn vai trò của độc quyền trong nền kinh tế các nước tư bản phát triển giai đoạn cuối thế kỷ XIX la © đâu thé ky XX, V. I. Lénin đã khái quát độc quyền tư ban chủ nghĩa thành:",
+    "question": "Tổng kết thực tiễn vai trò của độc quyền trong nền kinh tế các nước tư bản phát triển giai đoạn cuối thế kỷ XIX la © đâu thế kỷ XX, V. I. Lênin đã khái quát độc quyền tư ban chủ nghĩa thành:",
     "options": [
       "A. Bốn đặc điểm",
       "B. Năm đặc điểm",
@@ -6955,9 +6955,9 @@ window.QUIZ_DATA = {
     "id": 564,
     "question": "Tu bản tài chính có nguồn gốc từ đâu?",
     "options": [
-      "A. Quá trình độc quyền hang hoá trong thương nghiệp va ngân hang",
+      "A. Quá trình độc quyền hang hoá trong thương nghiệp và ngân hang",
       "B. Quá trình độc quyền hàng hoá trong công nghiệp và ngân hàng",
-      "C. Quá trình độc quyền hang hoá trong thương nghiệp va công nghiệp",
+      "C. Quá trình độc quyền hang hoá trong thương nghiệp và công nghiệp",
       "D. Quá trình độc quyền hàng hoá trong công - nông - thương"
     ],
     "answer": "B"
@@ -6980,7 +6980,7 @@ window.QUIZ_DATA = {
       "A. Một phương thức sản xuất",
       "B. Một giai đoạn phát triển của phương thức sản xuất tư bản chủ nghĩa",
       "C. Một hình thái kinh tế xã hội",
-      "D. Thời kỳ quá độ di lên chủ nghĩa xã hội"
+      "D. Thời kỳ quá độ đi lên chủ nghĩa xã hội"
     ],
     "answer": "B"
   },
@@ -6988,9 +6988,9 @@ window.QUIZ_DATA = {
     "id": 567,
     "question": "bl Khang định nào đúng trong những khẳng định sau?",
     "options": [
-      "A. Sản xuất hàng hóa chỉ là sản phẩm của chủ nghĩa tư bản",
-      "B. Sản xuất hàng hóa không có trong chủ nghĩa xã hội",
-      "C. Sản xuất hàng hóa ra đời trong chế độ chiếm hữu nô lệ"
+      "Sản xuất hàng hóa chỉ là sản phẩm của chủ nghĩa tư bản",
+      "Sản xuất hàng hóa không có trong chủ nghĩa xã hội",
+      "Sản xuất hàng hóa ra đời trong chế độ chiếm hữu nô lệ"
     ],
     "answer": "C"
   },
@@ -7000,7 +7000,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Giá trị của hàng hoá",
       "B. Giá trị sử dụng của hàng hoá",
-      "C. Tiên lương",
+      "C. Tiền lương",
       "D. Lợi nhuận cho tư bản"
     ],
     "answer": "A"
@@ -7030,7 +7030,7 @@ window.QUIZ_DATA = {
     "question": "Cơ chế thị trường được Adam Smith ví như?",
     "options": [
       "A. Ban tay vô hình",
-      "B. Bóng ma vô hình",
+      "B. Bóng mà vô hình",
       "C. Con đĩa hai vòi",
       "D. Nam châm hai cực"
     ],
@@ -7062,16 +7062,16 @@ window.QUIZ_DATA = {
     "id": 574,
     "question": "Âu Mâu thuẫn cơ bản của sản xuất hàng hóa là gì?",
     "options": [
-      "A. Mâu thuẫn giữa lao động tư nhân và lao động xã hội",
-      "B. Mâu thuẫn giữa lao động cụ thể và lao động trừu tượng",
-      "C. Mâu thuẫn giữa giá trị sử dụng và giá trị",
-      "D. Mâu thuẫn giữa giá trị và giá cả hàng hóa"
+      "Mâu thuẫn giữa lao động tư nhân và lao động xã hội",
+      "Mâu thuẫn giữa lao động cụ thể và lao động trừu tượng",
+      "Mâu thuẫn giữa giá trị sử dụng và giá trị",
+      "Mâu thuẫn giữa giá trị và giá cả hàng hóa"
     ],
     "answer": "A"
   },
   {
     "id": 575,
-    "question": "°Ï  Miăn lên, khăn giấy, bim bim.. là loại hàng hoá nào?",
+    "question": "°Ï Miăn lên, khăn giấy, bim bim.. là loại hàng hoá nào?",
     "options": [
       "A. Hàng hoá hữu hình",
       "B. Hàng hoá vô hình",
@@ -7082,7 +7082,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 576,
-    "question": "“1 Tu bản khả biến ton tại dưới hình thức nào?",
+    "question": "Tu bản khả biến ton tại dưới hình thức nào?",
     "options": [
       "A. Tiền lương phải trả cho người lao động",
       "B. Nguyên liệu, vật liệu, máy móc, sức lao động",
@@ -7093,11 +7093,11 @@ window.QUIZ_DATA = {
   },
   {
     "id": 577,
-    "question": "———.............— ) M -khdi lượng giá tri thăng dư phan ánh điều gì?",
+    "question": "———.............— ) M -khdi lượng giá trị thăng dư phan ánh điều gì?",
     "options": [
       "A. Trình độ khai thác sức lao động làm thuê",
       "B. Trình độ bóc lột sức lao động của nhà tư bản",
-      "C. Quy mô giá trị thăng dư ma nha tư bản thu được",
+      "C. Quy mô giá trị thăng dư mà nha tư bản thu được",
       "D. Quy mô bóc lột giá trị của nhà tư bản"
     ],
     "answer": "C"
@@ -7140,16 +7140,16 @@ window.QUIZ_DATA = {
     "options": [
       "A. Sức lao động cho nhà tư bản",
       "B. Lao động cho nhà tư bản",
-      "C. Hàng hóa cho nhà tư bản"
+      "Hàng hóa cho nhà tư bản"
     ],
     "answer": "A"
   },
   {
     "id": 582,
-    "question": "Tiên công thực tế là",
+    "question": "Tiền công thực tế là",
     "options": [
-      "A. Tiền công được biểu hiện bằng số lượng hang hóa tiêu dùng va dịch vụ ma công nhân mua được bang tiền ông danh nghĩa của mình",
-      "B. Tiền công được biếu hiện bằng số lượng hàng hóa tiêu dùng và dịch vụ ma công nhan mua được bảng tiền ông thực tế của mình",
+      "A. Tiền công được biểu hiện bằng số lượng hang hóa tiêu dùng và dịch vụ mà công nhân mua được bang tiền ông danh nghĩa của mình",
+      "B. Tiền công được biếu hiện bằng số lượng hàng hóa tiêu dùng và dịch vụ mà công nhan mua được bảng tiền ông thực tế của mình",
       "C. Tiền công được biểu hiện bằng số tư liệu sản xuất và tiêu dùng và dịch vụ mà công nhân mua được bằng tiền công thực tế của mình"
     ],
     "answer": "A"
@@ -7158,10 +7158,10 @@ window.QUIZ_DATA = {
     "id": 583,
     "question": "= eh Q @ II © Những nhân tố nào ảnh hưởng đến quy mô của tích lũy tư bản? c=",
     "options": [
-      "A. Cường độ lao dong; trình độ bóc lột súc lao dong; sự chênh lệch ngày cảng tăng giữa tư bản sử dụng và tư",
+      "A. Cường độ lao động; trình độ bóc lột sức lao động; sự chênh lệch ngày cảng tăng giữa tư bản sử dụng và tư",
       "B. ản đã tiéu dùng, quy md của tư bản ứng trước",
       "C. Trình độ năng suất lao động; trình độ bóc lột sức lao động ; sự chênh lệch ngảy càng tăng giữa tư bản sử",
-      "D. ung va tư bản đã tiều dùng; quy mô của tư bản ứng trước",
+      "D. ung và tư bản đã tiều dùng; quy mô của tư bản ứng trước",
       "E. Sự chênh lệch ngày càng tăng giữa tư bản sử dụng và tư bản đã tiêu dùng; quy mô của tư bản ứng trước, trình độ bóc lột sức lao động",
       "F. Trình độ năng suất lao động; trình độ bóc lột sức lao động; sự chênh lệch ngày cảng tăng giữa tư bản sử",
       "A. ung và tư bản đã tiêu dùng"
@@ -7202,7 +7202,7 @@ window.QUIZ_DATA = {
     "id": 587,
     "question": "Xây dựng nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam nhằm thực hiện mục tiêu EX",
     "options": [
-      "A. Dân giàu, nước mạnh, dân chủ, công bảng, van minh",
+      "A. Dân giàu, nước mạnh, dân chủ, công bảng, văn minh",
       "B. Dân giàu, nước mạnh, công bang, dân chủ, văn minh",
       "C. Dân giàu, nước mạnh, văn minh, công bằng, dan chủ",
       "D. Dân giàu, nước mạnh, dân chủ, văn minh, công bằng"
@@ -7226,7 +7226,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Phong kiến",
       "B. Chiếm hữu nô lệ",
-      "C. Tư bản chủ nghĩa",
+      "Tư bản chủ nghĩa",
       "D. Xã hội chủ nghĩa"
     ],
     "answer": "C"
@@ -7235,11 +7235,11 @@ window.QUIZ_DATA = {
     "id": 590,
     "question": "A ra Quan điểm về hoàn thiện thể chế thị trường định hướng xã hội chủ nghĩa là gì?",
     "options": [
-      "A. Đảm bảo tính đồng bộ giữa các bộ phan cấu thành của các thế chế kinh tẽ, giữa các yếu tố thị trưởng va ác loại thị trường",
-      "B. Chủ động, tích cực các vấn đề lý luận va thực tiễn tống kết, đồng thời nâng cao năng lực lãnh đạo của",
-      "C. ảng, hiệu lực quản lý của Nha nước.",
+      "A. Đảm bảo tính đồng bộ giữa các bộ phan cấu thành của các thế chế kinh tẽ, giữa các yếu tố thị trưởng và ác loại thị trường",
+      "B. Chủ động, tích cực các vấn đề lý luận và thực tiễn tống kết, đồng thời nâng cao năng lực lãnh đạo của",
+      "C. ảng, hiệu lực quản lý của Nhà nước.",
       "D. Kế thừa có chọn lọc thành tựu phát triển kinh tế thị trường của nhân loại và kinh nghiệm tổng kết từ thực tiễn",
-      "E. ối mới ở nước ta; nhận thức day du, tôn trọng và vận dụng đúng dan các quy luật khách quan của kinh tế thị trường",
+      "E. ối mới ở nước ta; nhận thức đầy đủ, tôn trọng và vận dụng đúng dan các quy luật khách quan của kinh tế thị trường",
       "F. Tất cả phương án trên"
     ],
     "answer": "D"
@@ -7257,7 +7257,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 592,
-    "question": "= Đặc điểm nào dưới đây không phải của kinh tế thi trường?",
+    "question": "= Đặc điểm nào dưới đây không phải của kinh tế thị trường?",
     "options": [
       "A. Kinh tế thị trường là kinh tế hàng hoá phát triển cao",
       "B. Kinh tế thị trường lấy khoa học công nghệ hiện đại làm cơ sở",
@@ -7314,8 +7314,8 @@ window.QUIZ_DATA = {
     "id": 597,
     "question": "Quan điểm cho rằng, xã hội loài người phát triển dựa theo những quy luật tự nhiên thuộc về trường phái nào?",
     "options": [
-      "A. Chủ nghĩa trọng thương",
-      "B. Chủ nghĩa trọng nông",
+      "Chủ nghĩa trọng thương",
+      "Chủ nghĩa trọng nông",
       "C. Kinh tế chính trị cổ điển Anh",
       "D. Kinh tế chính trị của Karl Marx"
     ],
@@ -7325,7 +7325,7 @@ window.QUIZ_DATA = {
     "id": 598,
     "question": "Đặc trưng cơ bản của cách mạng công nghiệp lần thứ ba là gì? K3",
     "options": [
-      "A. Sử dụng công nghệ thông tin va máy tính",
+      "A. Sử dụng công nghệ thông tin và máy tính",
       "B. Sử dụng năng lượng điện",
       "C. Sử dụng động cơ hơi nước",
       "D. Sử dụng động cơ điện"
@@ -7381,9 +7381,9 @@ window.QUIZ_DATA = {
     "id": 603,
     "question": "Cách mạng công nghiệp lần thứ nhất diễn ra trong thời gian nào?",
     "options": [
-      "A. Từ giữa thé kỷ XV đến giữa thế ky XIX",
+      "A. Từ giữa thé kỷ XV đến giữa thế kỷ XIX",
       "B. Tử giữa thế kỷ XVI đến giữa thế kỷ XVII",
-      "C. Từ giữa thế ky XVIII đến giữa thế ky XIX",
+      "C. Từ giữa thế kỷ XVIII đến giữa thế kỷ XIX",
       "D. Từ giữa thế kỷ XIX đến giữa thế kỷ XX"
     ],
     "answer": "C"
@@ -7394,7 +7394,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Thu hút vốn đầu tư nước ngoài, thu hút công nghệ hiện đại",
       "B. Học hỏi kinh nghiệm quản lý tiên tiến của thế giới",
-      "C. Khai thác thị trường thế giới dé tiêu thụ các sản phẩm ma nước ta có nhiều lợi thế và khả năng cạnh tranh ao",
+      "C. Khai thác thị trường thế giới dé tiêu thụ các sản phẩm mà nước ta có nhiều lợi thế và khả năng cạnh tranh ao",
       "D. Đầu tư tư bản trực tiếp thu lợi nhuận ở nước ngoài"
     ],
     "answer": "D"
@@ -7405,8 +7405,8 @@ window.QUIZ_DATA = {
     "options": [
       "A. Cơ chế kế hoạch hoá tập trung mệnh lệnh",
       "B. Sự tiến bộ kỹ thuật không đồng bộ",
-      "C. Sản xuất không đi đôi với tiêu dùng",
-      "D. Công nghiệp hoá nhanh"
+      "Sản xuất không đi đôi với tiêu dùng",
+      "Công nghiệp hoá nhanh"
     ],
     "answer": "A"
   },
@@ -7426,7 +7426,7 @@ window.QUIZ_DATA = {
     "question": "Yếu tố nào quyết định đến sự hình thành của cách mạng công nghiệp gì?",
     "options": [
       "A. Sự phát triển vượt bậc của quan hệ sản xuất",
-      "B. Phương thức sản xuất mới ra đời",
+      "Phương thức sản xuất mới ra đời",
       "C. Sự phát triển nhảy vọt về trình độ của tư liệu lao động",
       "D. Các phát minh sáng chế của các nhà khoa học trên mọi lĩnh vực"
     ],
@@ -7447,10 +7447,10 @@ window.QUIZ_DATA = {
     "id": 609,
     "question": "Công nghiệp hóa ở nước Anh bắt nguồn từ ngành nào?",
     "options": [
-      "A. Công nghiệp dệt",
-      "B. Công nghiệp cơ khí chế tạo",
-      "C. Công nghiệp khai khoáng",
-      "D. Công nghiệp đóng tàu"
+      "Công nghiệp dệt",
+      "Công nghiệp cơ khí chế tạo",
+      "Công nghiệp khai khoáng",
+      "Công nghiệp đóng tàu"
     ],
     "answer": "A"
   },
@@ -7467,11 +7467,11 @@ window.QUIZ_DATA = {
   },
   {
     "id": 611,
-    "question": "In NI II An (._...-. . .JHÊ] .Ñ_.—] Lý luận kinh tế chính trị của C. Mác va Ph. Ăngghen được cô dong và tập trung trong tác phẩm nào?",
+    "question": "In NI II An (._...-. . .JHÊ] .Ñ_.—] Lý luận kinh tế chính trị của C. Mác và Ph. Ăngghen được cô dong và tập trung trong tác phẩm nào?",
     "options": [
-      "A. Tư bản",
+      "Tư bản",
       "B. Bản thảo kinh tế - triết học",
-      "C. Lược thảo phê phan khoa kinh tế chính tri",
+      "C. Lược thảo phê phan khoa kinh tế chính trị",
       "D. Tuyên ngôn của Đảng Cộng sản"
     ],
     "answer": "A"
@@ -7489,7 +7489,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 613,
-    "question": "Đối tượng nghiên cứu của kinh tế chính tri Mác - Lênin là gì? | =",
+    "question": "Đối tượng nghiên cứu của kinh tế chính trị Mác - Lênin là gì? | =",
     "options": [
       "A. Nghiên cứu các quan hệ san xuất trong các khâu của quá trình tái sản xuất xã hội: sản xuất - phân phối - trao đổi - tiêu dùng",
       "B. Nghiên cứu các quan hệ sản xuất trong các khâu của quá trình tái sản xuất xã hội: sản xuất - trao đổi - phân phối - tiêu dùng",
@@ -7500,7 +7500,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 614,
-    "question": "Ai là người đưa kinh tế chính trị trở thành môn khoa hoc có tính hệ thống với các pham trù va khái niệm chuyên ngành?",
+    "question": "Ai là người đưa kinh tế chính trị trở thành môn khoa học có tính hệ thống với các pham trù và khái niệm chuyên ngành?",
     "options": [
       "A. Adam Smith",
       "B. David Ricardo",
@@ -7513,10 +7513,10 @@ window.QUIZ_DATA = {
     "id": 615,
     "question": "Kinh tế chính trị Mác - Lênin có những chức nào?",
     "options": [
-      "A. Chức năng nhận thức, chức năng thực tiễn, chức năng tư tưởng, chức năng khoa học",
-      "B. Chức năng nhận thức, chức năng thực tiến, chức năng khoa học, chức năng phương pháp luận",
-      "C. Chức năng thực tiến, chức năng tư tưởng, chức năng dự báo, chức năng phương pháp luận",
-      "D. Chức năng nhận thức, chức năng thực tiễn, chức năng tư tưởng, chức năng phương pháp luận"
+      "Chức năng nhận thức, chức năng thực tiễn, chức năng tư tưởng, chức năng khoa học",
+      "Chức năng nhận thức, chức năng thực tiến, chức năng khoa học, chức năng phương pháp luận",
+      "Chức năng thực tiến, chức năng tư tưởng, chức năng dự báo, chức năng phương pháp luận",
+      "Chức năng nhận thức, chức năng thực tiễn, chức năng tư tưởng, chức năng phương pháp luận"
     ],
     "answer": "D"
   },
@@ -7543,12 +7543,12 @@ window.QUIZ_DATA = {
   },
   {
     "id": 618,
-    "question": "—————————m Hiện nay, do su phát trên của luc lượng sản xuất va khoa hoc công nghệ đã hình thành các tố chức độc quyền mới đỏ la",
+    "question": "—————————m Hiện nay, do su phát trên của luc lượng sản xuất và khoa học công nghệ đã hình thành các tố chức độc quyền mới đỏ la",
     "options": [
       "A. Concem và Conglomerate",
-      "B. Concern va Syndicate",
+      "B. Concern và Syndicate",
       "C. Concern vả Trust",
-      "D. Concern, Conglomerate va consortium"
+      "D. Concern, Conglomerate và consortium"
     ],
     "answer": "A"
   },
@@ -7567,10 +7567,10 @@ window.QUIZ_DATA = {
     "id": 620,
     "question": "Mâu thuẫn cơ bản của chủ nghĩa tư bản là gì?",
     "options": [
-      "A. Mâu thuẫn giữa trình độ xã hội hóa cao của lực lượng sản xuất với quan hệ sở hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất",
-      "B. Mâu thuẫn giữa giai cấp công nhân và giai cấp tư sản",
+      "Mâu thuẫn giữa trình độ xã hội hóa cao của lực lượng sản xuất với quan hệ sở hữu tư nhân tư bản chủ nghĩa về tư liệu sản xuất",
+      "Mâu thuẫn giữa giai cấp công nhân và giai cấp tư sản",
       "C. Mau thuẫn giữa người lao động làm thuê và giai cấp bóc lột",
-      "D. Mâu thuẫn giữa trình độ xã hội hóa của lực lượng sản xuất và quan hệ sản xuất"
+      "Mâu thuẫn giữa trình độ xã hội hóa của lực lượng sản xuất và quan hệ sản xuất"
     ],
     "answer": "A"
   },
@@ -7578,9 +7578,9 @@ window.QUIZ_DATA = {
     "id": 621,
     "question": "Giá cả độc quyền được hiểu là gì? EX: (EA",
     "options": [
-      "A. Giá cả các tố chức độc quyền ap đặt trong quá trình mua va bán",
+      "A. Giá cả các tố chức độc quyền ap đặt trong quá trình mua và bán",
       "B. Giá cả do các tổ chức nhà nước áp đặt quy định trong quá trình mua và bán",
-      "C. Giá cả được các tố chức doanh nghiệp chiếm thị phần lớn trên thị trường áp dat va thông qua nha nước đưa ra giá mua và bán",
+      "C. Giá cả được các tố chức doanh nghiệp chiếm thị phần lớn trên thị trường áp dat và thông qua nhà nước đưa ra giá mua và bán",
       "D. Giả cả được chấp nhận da số trên thị trường"
     ],
     "answer": "A"
@@ -7613,7 +7613,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Nhà nước phụ thuộc vào tổ chức độc quyền",
       "B. Nhà nước không phụ thuộc vào tổ chức độc quyền",
-      "C. Tổ chức độc quyền phụ thuộc vào nha nước.",
+      "C. Tổ chức độc quyền phụ thuộc vào nhà nước.",
       "D. Tổ chức độc quyền và nhà nước cạnh tranh gay gắt với nhau"
     ],
     "answer": "A"
@@ -7624,14 +7624,14 @@ window.QUIZ_DATA = {
     "options": [
       "A. Tăng năng suất lao động",
       "B. Tăng cường độ lao động",
-      "C. Kéo dài thời gian lao dong",
+      "C. Kéo dài thời gian lao động",
       "D. Mở rộng quy mô sản xuất, khai thác tài nguyên thiên nhiên"
     ],
     "answer": "A"
   },
   {
     "id": 626,
-    "question": "6t Tiền tệ là bánh xe vĩ đại của lưu thông. Câu nói này là của ai và theo anh (chi) nó có đúng không?",
+    "question": "Tiền tệ là bánh xe vĩ đại của lưu thông. Câu nói này là của ai và theo anh (chi) nó có đúng không?",
     "options": [
       "A. A. Smith và là câu nói đúng",
       "B. Ð. Ricacđô và là câu nói đúng",
@@ -7668,8 +7668,8 @@ window.QUIZ_DATA = {
     "options": [
       "A. Tất cả các chức năng của tiền tệ",
       "B. Chỉ có chức năng thước đo giá trị",
-      "C. Chúc năng thước do giá trị, chức năng tích lũy va chức năng cất trữ",
-      "D. Chức năng thước do giá trị, chức năng tích lũy, cất trữ và chức năng tiền tệ thế giới"
+      "C. Chức năng thước do giá trị, chức năng tích lũy và chức năng cất trữ",
+      "Chức năng thước do giá trị, chức năng tích lũy, cất trữ và chức năng tiền tệ thế giới"
     ],
     "answer": "D"
   },
@@ -7679,7 +7679,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Giá trị của nó cảng cao",
       "B. Giá cả của nó cảng cao",
-      "C. Ca giả tri va gia cả của hang hóa cảng cao",
+      "C. Ca giả tri và gia cả của hang hóa cảng cao",
       "D. Gia trị của nó cảng giảm"
     ],
     "answer": "B"
@@ -7699,9 +7699,9 @@ window.QUIZ_DATA = {
     "id": 632,
     "question": "—=——————ÁÁPmÔ Trong nền sản xuất hang hóa, lam phát là hiện tương kinh tế tác đồng trực tiếp đến điều gì?",
     "options": [
-      "A. Sản xuất va tiêu ding",
+      "Sản xuất và tiêu ding",
       "B. Tuần hoản vả chu chuyến tư bản",
-      "C. Tích tụ va tập trung tư bản",
+      "C. Tích tụ và tập trung tư bản",
       "D. Nang suất lao động"
     ],
     "answer": "A"
@@ -7710,7 +7710,7 @@ window.QUIZ_DATA = {
     "id": 633,
     "question": "Theo quan điểm của kinh tế chính trị, trong tư liệu lao động bộ phận nào quyết định đến năng suất lao động? ES",
     "options": [
-      "A. Cong cu lao dong",
+      "A. Cong cu lao động",
       "B. Nguyên vật liệu cho sản xuất",
       "C. Các vật chứa đựng, bảo quản",
       "D. Kết cấu hạ tầng sản xuất"
@@ -7732,7 +7732,7 @@ window.QUIZ_DATA = {
     "id": 635,
     "question": "— ii in —— ươm Nhận định nào sau đây đúng về tư bản cho vay?",
     "options": [
-      "A. Tư bản cho vay là hàng hoá đặc biệt",
+      "Tư bản cho vay là hàng hoá đặc biệt",
       "B. Tu bản cho vay là hình thái dé thu lơi nhuận cao nhất của dau tư",
       "C. Quyền sử dụng đi én với quyền sở hữu",
       "D. La một phần của giá trị hang hoá"
@@ -7745,8 +7745,8 @@ window.QUIZ_DATA = {
     "options": [
       "A. Giai cấp tư sản ngày cảng giảu có, mau thuẫn trong chủ nghĩa tư bản tăng lên",
       "B. Cấu tạo hữu cơ của tư bản tăng lên",
-      "C. Quá trình ban củng hoá giai cấp vô sản",
-      "D. Mâu thuẫn xã hội được giải quyết khi phát triển đến đỉnh cao của xã hội"
+      "C. Quá trình ban cũng hoá giai cấp vô sản",
+      "Mâu thuẫn xã hội được giải quyết khi phát triển đến đỉnh cao của xã hội"
     ],
     "answer": "D"
   },
@@ -7754,19 +7754,19 @@ window.QUIZ_DATA = {
     "id": 637,
     "question": "Để làm rõ vai trò của các bộ phận tư bản trong việc tạo ra giá trị thang dư, tư bản được chia thành các bộ Wc - nào?",
     "options": [
-      "A. Tư bản độc quyền và tư bản nhà nước",
-      "B. Tư bản bất biến và tư bản khả biến",
-      "C. Tư bản cố định và tư bản lưu động",
-      "D. Tư bản trong nước và tư bản ngoài nước"
+      "Tư bản độc quyền và tư bản nhà nước",
+      "Tư bản bất biến và tư bản khả biến",
+      "Tư bản cố định và tư bản lưu động",
+      "Tư bản trong nước và tư bản ngoài nước"
     ],
     "answer": "B"
   },
   {
     "id": 638,
-    "question": "NT 7 II Quan hệ cung cầu thuốc khâu nào của quá trình tái sản xuất xã hội?",
+    "question": "Quan hệ cung cầu thuộc khâu nào của quá trình tái sản xuất xã hội?",
     "options": [
-      "A. Sản xuất và tiêu dùng",
-      "B. Phan phối va trao đối",
+      "Sản xuất và tiêu dùng",
+      "B. Phan phối và trao đổi",
       "C. Tiêu dùng",
       "D. Tịch lũy tư bản"
     ],
@@ -7821,7 +7821,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Phong kiến",
       "B. Chiếm hữu nô lệ",
-      "C. Tư bản chủ nghĩa",
+      "Tư bản chủ nghĩa",
       "D. Xã hội chủ nghĩa"
     ],
     "answer": "C"
@@ -7832,7 +7832,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Đảm bảo tính đông bộ giữa các bộ phận cấu thành của các thể chế kinh tế, giữa các yếu tố thị trường và ác loại thị trường",
       "B. Chủ động, tích cực các vấn đề lý luận và thực tiễn tổng kết, đồng thời nâng cao năng lực lãnh đạo của",
-      "C. ảng, hiệu lực quản lý của Nha nước",
+      "C. ảng, hiệu lực quản lý của Nhà nước",
       "D. Kế thửa có chọn lọc thành tựu phát triển kinh tế thị trường của nhân loại và kinh nghiệm tổng kết từ thực tiễn",
       "E. ổi mới ở nước ta; nhận thức đây đủ, tôn trọng và vận dụng đúng đắn các quy luật khách quan của kinh tế thị trường",
       "F. Tất cả phương án trên"
@@ -7841,7 +7841,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 645,
-    "question": "Ee Trong nền kinh tế thị trường thi thi trường có vai trò gì?",
+    "question": "Trong nền kinh tế thị trường thi thị trường có vai trò gì?",
     "options": [
       "A. Điều tiết sản xuất",
       "B. Phan bố lao động",
@@ -7852,7 +7852,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 646,
-    "question": "Nền kinh tế thi trường định hướng xã hội chủ nghĩa ở Việt Nam có tinh chất:",
+    "question": "Nền kinh tế thị trường định hướng xã hội chủ nghĩa ở Việt Nam có tinh chất:",
     "options": [
       "A. Phổ biến và đặc thù",
       "B. Phố biến và cách mạng",
@@ -7874,7 +7874,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 648,
-    "question": "—— = Dac điểm nao dưới đầy không phải của kinh tế thi trường?",
+    "question": "—— = Dac điểm nao dưới đầy không phải của kinh tế thị trường?",
     "options": [
       "A. Kinh tế thị trường là kinh tế hang hoá phát triển cao",
       "B. Kinh tế thị trường lấy khoa học cong nghệ hiện đại lam cơ sở",
@@ -7907,7 +7907,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 651,
-    "question": "Công bằng trong phần phối có những quan niệm chính nào?",
+    "question": "Công bằng trong phân phối có những quan niệm chính nào?",
     "options": [
       "A. Công bảng theo mức độ vả công bằng theo chức năng",
       "B. Công bằng theo hưởng thụ và công bằng theo cống hiến",
@@ -7918,9 +7918,9 @@ window.QUIZ_DATA = {
   },
   {
     "id": 652,
-    "question": "Quan điểm cho rằng lợi nhuận phần thu nhập thặng dư tính bằng hiệu quả giữa giá trị tổng doanh thu trừ đi fa og Qo chi phí va là phần thưởng cho việc gánh chịu rủi ro va cho sự đối mới là của ai?",
+    "question": "Quan điểm cho rằng lợi nhuận phần thu nhập thặng dư tính bằng hiệu quả giữa giá trị tổng doanh thu trừ đi fa og Qo chi phí và là phần thưởng cho việc gánh chịu rủi ro và cho sự đối mới là của ai?",
     "options": [
-      "A. Paul A Samuelson",
+      "A. Paul A. Samuelson",
       "B. David Begg",
       "C. Stanley Fischer",
       "D. Rudiger Dornbusch"
@@ -7931,8 +7931,8 @@ window.QUIZ_DATA = {
     "id": 653,
     "question": "ì Quan điểm cho rằng, xã hội loài người phát triển dựa theo những quy luật tự nhiên thuộc về trường phái So 1.",
     "options": [
-      "A. Chủ nghĩa trọng thương",
-      "B. Chủ nghĩa trọng nông",
+      "Chủ nghĩa trọng thương",
+      "Chủ nghĩa trọng nông",
       "C. Kinh tế chính trị cổ điển Anh",
       "D. Kinh tế chính trị của Karl Marx"
     ],
@@ -7975,10 +7975,10 @@ window.QUIZ_DATA = {
     "id": 657,
     "question": "Cách mạng công nghiệp lần thú hai diễn ra trong giai đoạn nào?",
     "options": [
-      "A. Tử nữa cuối thế ky XIX đến dau thé ky XX",
-      "B. Từ nữa đầu thế ky XIX đến cuối thé ky XIX",
-      "C. Từ nửa đầu thế ky XX đế nữa cuối thé ky XX",
-      "D. Từ nữa cuối thế ky XIX đến nửa cuối thế ky XX"
+      "A. Tử nửa cuối thế kỷ XIX đến dau thế kỷ XX",
+      "B. Từ nửa đầu thế kỷ XIX đến cuối thế kỷ XIX",
+      "C. Từ nửa đầu thế kỷ XX đế nửa cuối thế kỷ XX",
+      "D. Từ nửa cuối thế kỷ XIX đến nửa cuối thế kỷ XX"
     ],
     "answer": "A"
   },
@@ -7986,10 +7986,10 @@ window.QUIZ_DATA = {
     "id": 658,
     "question": "Mâu thuẫn cơ bản của sản xuất hàng hóa là gì?",
     "options": [
-      "A. Mâu thuẫn giữa lao động tư nhân và lao động xã hội",
-      "B. Mâu thuẫn giữa lao động cụ thể và lao động trừu tượng",
-      "C. Mâu thuẫn giữa giá trị sử dụng và giá trị",
-      "D. Mâu thuẫn giữa giá trị và giá cả hàng hóa"
+      "Mâu thuẫn giữa lao động tư nhân và lao động xã hội",
+      "Mâu thuẫn giữa lao động cụ thể và lao động trừu tượng",
+      "Mâu thuẫn giữa giá trị sử dụng và giá trị",
+      "Mâu thuẫn giữa giá trị và giá cả hàng hóa"
     ],
     "answer": "A"
   },
@@ -8000,7 +8000,7 @@ window.QUIZ_DATA = {
       "A. Hình thái giá trị ngẫu nhiên, hình thái giá trị chung, hình thái tiên tệ",
       "B. Hình thái giá trị ngẫu nhiên; hình thái giá trị thu hẹp; hình thái giá trị chung; hình thái tiền tệ",
       "C. Hình thái giá trị ngẫu nhiên: hình thái giá trị mở rộng (đây đủ); hình thái giá trị chung; hình thái tiền tệ",
-      "D. Hình thái giá trị mở rộng (đây đủ); hình thái giá tri chung; hình thái tiền tệ"
+      "D. Hình thái giá trị mở rộng (đây đủ); hình thái giá trị chung; hình thái tiền tệ"
     ],
     "answer": "C"
   },
@@ -8064,7 +8064,7 @@ window.QUIZ_DATA = {
       "A. Đại công nghiệp tách khỏi nông nghiệp",
       "B. Trồng trọt tách khỏi chăn nuôi",
       "C. Ngành thương nghiệp ra đời",
-      "D. Thủ công nghiệp tách khỏi nồng nghiệp"
+      "D. Thủ công nghiệp tách khỏi nông nghiệp"
     ],
     "answer": "D"
   },
@@ -8072,16 +8072,16 @@ window.QUIZ_DATA = {
     "id": 666,
     "question": "Cách mạng công nghiệp lần thứ tư được đề cập lần đầu tiên tại ở đâu và năm nào?",
     "options": [
-      "A. Tại Đức năm 2011",
-      "B. Tại Pháp năm 2011",
-      "C. Tại Anh năm 2012",
-      "D. Tại Mỹ năm 2011"
+      "Tại Đức năm 2011",
+      "Tại Pháp năm 2011",
+      "Tại Anh năm 2012",
+      "Tại Mỹ năm 2011"
     ],
     "answer": "A"
   },
   {
     "id": 667,
-    "question": "——<—  ẮÉÍÏ ]]]ĩ ” Mô hình công nghiệp hóa của Nhật Bản và các nước công nghiệp mới diễn ra trong khoảng bao nhiều năm?",
+    "question": "——<— ẮÉÍÏ ]]]ĩ ” Mô hình công nghiệp hóa của Nhật Bản và các nước công nghiệp mới diễn ra trong khoảng bao nhiều năm?",
     "options": [
       "A. Tử 10-20 năm",
       "B. Tử 15-25 năm",
@@ -8115,7 +8115,7 @@ window.QUIZ_DATA = {
     "id": 670,
     "question": "Đại Hội X của Đảng chỉ rõ mục tiêu đấy mạnh công nghiệp hoá, hiện đại hoá cần",
     "options": [
-      "A. Gan với phát triển kinh tế tri thúc; coi kinh tế tri thức là yếu tố quan trong của nền kinh tế va của công nghiệp hóa, hiện đại hóa",
+      "A. Gan với phát triển kinh tế tri thúc; coi kinh tế tri thức là yếu tố quan trong của nền kinh tế và của công nghiệp hóa, hiện đại hóa",
       "B. Gan với nền kinh tế thị trường định hướng tư bản chủ nghĩa",
       "C. Gắn với nền kinh tế khép kín",
       "D. Gắn với nền kinh tế thị trường, thực hiện chiến lược hàng xuất khẩu"
@@ -8151,13 +8151,13 @@ window.QUIZ_DATA = {
       "A. Đại công nghiệp tách khỏi nông nghiệp",
       "B. Trồng trọt tách khỏi chăn nuôi",
       "C. Ngành thương nghiệp ra doi",
-      "D. Thủ công nghiệp tách khỏi nồng nghiệp"
+      "D. Thủ công nghiệp tách khỏi nông nghiệp"
     ],
     "answer": "C"
   },
   {
     "id": 674,
-    "question": "5( Mục đích nghiên cứu ở cấp độ cao nhất của kinh tế chính tri Mác - Lénin là gì? la c",
+    "question": "Mục đích nghiên cứu ở cấp độ cao nhất của kinh tế chính trị Mác - Lênin là gì? la c",
     "options": [
       "A. Nhằm phát hiện ra các quy luật chi phối quan hệ giữa người và người trong sản xuất và trao đổi",
       "B. Nhằm phát hiện ra các quy luật chi phối quan hệ giữa người và xã hội trong sản xuất và trao đổi",
@@ -8168,12 +8168,12 @@ window.QUIZ_DATA = {
   },
   {
     "id": 675,
-    "question": "Phương thức sản xuất tư bản chủ nghĩa hình thành và thay thể cho phương thức sản sản xuất nào? Km",
+    "question": "Phương thức sản xuất tư bản chủ nghĩa hình thành và thay thể cho phương thức sản xuất nào? Km",
     "options": [
-      "A. Phương thức sản xuất phong kiến",
-      "B. Phương thức sản xuất chiếm hữu nô lệ",
-      "C. Phương thức sản xuất cộng sản nguyên thuỷ",
-      "D. Phương thức sản xuất cộng sản chủ nghĩa"
+      "Phương thức sản xuất phong kiến",
+      "Phương thức sản xuất chiếm hữu nô lệ",
+      "Phương thức sản xuất cộng sản nguyên thuỷ",
+      "Phương thức sản xuất cộng sản chủ nghĩa"
     ],
     "answer": "A"
   },
@@ -8181,10 +8181,10 @@ window.QUIZ_DATA = {
     "id": 676,
     "question": "Hệ thống lý luận kinh tế chính trị nào bước đầu nghiên cứu về nền sản xuất tư bản chủ nghĩa?",
     "options": [
-      "A. Chủ nghĩa trọng thương",
-      "B. Chủ nghĩa trọng nông",
-      "C. Chủ nghĩa tư bản",
-      "D. Chủ nghĩa xã hội"
+      "Chủ nghĩa trọng thương",
+      "Chủ nghĩa trọng nông",
+      "Chủ nghĩa tư bản",
+      "Chủ nghĩa xã hội"
     ],
     "answer": "A"
   },
@@ -8201,7 +8201,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 678,
-    "question": "Nội dung về kinh tế chính tri của C. Mác và Ph. Angghen được trình bày nhiều nhất trong tác phẩm nào?",
+    "question": "Nội dung về kinh tế chính trị của C. Mác và Ph. Ăngghen được trình bày nhiều nhất trong tác phẩm nào?",
     "options": [
       "A. Tư Bản",
       "B. Hệ tư tưởng Đức",
@@ -8227,7 +8227,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Độc lập về chính trị nhưng lệ thuộc về kinh tế và ngoại giao",
       "B. Độc lập về kinh tế nhưng lệ thuộc về chính trị",
-      "C. Lệ thuộc về kinh tế, chính tri và ngoại giao",
+      "C. Lệ thuộc về kinh tế, chính trị và ngoại giao",
       "D. Độc lập về lãnh thổ, nhưng lệ thuộc về ngoại giao"
     ],
     "answer": "A"
@@ -8238,7 +8238,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Tự do cạnh tranh Độc quyền",
       "B. Tuban",
-      "C. Sura đời của nha nước"
+      "C. Sura đời của nhà nước"
     ],
     "answer": "A"
   },
@@ -8268,7 +8268,7 @@ window.QUIZ_DATA = {
     "id": 684,
     "question": "Sự hình thành các tổ chức độc quyền dựa trên cơ sở nào? [a c",
     "options": [
-      "A. Tích tụ tập trung sản xuất va su ra đời của các xí nghiệp quy mõ lớn",
+      "A. Tích tụ tập trung sản xuất và su ra đời của các xí nghiệp quy mõ lớn",
       "B. Sự xuất hiện các thành tựu mới của khoa học",
       "C. San xuất nhỏ phan tan",
       "D. Nhiều doanh nghiệp vừa và nhỏ ra đời"
@@ -8292,7 +8292,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Tích luỹ nguyên thuỷ",
       "B. Sự phát triển mạnh mẽ của phương tiện giao thông vận tải nhờ đó mở rộng giao lưu buôn bán quốc tế",
-      "C. Sự tác động của quy luật giá tri",
+      "C. Sự tác động của quy luật giá trị",
       "D. Sự điều tiết của nhà nước tư sản"
     ],
     "answer": "A"
@@ -8310,7 +8310,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 688,
-    "question": "Giá trị sử dung của hàng hoá là giá trị sử dụng nhằm đáp ứng yêu cầu của ai?",
+    "question": "Giá trị sử dụng của hàng hoá là giá trị sử dụng nhằm đáp ứng yêu cầu của ai?",
     "options": [
       "A. Người mua",
       "B. Người bán",
@@ -8336,7 +8336,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Giá cả của hang hóa",
       "B. Giá trị của hảng hóa",
-      "C. Gia trị sử dung của hang hóa",
+      "C. Gia trị sử dụng của hang hóa",
       "D. Gia trị thang dư của hàng hóa"
     ],
     "answer": "A"
@@ -8359,7 +8359,7 @@ window.QUIZ_DATA = {
       "A. Xã hội loài người càng phát triển, sự tách biệt về sở hữu càng sâu sắc, hàng hoá được sản xuất ra càng phong phú.",
       "B. Xã hội loài người càng phát triển, sự tách biệt về sở hữu càng sâu sắc, hàng hoá được sản xuất ra càng khan hiếm.",
       "C. Xã hội loài người càng kém phát triển, sự tách biệt về sở hữu càng sâu sắc, hàng hoá được sản xuất ra àng kém phong phú.",
-      "D. Sản xuất càng phát triển, sự tách biệt về sở hữu càng sâu sắc, hàng hoá được sản xuất ra càng kém phong phú."
+      "Sản xuất càng phát triển, sự tách biệt về sở hữu càng sâu sắc, hàng hoá được sản xuất ra càng kém phong phú."
     ],
     "answer": "A"
   },
@@ -8368,8 +8368,8 @@ window.QUIZ_DATA = {
     "question": "hànhoo hở",
     "options": [
       "A. Những vật dé thỏa mãn nhu cầu tiêu dùng của con người",
-      "B. Sản phẩm của lao động, có thé thỏa mãn nhu cầu nào đó của con người thông qua trao đối, mua bán",
-      "C. Những vật có giá tn sử dụng cao",
+      "B. Sản phẩm của lao động, có thé thỏa mãn nhu cầu nào đó của con người thông qua trao đổi, mua bán",
+      "C. Những vật có giá trị sử dụng cao",
       "D. Những vật mà trên thị trường luôn khan hiếm"
     ],
     "answer": "B"
@@ -8389,7 +8389,7 @@ window.QUIZ_DATA = {
     "id": 695,
     "question": "Giá trị của hàng hoá được tạo ra tử yếu tố nào?",
     "options": [
-      "A. Lao động trửu tượng",
+      "A. Lao động trừu tượng",
       "B. Lao động cụ thể",
       "C. Giá tiền cao thấp",
       "D. Tuỳ vào công dụng của hàng hoá đó"
@@ -8419,12 +8419,12 @@ window.QUIZ_DATA = {
   },
   {
     "id": 698,
-    "question": "Tu bản bất biến (c) va tư bản khả biến (v) thuộc phạm trù tư bản nào?",
+    "question": "Tu bản bất biến (c) và tư bản khả biến (v) thuộc phạm trù tư bản nào?",
     "options": [
-      "A. Tư bản tiền tệ",
-      "B. Tư bản sản xuất",
-      "C. Tư bản hàng hoá",
-      "D. Tư bản cho vay"
+      "Tư bản tiền tệ",
+      "Tư bản sản xuất",
+      "Tư bản hàng hoá",
+      "Tư bản cho vay"
     ],
     "answer": "C"
   },
@@ -8452,7 +8452,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 701,
-    "question": "Phạm trù lợi nhuận chẳng qua chi là một hình thái thần bí hóa của giá tri thăng dư, nguyên nhân của việc này Kĩ xuất phát từ:",
+    "question": "Phạm trù lợi nhuận chẳng qua chi là một hình thái thần bí hóa của giá trị thăng dư, nguyên nhân của việc này Kĩ xuất phát từ:",
     "options": [
       "A. Su hình thành chi phí sản xuất tư bản chủ nghĩa đã xóa nhòa sự khác nhau giữa c (tư bản bất biến) và v (tư ản khả biến)",
       "B. Do chi phí sản xuất tư bản chủ nghĩa luôn nhỏ hơn chi phí sản xuất thực tế",
@@ -8463,12 +8463,12 @@ window.QUIZ_DATA = {
   },
   {
     "id": 702,
-    "question": "Khi sử dụng hàng hóa súc lao động sẽ tạo ra giá trị như thế nào?",
+    "question": "Khi sử dụng hàng hóa sức lao động sẽ tạo ra giá trị như thế nào?",
     "options": [
       "A. Giá trị mới bang giá trị ban than nó",
-      "B. Giá trị mới lớn hơn giá tri bản than nó",
+      "B. Giá trị mới lớn hơn giá trị bản than nó",
       "C. Giá trị mới nhỏ hơn giá trị bản than nó",
-      "D. Giá tri sử dụng mới nhỏ hơn giá trị Sử dụng bản thân nó"
+      "D. Giá trị sử dụng mới nhỏ hơn giá trị Sử dụng bản thân nó"
     ],
     "answer": "B"
   },
@@ -8476,10 +8476,10 @@ window.QUIZ_DATA = {
     "id": 703,
     "question": "Trong tuần hoàn tư bản, giai đoạn đầu tiên - giai đoạn lưu thông tư bản tồn tại dưới hình thái gì?",
     "options": [
-      "A. Tư bản hàng hóa",
-      "B. Tư bản tiền tệ",
-      "C. Tư bản sản xuất",
-      "D. Tư bản tiêu dùng"
+      "Tư bản hàng hóa",
+      "Tư bản tiền tệ",
+      "Tư bản sản xuất",
+      "Tư bản tiêu dùng"
     ],
     "answer": "B"
   },
@@ -8487,10 +8487,10 @@ window.QUIZ_DATA = {
     "id": 704,
     "question": "Tích lũy tư bản là gì?",
     "options": [
-      "A. Tư bản hóa tư liệu tiêu dùng",
-      "B. Tư bản hóa giá tri thăng dư",
-      "C. Tư bản hóa sức lao động",
-      "D. Tư bản hóa giá trị sản xuất"
+      "Tư bản hóa tư liệu tiêu dùng",
+      "Tư bản hóa giá trị thăng dư",
+      "Tư bản hóa sức lao động",
+      "Tư bản hóa giá trị sản xuất"
     ],
     "answer": "B"
   },
@@ -8507,9 +8507,9 @@ window.QUIZ_DATA = {
   },
   {
     "id": 706,
-    "question": "of Đại hội nào của Đảng Cong san Việt Nam đề cập đến sự cần thiết đổi mới co chế quan lý kinh tế?",
+    "question": "Đại hội nào của Đảng Cong san Việt Nam đề cập đến sự cần thiết đổi mới co chế quan lý kinh tế?",
     "options": [
-      "A. Đại hội đảng V Đại hội đảng VI Đại hội đảng VII Đại hội đảng VIII"
+      "Đại hội đảng V Đại hội đảng VI Đại hội đảng VII Đại hội đảng VIII"
     ],
     "answer": "B"
   },
@@ -8543,7 +8543,7 @@ window.QUIZ_DATA = {
       "B. Luật chơi chính thức và phi chính thức được đặt ra đối với các chủ thé tham gia hoạt động trong nền kinh tế",
       "C. ủa một quốc gia trong một giai đoạn lịch sử nhất định",
       "D. Được cấu thành bởi hệ thống các bộ phận khác nhau mà mỗi bộ phận cũng là một hệ thống phức tạp gồm nhiều yếu tố",
-      "E. Quy luật vận động và phát triển của một cộng đồng xã hội"
+      "Quy luật vận động và phát triển của một cộng đồng xã hội"
     ],
     "answer": "A"
   },
@@ -8560,12 +8560,12 @@ window.QUIZ_DATA = {
   },
   {
     "id": 711,
-    "question": "NINH Xét về bản chất, lợi ích kinh tế được hiểu như thế nào?",
+    "question": "Xét về bản chất, lợi ích kinh tế được hiểu như thế nào?",
     "options": [
       "A. Quan hệ kinh tế xã hội",
-      "B. Quan hệ xã hồi, mang tinh lich sử",
+      "B. Quan hệ xã hội, mang tinh lich sử",
       "C. Quan hệ sản xuất",
-      "D. Quan hệ chính tri mang tính lợi ich"
+      "D. Quan hệ chính trị mang tính lợi ich"
     ],
     "answer": "B"
   },
@@ -8605,7 +8605,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 715,
-    "question": "1i Loại tiền nào được hiểu là phương tiện thanh toán ma giá tri hay sức mua của nó với tư cách là tiên vượt xa chi i phí sản xuất ra nó hay giá tri của nó khi dùng vào việc khác, chứ không dùng làm tiền?",
+    "question": "Loại tiền nào được hiểu là phương tiện thanh toán mà giá trị hay sức mua của nó với tư cách là tiền vượt xa chi i phí sản xuất ra nó hay giá trị của nó khi dùng vào việc khác, chứ không dùng làm tiền?",
     "options": [
       "A. Tiên quy ước",
       "B. Tiền tượng trưng",
@@ -8629,7 +8629,7 @@ window.QUIZ_DATA = {
     "id": 717,
     "question": "Lý thuyết bàn tay vô hình của Adam Smith được hiểu là gì?",
     "options": [
-      "A. Người bán và người mua, phân bố nguồn lực kinh tế đạt được hiệu quả xã hội lớn nhất mà không cần sự an thiệp của chính phủ",
+      "A. Người bán và người mua, phân bố nguồn lực kinh tế đạt được hiệu quả xã hội lớn nhất mà không cần sự can thiệp của chính phủ",
       "B. Mô tả khả năng của cơ chế thị trường trong việc điều chỉnh cung cầu trên thị trường.",
       "C. Các cá nhân tham gia muốn tối đa hóa lợi nhuận cho mình",
       "D. Mọi người đều bị bàn tay vô hình dẫn tới kết quả làm lợi cho chính mình"
@@ -8643,7 +8643,7 @@ window.QUIZ_DATA = {
       "A. Mua hang hóa thấp hơn giá trị thật",
       "B. Mua hàng hóa cao hơn giá trị thật",
       "C. Mua hàng hóa bảng giá trị thật",
-      "D. Mua được hàng hóa súc lao động"
+      "D. Mua được hàng hóa sức lao động"
     ],
     "answer": "D"
   }
