@@ -1057,7 +1057,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 20,
-    "question": "Phạm trù lợi nhuận chẳng qua chỉ là một hình thái thần bí hóa của giá trị thăng du, nguyên nhân của việc này xuất phát tử dau? (chon nhiều đáp án)",
+    "question": "Phạm trù lợi nhuận chẳng qua chỉ là một hình thái thần bí hóa của giá trị thặng dư, nguyên nhân của việc này xuất phát tử dau? (chon nhiều đáp án)",
     "options": [
       "A. Sự hình thành chi phí sản xuất tư bản chủ nghĩa đã xóa nhoa sự khác nhau giữa c (tư bản bất biến) vả v (tư ản khả biến)",
       "B. Do chi phí sản xuất tư bản chủ nghĩa luôn nhỏ hơn chi phí sản xuất thực tế",
@@ -1488,7 +1488,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 60,
-    "question": "Chủ nghĩa trong nồng tập trung trong tâm vào nghiên cứu fĩnh vực nào?",
+    "question": "Chủ nghĩa trong nồng tập trung trọng tâm vào nghiên cứu fĩnh vực nào?",
     "options": [
       "A. Lĩnh vực sản xuất",
       "B. Linh vuc lưu thông",
@@ -1666,10 +1666,10 @@ window.QUIZ_DATA = {
     "id": 76,
     "question": "Theo lý luận của C. Mác, vai trò của máy móc trong quá trình tạo ra giá trị thặng dư là gì?",
     "options": [
-      "A. Máy móc và sức lao động đều tạo ra giá trị thăng du",
+      "A. Máy móc và sức lao động đều tạo ra giá trị thặng dư",
       "B. Máy móc là tền đề vat chất cho việc tạo ra giá trị thặng dư",
-      "C. Máy móc là nguồn gốc duy nhất của gia trị thăng du",
-      "D. Máy móc trục tiếp tạo ra giá trị thang du thông qua khấu hao"
+      "C. Máy móc là nguồn gốc duy nhất của gia trị thặng dư",
+      "D. Máy móc trục tiếp tạo ra giá trị thặng dư thông qua khấu hao"
     ],
     "answer": "B"
   },
@@ -1678,9 +1678,9 @@ window.QUIZ_DATA = {
     "question": "Hai phương pháp cơ bản đế sản xuất giá trị thặng dư là gì?",
     "options": [
       "Sản xuất giá trị thặng dư tương đối và siêu ngạch",
-      "Sản xuất giá trị thang dư tuyệt đối và siêu ngạch",
-      "Sản xuất gia trị thang dư trung bình và siêu ngạch",
-      "Sản xuất giá trị thang dư tuyệt doi và tương đối"
+      "Sản xuất giá trị thặng dư tuyệt đối và siêu ngạch",
+      "Sản xuất gia trị thặng dư trung bình và siêu ngạch",
+      "Sản xuất giá trị thặng dư tuyệt doi và tương đối"
     ],
     "answer": "D"
   },
@@ -1719,7 +1719,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 81,
-    "question": "Đề làm rõ vai trò của các bộ phần tư bản trong việc tạo ra giá trị thăng du, tư bản được chia thành các bộ phan nào?",
+    "question": "Đề làm rõ vai trò của các bộ phần tư bản trong việc tạo ra giá trị thặng dư, tư bản được chia thành các bộ phan nào?",
     "options": [
       "Tư bản độc quyền và tư bản nhà nước",
       "Tư bản bất biến và tư bản khả biến",
@@ -1973,7 +1973,7 @@ window.QUIZ_DATA = {
       "A. Trình độ khai thác sức lao động làm thuê",
       "B. Quy mõ giá trị thặng dư mà chủ sở hữu tư liệu sản xuất thu được",
       "C. Tống sỡ lương tư bản khả biến được dua vào sản xuất",
-      "D. Lượng gia trị thăng du bằng tiền mà nha tư bản thu được"
+      "D. Lượng gia trị thặng dư bằng tiền mà nha tư bản thu được"
     ],
     "answer": "A"
   },
@@ -1981,10 +1981,10 @@ window.QUIZ_DATA = {
     "id": 105,
     "question": "Theo giáo trình kinh tế chính trị Mác - Lênin, trong nền kinh tế thị trường định hướng xã hỏi chủ nghĩa ở Việt Nam, hình thức phân phối nào phản ánh tính định hướng xã hội chủ nghĩa của nền kinh tế?",
     "options": [
-      "A. Phan phối hoàn toàn theo nhu cầu của mỗi cá nhan không xét đến đóng góp",
+      "A. Phân phối hoàn toàn theo nhu cầu của mỗi cá nhan không xét đến đóng góp",
       "B. Phân phối ngang bằng nhau cho moi thành viên trong xã hội",
       "C. Phân phối theo lao động, hiệu quả kinh tế và theo phúc lợi xã hội",
-      "D. Phan phối hoan toàn theo cơ chế cung - cầu của thị trường tự do"
+      "D. Phân phối hoan toàn theo cơ chế cung - cầu của thị trường tự do"
     ],
     "answer": "C"
   },
@@ -2037,7 +2037,7 @@ window.QUIZ_DATA = {
     "question": "Theo giáo trình, mục dich của cạnh tranh giữa các ngành trong nền kinh tế thị trường là gì?",
     "options": [
       "A. Tìm nơi sản xuất có lợi nhất",
-      "B. Tim nơi phan phối có lợi nhất",
+      "B. Tim nơi phân phối có lợi nhất",
       "C. Tim nơi đấu tư có lợi nhất",
       "D. Tim nơi tiêu thụ có lợi nhất"
     ],
@@ -2126,7 +2126,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Trình độ phát tiến của lực lượng sản xuất",
       "B. Quan hệ giữa người lao đồng và người sử dụng lao động",
-      "C. Chính sách phan phối thu nhập của nhà nước",
+      "C. Chính sách phân phối thu nhập của nhà nước",
       "D. Hội nhấp kinh tế quốc tế"
     ],
     "answer": "B"
@@ -2294,7 +2294,7 @@ window.QUIZ_DATA = {
       "C. Bộ phan tư bản sản xuất ton tại dưới hình thái máy móc, thiết bi, nha xưởng cong nghiệp, giá trị của nó được",
       "D. ich chuyến tửng phần, dan dần vào giá trị sản phẩm mới thông qua chu kỳ khấu hao tai sản cố định",
       "E. Bộ phận tư bản lưu thông ton tại dưới hình thái tiền tệ hoặc hang hóa thương nghiệp, gia trị của nó phục vụ",
-      "F. ho việc duy tri các hoạt động mua bán và trao đổi nhằm hiện thực hóa giá trị thang dư trên thị trưởng",
+      "F. ho việc duy tri các hoạt động mua bán và trao đổi nhằm hiện thực hóa giá trị thặng dư trên thị trưởng",
       "A. Bộ phận tư bản tiền tệ tạm thời nhan rỗi được gửi vào hệ thống tin dụng ngãn hang, gia tri của nó tham gia vào quá trình phân phối lại nền kinh tế nhằm mục đích thu về nguồn lợi nhuận ngân hàng"
     ],
     "answer": "A"
@@ -2337,9 +2337,9 @@ window.QUIZ_DATA = {
     "question": "Theo giáo trình, tăng tốc độ chu chuyển của tư bản sẽ dẫn đến những kết quả nào?",
     "options": [
       "A. Tang số vòng chu chuyến của tư bản trong năm",
-      "B. Tăng khối lương giá trị thăng du hàng năm",
+      "B. Tăng khối lương giá trị thặng dư hàng năm",
       "C. Tăng số lượng tư bản lưu dong can Ung trước",
-      "D. Tang ty suất gia trị thang du hang năm"
+      "D. Tang ty suất gia trị thặng dư hang năm"
     ],
     "answer": "ABD"
   },
@@ -2435,7 +2435,7 @@ window.QUIZ_DATA = {
       "A. Diện tích lãnh thé quốc gia",
       "B. Tải nguyên thiên nhiên có san",
       "C. Quy mé dan số",
-      "D. Khối lượng sản phấm thang dư mà xã hội do tạo ra"
+      "D. Khối lượng sản phấm thặng dư mà xã hội do tạo ra"
     ],
     "answer": "D"
   },
@@ -3025,7 +3025,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 201,
-    "question": "Nếu nhà tư ban trả công theo đúng giá trị sức lao động thì có còn bóc lột giá trị thang dư khong?",
+    "question": "Nếu nhà tư ban trả công theo đúng giá trị sức lao động thì có còn bóc lột giá trị thặng dư khong?",
     "options": [
       "A. Không con",
       "B. Tuy trudng hop cu thé",
@@ -3122,10 +3122,10 @@ window.QUIZ_DATA = {
   },
   {
     "id": 210,
-    "question": "Bóc lột giá trị thăng du tương đối là hình thức:",
+    "question": "Bóc lột giá trị thặng dư tương đối là hình thức:",
     "options": [
       "A. Tăng thời gian ngày lao động",
-      "B. . Rút ngắn thời gian lao động can thiết và thời gian lao động thăng du",
+      "B. . Rút ngắn thời gian lao động can thiết và thời gian lao động thặng dư",
       "C. C. Rút ngắn thời gian lao động tất yếu",
       "D. Tăng thời gian lao động tất yếu"
     ],
@@ -3154,7 +3154,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 213,
-    "question": "Cong bằng trong phan phối có những quan niệm chính nào?",
+    "question": "Cong bằng trong phân phối có những quan niệm chính nào?",
     "options": [
       "A. Công bằng theo mức độ và công bằng theo chức năng",
       "B. Công bằng theo hưởng thụ và công bằng theo cống hiến",
@@ -3330,7 +3330,7 @@ window.QUIZ_DATA = {
     "id": 229,
     "question": "Mọi tư bản đều biểu hiện dưới dạng tiền, nhưng tiền không phải là tư bản. Vậy khi nào tiền trở thành tư bản?",
     "options": [
-      "A. Tiên biến thành tư bản khi được dùng để mang lại giá trị thăng du.",
+      "A. Tiên biến thành tư bản khi được dùng để mang lại giá trị thặng dư.",
       "B. Tiên biến thành tư bản khi được dùng để mang lại địa vị làm chủ nhà tư bản.",
       "C. C. Tiên biến thành tư bản khi được dùng đề mang lại giá trị chung cho toàn xã hội.",
       "D. Tiền biến thành tư bản khi được dùng với vai trò là một phương tiên thanh toán"
@@ -3361,7 +3361,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 232,
-    "question": "Xuất khẩu giá trị ra nước ngoài nhằm mục đích thu được giá trị thăng du và cáo nguồn lợi kháo 6 cáo nước mà mình đâu tư gọi là gì?",
+    "question": "Xuất khẩu giá trị ra nước ngoài nhằm mục đích thu được giá trị thặng dư và cáo nguồn lợi kháo 6 cáo nước mà mình đâu tư gọi là gì?",
     "options": [
       "A. Xuất khẩu tư bản",
       "B. Nhập khẩu tư bản Đâu tư thị trường Đầu tư tiền tệ"
@@ -3440,13 +3440,13 @@ window.QUIZ_DATA = {
       "A. Lợi nhuận độc quyền",
       "B. Tỷ suất lợi nhuận bình quân",
       "C. C. Lợi nhuận độc quyền cao",
-      "D. Ty suất giá trị thăng du"
+      "D. Ty suất giá trị thặng dư"
     ],
     "answer": "B"
   },
   {
     "id": 240,
-    "question": "Chủ nghĩa trọng nông tập trung trong tâm vào nghiên cứu lĩnh vực nào?",
+    "question": "Chủ nghĩa trọng nông tập trung trọng tâm vào nghiên cứu lĩnh vực nào?",
     "options": [
       "A. Lĩnh vực sản xuất",
       "B. Lĩnh vực lưu thông",
@@ -3633,10 +3633,10 @@ window.QUIZ_DATA = {
     "id": 257,
     "question": "Điểm giống nhau giữa dia tô tuyệt đối và địa tô chênh lệch đó là",
     "options": [
-      "A. Có nguồn gốc từ giá trị thặng dư, đều là kết quả của sự chiếm đoạt lao động thang dư của công nhân nông nghiệp làm thuê",
-      "B. Có nguồn gốc từ lợi nhuận thu được, đều là kết quả của sự chiếm đoạt lao động thang du của công nhân nông nghiệp làm thuê",
+      "A. Có nguồn gốc từ giá trị thặng dư, đều là kết quả của sự chiếm đoạt lao động thặng dư của công nhân nông nghiệp làm thuê",
+      "B. Có nguồn gốc từ lợi nhuận thu được, đều là kết quả của sự chiếm đoạt lao động thặng dư của công nhân nông nghiệp làm thuê",
       "C. Có nguồn gốc từ giá trị thặng dư, đều là kết quả của sự chism đoạt lao động thặng dư của công nhân công nghiệp làm thuê",
-      "D. Có nguồn gốc từ lợi nhuận thu được, đều là kết quả của sự chiếm đoạt lao động thang dư của công nhân ông nghiệp làm thuê"
+      "D. Có nguồn gốc từ lợi nhuận thu được, đều là kết quả của sự chiếm đoạt lao động thặng dư của công nhân ông nghiệp làm thuê"
     ],
     "answer": "A"
   },
@@ -3646,7 +3646,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Đặc điểm chuyển giá trị của từng loại tu bản vào sản phẩm",
       "B. Vai trò của lao động quá khứ và lao động sống trong việc tạo ra giá trị sử dụng",
-      "C. Nguồn gốc của giá trị thang du",
+      "C. Nguồn gốc của giá trị thặng dư",
       "D. Tính chất của lao động"
     ],
     "answer": "C"
@@ -3667,7 +3667,7 @@ window.QUIZ_DATA = {
     "question": "Qua trình sản xuất tư bản là quá trình sản xuất:",
     "options": [
       "A. Giá trị sử dụng",
-      "B. Giá trị thang dư",
+      "B. Giá trị thặng dư",
       "C. Giá trị trao đổi"
     ],
     "answer": "B"
@@ -3744,7 +3744,7 @@ window.QUIZ_DATA = {
     "question": "Dựa vào căn cứ nào để chia tư bản ra thành tư bản cố định và tư bản lưu dong?",
     "options": [
       "Phương thức chuyển giá trị của các bộ phận tu bản sang sản phẩm",
-      "B. Vai trò các bộ phận tư bản trong quá trình sản xuất giá trị thăng du",
+      "B. Vai trò các bộ phận tư bản trong quá trình sản xuất giá trị thặng dư",
       "C. Sự thay đổi về lượng trong quá trình sản xuất"
     ],
     "answer": "A"
@@ -4205,7 +4205,7 @@ window.QUIZ_DATA = {
     "question": "CLOUIFsera v HJ DƯUQCC, vio AN Các tố chức doc quyền sử dụng giá cả độc quyền de:",
     "options": [
       "A. Cũng cố vai trò của tố chức đốc quyền",
-      "B. Chiêm đoạt giá trị thang du của người khác",
+      "B. Chiêm đoạt giá trị thặng dư của người khác",
       "C. Gay thiệt hai cho các dai thủ canh tranh"
     ],
     "answer": "B"
@@ -4497,7 +4497,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 337,
-    "question": "Nếu nhà tư bản trả đúng giá trị sức lao động của người công nhân, thì nha tư bản có thu được giá trị thang dư [= hay không?",
+    "question": "Nếu nhà tư bản trả đúng giá trị sức lao động của người công nhân, thì nha tư bản có thu được giá trị thặng dư [= hay không?",
     "options": [
       "A. Có",
       "B. Khéng",
@@ -4709,7 +4709,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. La giá trị của những tư liệu sản xuất đã được tiêu dùng, là bộ phan lao động qua khứ da được kết tinh trong máy móc, nguyên, nhiên, vật liệu",
       "B. La gia tri của những tư liệu lao động đã được tiêu hao, là bộ phan lao động quá khứ đã được kết tinh trong lao động sản xuất",
-      "C. La tư bản khả biến điều kiện can thiết để qua trình tạo ra giá trị thăng du được diễn ra",
+      "C. La tư bản khả biến điều kiện can thiết để qua trình tạo ra giá trị thặng dư được diễn ra",
       "D. La tư bản (ng trước điều kiện cần để đầu tư và tái sản xuất và mỡ rộng quy mỡ sản xuất"
     ],
     "answer": "A"
@@ -4718,7 +4718,7 @@ window.QUIZ_DATA = {
     "id": 358,
     "question": "Mọi tư bản đều biểu hiện dưới dạng tiên, nhưng tiền không phải là tư bản. Vậy khi nào tiền trở thành tư bản?",
     "options": [
-      "A. Tiên biến thành tu ban khi được dùng để mang lại giá trị thăng du.",
+      "A. Tiên biến thành tu ban khi được dùng để mang lại giá trị thặng dư.",
       "B. Tiên biến thành tu bản khi được dùng để mang lại địa vị làm chủ nhà tư bản.",
       "C. Tiền biến thành tư bản khi được dùng để mang lại giá trị chung cho toàn xã hội.",
       "D. Tiên biến thành tư bản khi được dùng với vai trò là một phương tiện thanh toán."
@@ -5038,7 +5038,7 @@ window.QUIZ_DATA = {
       "A. Giá cả của hang hóa",
       "B. Gia tn của hàng hoa",
       "C. Gia tn sử dụng của hang hóa",
-      "D. Gia trị thang du của hang hóa"
+      "D. Gia trị thặng dư của hang hóa"
     ],
     "answer": "A"
   },
@@ -5124,9 +5124,9 @@ window.QUIZ_DATA = {
     "question": "Phương pháp tạo ra giá trị thặng dư tuyệt đối là gì?",
     "options": [
       "A. Kéo dài thời gian lao động thặng dư khi thời gian lao đồng tất yếu, năng suất lao động và giá trị sức lao ộng không đối",
-      "B. Kéo dài thời gian lao động tất yếu khi thời gian lao động thang du, năng suất lao động và giá trị sức lao ồng không đối",
-      "C. Rút ngắn thời gian lao động thang dư khi thời gian lao động tất yếu, năng suất lao động và giá trị sức lao ồng không đối",
-      "D. Rút ngắn thối gian lao động tất yếu khi thời gian lao động thang du, năng suất lao động và giá trị sức lao ông không đối"
+      "B. Kéo dài thời gian lao động tất yếu khi thời gian lao động thặng dư, năng suất lao động và giá trị sức lao ồng không đối",
+      "C. Rút ngắn thời gian lao động thặng dư khi thời gian lao động tất yếu, năng suất lao động và giá trị sức lao ồng không đối",
+      "D. Rút ngắn thối gian lao động tất yếu khi thời gian lao động thặng dư, năng suất lao động và giá trị sức lao ông không đối"
     ],
     "answer": "A"
   },
@@ -5159,7 +5159,7 @@ window.QUIZ_DATA = {
       "A. Giá cả sản xuất",
       "B. Giá trị thị trưởng",
       "C. Giá cả hang hóa",
-      "D. Giá trị thang dư"
+      "D. Giá trị thặng dư"
     ],
     "answer": "B"
   },
@@ -5178,10 +5178,10 @@ window.QUIZ_DATA = {
     "id": 400,
     "question": "EE Lượng lợi nhuận có thế là:",
     "options": [
-      "A. Bang hoặc thấp hơn lượng giá trị thang dư",
+      "A. Bang hoặc thấp hơn lượng giá trị thặng dư",
       "B. Cao hơn hoặc thấp hơn lượng gia tn thặng dư",
-      "C. Bang, cao hơn hoặc thấp hơn lượng gia tri thang dư",
-      "D. Bằng, hoặc cao hơn lượng gia tri thăng du"
+      "C. Bang, cao hơn hoặc thấp hơn lượng gia tri thặng dư",
+      "D. Bằng, hoặc cao hơn lượng gia tri thặng dư"
     ],
     "answer": "C"
   },
@@ -5275,7 +5275,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 409,
-    "question": "le ..__⁄_—/uả. c c FC , Cho ví du: nhà tư bản đầu tư 50 USD đế mua nguyên vat liệu dệt vải, tốn 5 USD cho hao mòn máy móc đế dệt được 10 mét vải từ nguyên liệu trên, 15 USD để trả công cho công nhân làm việc trong 8 giờ theo thoả thuận, nhưng sau 4 giờ thì công nhân đã làm xong 10 mét vải. Đế giá trị thang du được tạo ra 15 USD, nha tư bản cần làm gi?",
+    "question": "le ..__⁄_—/uả. c c FC , Cho ví du: nhà tư bản đầu tư 50 USD đế mua nguyên vat liệu dệt vải, tốn 5 USD cho hao mòn máy móc đế dệt được 10 mét vải từ nguyên liệu trên, 15 USD để trả công cho công nhân làm việc trong 8 giờ theo thoả thuận, nhưng sau 4 giờ thì công nhân đã làm xong 10 mét vải. Đế giá trị thặng dư được tạo ra 15 USD, nha tư bản cần làm gi?",
     "options": [
       "A. Đầu tư thêm 50 USD cho nguyên liệu, 5 USD cho hao mòn máy móc và bat công nhân làm thêm 4 giờ nữa như thoả thuận",
       "B. Ngay tử thời điểm làm xong 4 gid thì giá trị thặng dư được tạo ra rồi",
@@ -5820,7 +5820,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 459,
-    "question": "Khối lượng giá trị thặng du được tinh bằng công thức nao?",
+    "question": "Khối lượng giá trị thặng dư được tinh bằng công thức nao?",
     "options": [
       "A. M=m'*p",
       "B. M=m'*V",
@@ -5854,8 +5854,8 @@ window.QUIZ_DATA = {
     "question": "Giá trị thặng dư siêu ngạch là hình thức:",
     "options": [
       "A. Biến tướng của giá trị thặng dư tuyệt đối",
-      "B. Biến tướng của giá trị thăng du tương đối",
-      "C. Biến tướng của giá trị thăng du cố định",
+      "B. Biến tướng của giá trị thặng dư tương đối",
+      "C. Biến tướng của giá trị thặng dư cố định",
       "D. Biến tướng của giá trị thặng dư lưu động"
     ],
     "answer": "B"
@@ -6479,7 +6479,7 @@ window.QUIZ_DATA = {
     "question": "Mức độ bóc lột của nhà tư bản được tính bằng",
     "options": [
       "A. Tỷ suất lợi nhuận",
-      "B. Ty suất giá trị thang dư",
+      "B. Ty suất giá trị thặng dư",
       "C. Ty suất lợi nhuận bình quân"
     ],
     "answer": "B"
@@ -6500,7 +6500,7 @@ window.QUIZ_DATA = {
     "question": "Quá trình sản xuất tư bản là quá trình sản xuất EX",
     "options": [
       "A. Giá trị sử dụng",
-      "B. Giá trị thang du",
+      "B. Giá trị thặng dư",
       "C. Gia tri trao đổi"
     ],
     "answer": "B"
@@ -6511,7 +6511,7 @@ window.QUIZ_DATA = {
     "options": [
       "A. Kéo dài thời gian lao động thặng dư khi thời gian lao động tất yếu, năng suất lao động và giá trị sức lao ộng không đối",
       "B. Kéo dài thời gian lao động tất yếu khi thời gian lao động thặng dư, năng suất lao động và giá trị sức lao ồng khong đối",
-      "C. Rút ngắn thời gian lao động thang dư khi thời gian lao động tất yếu, năng suất lao động và giá trị sức lao ộng không đổi",
+      "C. Rút ngắn thời gian lao động thặng dư khi thời gian lao động tất yếu, năng suất lao động và giá trị sức lao ộng không đổi",
       "D. Rút ngắn thời gian lao động tất yếu khi thời gian lao động thặng dư, năng suất lao động và giá trị sức lao ộng không đổi"
     ],
     "answer": "A"
@@ -6522,8 +6522,8 @@ window.QUIZ_DATA = {
     "options": [
       "A. Tỷ suất giá trị thặng dư, tốc độ chu chuyển tư bản, cấu tạo hữu cơ của tư bản, tiết kiệm tư bản bất biến",
       "B. Tỷ suất lợi tức, tốc độc chu chuyển tư bản, cấu tạo hữu cơ của tư bản, tiết kiệm tư bản bất biến",
-      "C. Khối lượng giá trị thặng du, tỷ suất giá trị thặng dư, cấu tạo hữu cơ của tu bản, tiết kiệm tư bản bất biến",
-      "D. Khối lượng giá trị thặng du, tỷ suất lợi tức, tỷ suất giá trị thặng dư, tốc độ chu chuyển của tư bản"
+      "C. Khối lượng giá trị thặng dư, tỷ suất giá trị thặng dư, cấu tạo hữu cơ của tu bản, tiết kiệm tư bản bất biến",
+      "D. Khối lượng giá trị thặng dư, tỷ suất lợi tức, tỷ suất giá trị thặng dư, tốc độ chu chuyển của tư bản"
     ],
     "answer": "A"
   },
@@ -7722,7 +7722,7 @@ window.QUIZ_DATA = {
     "question": "Bóc lột giá trị thặng dư tương đối là hình thức:",
     "options": [
       "A. Tăng thời gian ngày lao động",
-      "B. Rút ngắn thời gian lao động cần thiết và thời gian lao động thang dư",
+      "B. Rút ngắn thời gian lao động cần thiết và thời gian lao động thặng dư",
       "C. Rút ngắn thời gian lao động tất yếu",
       "D. Tăng thời gian lao động tất yếu"
     ],
@@ -7752,7 +7752,7 @@ window.QUIZ_DATA = {
   },
   {
     "id": 637,
-    "question": "Để làm rõ vai trò của các bộ phận tư bản trong việc tạo ra giá trị thang dư, tư bản được chia thành các bộ Wc - nào?",
+    "question": "Để làm rõ vai trò của các bộ phận tư bản trong việc tạo ra giá trị thặng dư, tư bản được chia thành các bộ Wc - nào?",
     "options": [
       "Tư bản độc quyền và tư bản nhà nước",
       "Tư bản bất biến và tư bản khả biến",
@@ -7766,7 +7766,7 @@ window.QUIZ_DATA = {
     "question": "Quan hệ cung cầu thuộc khâu nào của quá trình tái sản xuất xã hội?",
     "options": [
       "Sản xuất và tiêu dùng",
-      "B. Phan phối và trao đổi",
+      "B. Phân phối và trao đổi",
       "C. Tiêu dùng",
       "D. Tịch lũy tư bản"
     ],
@@ -7808,9 +7808,9 @@ window.QUIZ_DATA = {
     "id": 642,
     "question": "Ngày lao động của công nhân bao gồm những thành phần nào? a",
     "options": [
-      "A. Thời gian lao động giản đơn, thời gian lao động thang dư",
-      "B. Thời gian lao động phức tạp, thời gian lao động thang dư",
-      "C. Thời gian lao động cần thiết, thời gian lao động thang dư",
+      "A. Thời gian lao động giản đơn, thời gian lao động thặng dư",
+      "B. Thời gian lao động phức tạp, thời gian lao động thặng dư",
+      "C. Thời gian lao động cần thiết, thời gian lao động thặng dư",
       "D. thời gian lao động siêu ngạch và thời gian lao động tối thiểu"
     ],
     "answer": "C"
@@ -8258,7 +8258,7 @@ window.QUIZ_DATA = {
     "question": "Xuất khẩu tư bản là gì? KW",
     "options": [
       "A. Đặc điểm của chủ nghĩa tư bản tự do cạnh tranh",
-      "B. Mang tư bản đầu tư ở nước ngoài để sản xuất giá trị thang dư tại nước ngoài sở tại",
+      "B. Mang tư bản đầu tư ở nước ngoài để sản xuất giá trị thặng dư tại nước ngoài sở tại",
       "C. Mang hàng hóa ra nước ngoài để thực hiện giá trị của hàng hóa",
       "D. Mang tư bản ra nước ngoài mua nguyên nhiên vật liệu sản xuất"
     ],
@@ -8337,7 +8337,7 @@ window.QUIZ_DATA = {
       "A. Giá cả của hang hóa",
       "B. Giá trị của hảng hóa",
       "C. Gia trị sử dụng của hang hóa",
-      "D. Gia trị thang dư của hàng hóa"
+      "D. Gia trị thặng dư của hàng hóa"
     ],
     "answer": "A"
   },
@@ -8446,7 +8446,7 @@ window.QUIZ_DATA = {
       "A. Giá cả sản xuất",
       "B. Giá trị thị trường",
       "C. Giá cả hàng hóa",
-      "D. Giá trị thang dư"
+      "D. Giá trị thặng dư"
     ],
     "answer": "B"
   },
